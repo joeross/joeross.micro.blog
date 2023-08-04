@@ -7,10 +7,37 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2023/08/04/author-and-actor.html",
+				
+				"content_html": "<p>Author and actor Miranda Keeling posted this <a href=\"https://mastodon.social/@Mirandakeeling/110807760527453143\">on Mastodon</a>, where she frequently posts interesting fragments of conversation she overhears in everyday life:</p>\n<blockquote>\n<p>Woman in a supermarket: Fake it til you can’t be bothered anymore, and then just be yourself.</p>\n</blockquote>\n<p>This has been one of my core experiences of aging. A lot of faking/masking/figuring stuff out for the first 30 years, then the last ten years steadily moving toward where I am now: how could I possibly be bothered to be anything but myself?</p>\n<p><em>I originally <a href=\"https://mastodon.social/@joeross/110807983371811693\">posted this</a> to my Mastodon account.</em></p>\n",
+				"content_text": "Author and actor Miranda Keeling posted this [on Mastodon](https://mastodon.social/@Mirandakeeling/110807760527453143), where she frequently posts interesting fragments of conversation she overhears in everyday life:\n\n> Woman in a supermarket: Fake it til you can’t be bothered anymore, and then just be yourself.\n\nThis has been one of my core experiences of aging. A lot of faking/masking/figuring stuff out for the first 30 years, then the last ten years steadily moving toward where I am now: how could I possibly be bothered to be anything but myself? \n\n_I originally [posted this](https://mastodon.social/@joeross/110807983371811693) to my Mastodon account._\n",
+				"date_published": "2023-08-04T09:35:18-04:00",
+				"url": "https://joeross.me/2023/08/04/author-and-actor.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2023/08/04/i-saw-the.html",
+				
+				"content_html": "<p>I saw <a href=\"http://toastermuseum.com/index.htm\">The Toaster Museum</a> linked to over at <a href=\"https://news.ycombinator.com/item?id=36992802\">Hacker News</a> and immediately thought of <a href=\"https://hypercritical.co/\">John Siracusa</a> (<a href=\"https://mastodon.social/@siracusa\">@siracusa</a>).</p>\n<p>Here&rsquo;s some <a href=\"https://www.caseyliss.com/2015/9/10/siracusa-on-toasters\">great context</a> for <em>why</em> I immediately thought of him, by his friend and <em><a href=\"http://atp.fm/\">Accidental Tech Podcast</a></em> (<a href=\"https://mastodon.social/@atpfm\">@atp.fm</a>) co-host <a href=\"https://www.caseyliss.com/\">Casey Liss</a> (<a href=\"https://mastodon.social/@caseyliss\">@caseyliss</a>).</p>\n",
+				"content_text": "I saw [The Toaster Museum](http://toastermuseum.com/index.htm) linked to over at [Hacker News](https://news.ycombinator.com/item?id=36992802) and immediately thought of [John Siracusa](https://hypercritical.co/) ([@siracusa](https://mastodon.social/@siracusa)). \r\n\r\nHere's some [great context](https://www.caseyliss.com/2015/9/10/siracusa-on-toasters) for _why_ I immediately thought of him, by his friend and _[Accidental Tech Podcast](http://atp.fm/)_ ([@atp.fm](https://mastodon.social/@atpfm)) co-host [Casey Liss](https://www.caseyliss.com/) ([@caseyliss](https://mastodon.social/@caseyliss)).\n",
+				"date_published": "2023-08-04T04:36:55-04:00",
+				"url": "https://joeross.me/2023/08/04/i-saw-the.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2023/07/31/associated-humane-societies.html",
+				
+				"content_html": "<p>Associated Humane Societies.</p>\n",
+				"content_text": "Associated Humane Societies. \n",
+				"date_published": "2023-07-31T13:47:59-04:00",
+				"url": "https://joeross.me/2023/07/31/associated-humane-societies.html",
+				"tags": ["Checkins"]
+			},
+			{
 				"id": "http://joeross.micro.blog/2023/07/30/i-have-some.html",
 				
-				"content_html": "<p>I have some more Bluesky invite codes.</p>\n<p>But I’m 40 and married, so I don’t just hand a code to the first internet user that smiles at me.</p>\n<p>Bluesky servers can use the invite tree in moderation decisions, so I do at least <em>some</em> vetting of folks before I send them a code. No hate/harassment/anti-vac etc.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I have some more Bluesky invite codes.\n\nBut I’m 40 and married, so I don’t just hand a code to the first internet user that smiles at me.\n\nBluesky servers can use the invite tree in moderation decisions, so I do at least _some_ vetting of folks before I send them a code. No hate/harassment/anti-vac etc.\n\n<img src=\"uploads/2023/3773937202.png\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<p>I have some more Bluesky invite codes.</p>\n<p>But I’m 40 and married, so I don’t just hand a code to the first internet user that smiles at me.</p>\n<p>Bluesky servers can use the invite tree in moderation decisions, so I do at least <em>some</em> vetting of folks before I send them a code. No hate/harassment/anti-vax etc.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I have some more Bluesky invite codes.\n\nBut I’m 40 and married, so I don’t just hand a code to the first internet user that smiles at me.\n\nBluesky servers can use the invite tree in moderation decisions, so I do at least _some_ vetting of folks before I send them a code. No hate/harassment/anti-vax etc.\n\n<img src=\"uploads/2023/3773937202.png\" width=\"600\" height=\"337\" alt=\"Text shot from Bluesky’s F.A.Q. about their policy on using invite code trees in moderatiom efforts: Question: How does the Bluesky server use the invite tree? Answer: We reference the invite tree to track behavior on the social graph. For example, if we take action to moderate an account, we may revoke invite codes from other accounts in the same invite tree.\">\n",
 				"date_published": "2023-07-30T09:28:17-04:00",
 				"url": "https://joeross.me/2023/07/30/i-have-some.html",
 				"tags": ["Notes"]
@@ -63,7 +90,7 @@
 				"id": "http://joeross.micro.blog/2023/07/15/i-need-mrs.html",
 				
 				"content_html": "<p>I need Mrs. Meyers to answer for the fact that her “Compassion Flower” handsoap scent has me routinely smelling like I think Axe body spray is a legitimate thing for a 40-year-old person to smell like.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I need Mrs. Meyers to answer for the fact that her “Compassion Flower” handsoap scent has me routinely smelling like I think Axe body spray is a legitimate thing for a 40-year-old person to smell like.\n\n<img src=\"https://joeross.me/uploads/2023/image.png\" width=\"192\" height=\"600\" alt=\"A photo of Mrs. Meyer’s Clean Day hand soap, Compassion Flower scent\">\n",
+				"content_text": "I need Mrs. Meyers to answer for the fact that her “Compassion Flower” handsoap scent has me routinely smelling like I think Axe body spray is a legitimate thing for a 40-year-old person to smell like.\n\n<img src=\"uploads/2023/image.png\" width=\"192\" height=\"600\" alt=\"A photo of Mrs. Meyer’s Clean Day hand soap, Compassion Flower scent\">\n",
 				"date_published": "2023-07-15T21:58:37-04:00",
 				"url": "https://joeross.me/2023/07/15/i-need-mrs.html",
 				"tags": ["Notes"]
@@ -126,7 +153,7 @@
 				"id": "http://joeross.micro.blog/2023/07/10/firefox-address-bar.html",
 				
 				"content_html": "<p><a href=\"https://wiki.tilde.institute/w/firefox-address-bar-tips\">Firefox address bar modifiers - the tilde.institute wiki</a>:</p>\n<blockquote>\n<p>The address bar has become our entry point to the internet these days. Firefox in its default configuration does some sort of smart guess on what you type there. If it resembles a URL then the browser makes that request. If not, it sends the string you typed to your default search engine. It also includes some fuzzy search matches from your history and all that, which is fine 90% of the time, but sometimes you need a bit more control over what results it shows you.</p>\n</blockquote>\n<blockquote>\n<!-- raw HTML omitted -->\n</blockquote>\n<p>I had no idea. These are super-useful.</p>\n<p><em>(via <a href=\"https://news.ycombinator.com/item?id=36666116\">Hacker News</a>)</em></p>\n",
-				"content_text": "[Firefox address bar modifiers - the tilde.institute wiki](https://wiki.tilde.institute/w/firefox-address-bar-tips):\n\n> The address bar has become our entry point to the internet these days. Firefox in its default configuration does some sort of smart guess on what you type there. If it resembles a URL then the browser makes that request. If not, it sends the string you typed to your default search engine. It also includes some fuzzy search matches from your history and all that, which is fine 90% of the time, but sometimes you need a bit more control over what results it shows you.\n\n> <img src=\"https://joeross.me/uploads/2023/firefox-screenshot-2023-07-10t16-41-22.359z.png\" width=\"600\" height=\"197\" alt=\"Screenshot of Firefox address bar modifiers\">\n\nI had no idea. These are super-useful.\n\n_(via [Hacker News](https://news.ycombinator.com/item?id=36666116))_\n",
+				"content_text": "[Firefox address bar modifiers - the tilde.institute wiki](https://wiki.tilde.institute/w/firefox-address-bar-tips):\n\n> The address bar has become our entry point to the internet these days. Firefox in its default configuration does some sort of smart guess on what you type there. If it resembles a URL then the browser makes that request. If not, it sends the string you typed to your default search engine. It also includes some fuzzy search matches from your history and all that, which is fine 90% of the time, but sometimes you need a bit more control over what results it shows you.\n\n> <img src=\"uploads/2023/firefox-screenshot-2023-07-10t16-41-22.359z.png\" width=\"600\" height=\"197\" alt=\"Screenshot of Firefox address bar modifiers\">\n\nI had no idea. These are super-useful.\n\n_(via [Hacker News](https://news.ycombinator.com/item?id=36666116))_\n",
 				"date_published": "2023-07-10T12:50:59-04:00",
 				"url": "https://joeross.me/2023/07/10/firefox-address-bar.html",
 				"tags": ["Links"]
@@ -171,7 +198,7 @@
 				"id": "http://joeross.micro.blog/2023/07/04/neil-gaiman-liked.html",
 				
 				"content_html": "<p><a href=\"https://bsky.app/profile/neilhimself.neilgaiman.com\">Neil Gaiman</a> liked a <a href=\"https://bsky.app/profile/joeross.me/post/3jzlzkpjcf52y\">post of mine</a> on Bluesky. It was actually a re-post of one of his own posts, and he’s famously interactive with folks on social media, so I’m not exactly special, but it’s fun to see!</p>\n<!-- raw HTML omitted -->\n<p>::: growling at my negative internal monologue monster :::</p>\n",
-				"content_text": "[Neil Gaiman](https://bsky.app/profile/neilhimself.neilgaiman.com) liked a [post of mine](https://bsky.app/profile/joeross.me/post/3jzlzkpjcf52y) on Bluesky. It was actually a re-post of one of his own posts, and he’s famously interactive with folks on social media, so I’m not exactly special, but it’s fun to see!\r\n\r\n<img src=\"https://joeross.me/uploads/2023/37ce3c9022.jpg\" width=\"600\" height=\"575\" alt=\"A screenshot of Neil Gaiman having liked a share of a Bluesky post he made.\">\r\n\r\n::: growling at my negative internal monologue monster :::\n",
+				"content_text": "[Neil Gaiman](https://bsky.app/profile/neilhimself.neilgaiman.com) liked a [post of mine](https://bsky.app/profile/joeross.me/post/3jzlzkpjcf52y) on Bluesky. It was actually a re-post of one of his own posts, and he’s famously interactive with folks on social media, so I’m not exactly special, but it’s fun to see!\r\n\r\n<img src=\"uploads/2023/37ce3c9022.jpg\" width=\"600\" height=\"575\" alt=\"A screenshot of Neil Gaiman having liked a share of a Bluesky post he made.\">\r\n\r\n::: growling at my negative internal monologue monster :::\n",
 				"date_published": "2023-07-04T09:19:31-04:00",
 				"url": "https://joeross.me/2023/07/04/neil-gaiman-liked.html",
 				"tags": ["Notes"]
@@ -207,7 +234,7 @@
 				"id": "http://joeross.micro.blog/2023/07/01/found-my-old.html",
 				
 				"content_html": "<p>📷 Found my old <em><a href=\"https://trakt.tv/shows/fringe\">Fringe</a></em> hoodie while putting some stuff away. It’s pretty beat up, but a great reminder that it was one hell of a good show.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Found my old _[Fringe](https://trakt.tv/shows/fringe)_ hoodie while putting some stuff away. It’s pretty beat up, but a great reminder that it was one hell of a good show.\n\n<img src=\"https://joeross.me/uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📷 Found my old _[Fringe](https://trakt.tv/shows/fringe)_ hoodie while putting some stuff away. It’s pretty beat up, but a great reminder that it was one hell of a good show.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-07-01T11:18:33-04:00",
 				"url": "https://joeross.me/2023/07/01/found-my-old.html",
 				"tags": ["Photos"]
@@ -243,7 +270,7 @@
 				"id": "http://joeross.micro.blog/2023/06/26/skybridge-is-a.html",
 				
 				"content_html": "<p><a href=\"https://skybridge.fly.dev/\">SkyBridge</a> is a server that connects <a href=\"https://joinmastodon.org\">Mastodon</a> to <a href=\"https://bsky.app/\">Bluesky</a>, enabling the use of some Mastodon-only apps with your Bluesky account. Today I noticed that, at least in <a href=\"https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274\">Ivory</a> for iOS, you can access Bluesky feeds via the Mastodon lists screen.</p>\n<p>(I still have some Bluesky invites if anyone&rsquo;s interested…)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[SkyBridge](https://skybridge.fly.dev/) is a server that connects [Mastodon](https://joinmastodon.org) to [Bluesky](https://bsky.app/), enabling the use of some Mastodon-only apps with your Bluesky account. Today I noticed that, at least in [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) for iOS, you can access Bluesky feeds via the Mastodon lists screen.\r\n\r\n(I still have some Bluesky invites if anyone's interested…)\n\n<img src=\"https://joeross.me/uploads/2023/46157c91f6.png\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"content_text": "[SkyBridge](https://skybridge.fly.dev/) is a server that connects [Mastodon](https://joinmastodon.org) to [Bluesky](https://bsky.app/), enabling the use of some Mastodon-only apps with your Bluesky account. Today I noticed that, at least in [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) for iOS, you can access Bluesky feeds via the Mastodon lists screen.\r\n\r\n(I still have some Bluesky invites if anyone's interested…)\n\n<img src=\"uploads/2023/46157c91f6.png\" width=\"276\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-26T12:12:15-04:00",
 				"url": "https://joeross.me/2023/06/26/skybridge-is-a.html",
 				"tags": ["Notes"]
@@ -306,7 +333,7 @@
 				"id": "http://joeross.micro.blog/2023/06/08/i-took-this.html",
 				
 				"content_html": "<p>I took this photo tonight while leaving work at 18th and Market Streets in Philly. It doesn’t really show how thick the air was, and it’s only slightly better at home in Princeton. Be safe everyone.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I took this photo tonight while leaving work at 18th and Market Streets in Philly. It doesn’t really show how thick the air was, and it’s only slightly better at home in Princeton. Be safe everyone. \n\n<img src=\"https://joeross.me/uploads/2023/b71d4649b1.jpg\" width=\"450\" height=\"600\" alt=\"A photo taken with an iPhone 14 Pro of Market Street in Philly, a dense haze hanging over the city as a result of Canadian wildfires. \">\n",
+				"content_text": "I took this photo tonight while leaving work at 18th and Market Streets in Philly. It doesn’t really show how thick the air was, and it’s only slightly better at home in Princeton. Be safe everyone. \n\n<img src=\"uploads/2023/b71d4649b1.jpg\" width=\"450\" height=\"600\" alt=\"A photo taken with an iPhone 14 Pro of Market Street in Philly, a dense haze hanging over the city as a result of Canadian wildfires. \">\n",
 				"date_published": "2023-06-08T01:19:04-04:00",
 				"url": "https://joeross.me/2023/06/08/i-took-this.html",
 				"tags": ["Photos"]
@@ -315,7 +342,7 @@
 				"id": "http://joeross.micro.blog/2023/06/07/jeri-ryan-the.html",
 				
 				"content_html": "<p>Jeri Ryan, the actor who plays Seven of Nine on various <em>Stars Trek</em>, favorited a post of mine on Mastodon today.</p>\n<p>That’s it.</p>\n<p>That’s the whole blog post.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Jeri Ryan, the actor who plays Seven of Nine on various _Stars Trek_, favorited a post of mine on Mastodon today. \r\n\r\nThat’s it. \r\n\r\nThat’s the whole blog post. \r\n\n\n<img src=\"https://joeross.me/uploads/2023/506a84bfe2.jpeg\" width=\"600\" height=\"494\" alt=\"A screenshot from Mastodon for iOS, showing that Jeri Ryan favorites a quote post I made of her praising my favorite third-party Mastodon app, Ivory for iOS by Tapbots.\">\n",
+				"content_text": "Jeri Ryan, the actor who plays Seven of Nine on various _Stars Trek_, favorited a post of mine on Mastodon today. \r\n\r\nThat’s it. \r\n\r\nThat’s the whole blog post. \r\n\n\n<img src=\"uploads/2023/506a84bfe2.jpeg\" width=\"600\" height=\"494\" alt=\"A screenshot from Mastodon for iOS, showing that Jeri Ryan favorites a quote post I made of her praising my favorite third-party Mastodon app, Ivory for iOS by Tapbots.\">\n",
 				"date_published": "2023-06-07T22:35:45-04:00",
 				"url": "https://joeross.me/2023/06/07/jeri-ryan-the.html",
 				"tags": ["Notes"]
@@ -459,7 +486,7 @@
 				"id": "http://joeross.micro.blog/2023/05/15/camp-taylor-checked.html",
 				
 				"content_html": "<p>Camp Taylor. Checked in at Camp Taylor. A campfire in the daylight. (@ Camp Taylor Campground, NJ, USA)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Camp Taylor. Checked in at Camp Taylor. A campfire in the daylight. (@ Camp Taylor Campground, NJ, USA)\r\n\r\n<img src=\"https://joeross.me/uploads/2023/274ec9b1aa.jpg\" width=\"600\" height=\"450\" alt=\"A campfire in the daylight at Camp Taylor, New Jersey\" />\n",
+				"content_text": "Camp Taylor. Checked in at Camp Taylor. A campfire in the daylight. (@ Camp Taylor Campground, NJ, USA)\r\n\r\n<img src=\"uploads/2023/274ec9b1aa.jpg\" width=\"600\" height=\"450\" alt=\"A campfire in the daylight at Camp Taylor, New Jersey\" />\n",
 				"date_published": "2023-05-15T18:02:17-04:00",
 				"url": "https://joeross.me/2023/05/15/camp-taylor-checked.html",
 				"tags": ["Photos"]
@@ -486,7 +513,7 @@
 				"id": "http://joeross.micro.blog/2023/05/14/checked-in-at.html",
 				
 				"content_html": "<p>Checked in at Camp Taylor. Another night, another shot of the sky through the trees (@ Camp Taylor Campground, NJ, USA)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Checked in at Camp Taylor. Another night, another shot of the sky through the trees (@ Camp Taylor Campground, NJ, USA)\n\n<img src=\"https://joeross.me/uploads/2023/bd7395c531.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Checked in at Camp Taylor. Another night, another shot of the sky through the trees (@ Camp Taylor Campground, NJ, USA)\n\n<img src=\"uploads/2023/bd7395c531.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-14T03:01:00-04:00",
 				"url": "https://joeross.me/2023/05/14/checked-in-at.html",
 				"tags": ["Checkins","Photos"]
@@ -513,7 +540,7 @@
 				"id": "http://joeross.micro.blog/2023/05/13/the-sky-through.html",
 				
 				"content_html": "<p>The sky through the trees (@ Camp Taylor Campground, NJ, USA)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The sky through the trees (@ Camp Taylor Campground, NJ, USA)\n\n<img src=\"https://joeross.me/uploads/2023/3b39dd2476.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The sky through the trees (@ Camp Taylor Campground, NJ, USA)\n\n<img src=\"uploads/2023/3b39dd2476.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-13T18:29:35-04:00",
 				"url": "https://joeross.me/2023/05/13/the-sky-through.html",
 				"tags": ["Photos"]
@@ -522,7 +549,7 @@
 				"id": "http://joeross.micro.blog/2023/05/10/neil-gaiman-announced.html",
 				
 				"content_html": "<p>Neil Gaiman <a href=\"https://bsky.app/profile/neilhimself.bsky.social/post/3jvfeemvory2m\">announced season 2 of Good Omens</a> on Bluesky today. I enjoyed <a href=\"https://en.wikipedia.org/wiki/Good_Omens_(TV_series)\">season 1</a> which, though it had its faults, was a really pleasant display of the chemistry between its leads, David Tenant as the demon Crowley and Michael Sheen as the angel Aziraphale.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Neil Gaiman [announced season 2 of Good Omens](https://bsky.app/profile/neilhimself.bsky.social/post/3jvfeemvory2m) on Bluesky today. I enjoyed [season 1](https://en.wikipedia.org/wiki/Good_Omens_(TV_series)) which, though it had its faults, was a really pleasant display of the chemistry between its leads, David Tenant as the demon Crowley and Michael Sheen as the angel Aziraphale. \n\n<img src=\"https://joeross.me/uploads/2023/a405149b29.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Neil Gaiman [announced season 2 of Good Omens](https://bsky.app/profile/neilhimself.bsky.social/post/3jvfeemvory2m) on Bluesky today. I enjoyed [season 1](https://en.wikipedia.org/wiki/Good_Omens_(TV_series)) which, though it had its faults, was a really pleasant display of the chemistry between its leads, David Tenant as the demon Crowley and Michael Sheen as the angel Aziraphale. \n\n<img src=\"uploads/2023/a405149b29.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-10T14:30:46-04:00",
 				"url": "https://joeross.me/2023/05/10/neil-gaiman-announced.html",
 				"tags": ["Notes","Photos"]
@@ -567,7 +594,7 @@
 				"id": "http://joeross.micro.blog/2023/04/29/as-i-said.html",
 				
 				"content_html": "<p>As I said on Bluesky itself: This is… not a good idea at all…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "As I said on Bluesky itself: This is… not a good idea at all…\n\n<img src=\"https://joeross.me/uploads/2023/357758c6af.jpg\" width=\"560\" height=\"600\" alt=\"\">\n",
+				"content_text": "As I said on Bluesky itself: This is… not a good idea at all…\n\n<img src=\"uploads/2023/357758c6af.jpg\" width=\"560\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-29T11:44:23-04:00",
 				"url": "https://joeross.me/2023/04/29/as-i-said.html",
 				"tags": ["Photos"]
@@ -576,7 +603,7 @@
 				"id": "http://joeross.micro.blog/2023/04/28/listening-to-its.html",
 				"title": "🎧 \"It’s a Pleasure to Meet You\" by Motion City Soundtrack",
 				"content_html": "<!-- raw HTML omitted -->\n<blockquote>\n<p>You are not alone\nWe&rsquo;ve all had our battles with darkness and shadows\nI&rsquo;m here to let you know\nIt&rsquo;s a pleasure to meet you\nToday is all we have\nSo try for a moment to break from the torment\nAnd sing this to yourself\nIt&rsquo;s a pleasure to meet you</p>\n</blockquote>\n<p>(<a href=\"https://songwhip.com/motion-city-soundtrack/days-will-run-away\">find it where you listen</a>)</p>\n",
-				"content_text": "<img src=\"https://joeross.me/uploads/2023/569598748e.jpg\" width=\"300\" height=\"300\" alt=\"The cover art for the 2015 Motion City Soundtrack album Panic Stations\">\n\n> You are not alone\n> We've all had our battles with darkness and shadows\n> I'm here to let you know\n> It's a pleasure to meet you\n> Today is all we have\n> So try for a moment to break from the torment\n> And sing this to yourself\n> It's a pleasure to meet you\n\n([find it where you listen](https://songwhip.com/motion-city-soundtrack/days-will-run-away))\n",
+				"content_text": "<img src=\"uploads/2023/569598748e.jpg\" width=\"300\" height=\"300\" alt=\"The cover art for the 2015 Motion City Soundtrack album Panic Stations\">\n\n> You are not alone\n> We've all had our battles with darkness and shadows\n> I'm here to let you know\n> It's a pleasure to meet you\n> Today is all we have\n> So try for a moment to break from the torment\n> And sing this to yourself\n> It's a pleasure to meet you\n\n([find it where you listen](https://songwhip.com/motion-city-soundtrack/days-will-run-away))\n",
 				"date_published": "2023-04-28T05:26:34-04:00",
 				"url": "https://joeross.me/2023/04/28/listening-to-its.html",
 				"tags": ["Listened"]
@@ -603,7 +630,7 @@
 				"id": "http://joeross.micro.blog/2023/01/16/054658.html",
 				"title": "App recommendation: Workflowy",
 				"content_html": "<!-- raw HTML omitted -->\n<p>Workflowy is easily one of my favorite #productivity apps. I’ve been using it for years for work and personal stuff and it fits my brain.</p>\n<p>It’s great for work as a place to keep, for example, a list of causes of action, together with their elements and defenses. It’s also where I keep the cases I most commonly cite, with links to periodically make sure they’re still good law. Personal uses for Workflowy include everything from shopping lists to draft blog posts and to-watch/to-read lists.</p>\n<p>There are many similar tools but everything else seems too bloated or complex or targeted at project managers. I don’t want to be a project manager — I just want to manage projects. Or organize. Or list. Or write.</p>\n<p>Somehow, despite being a daily user, I missed the addition of optional paragraph functionality. This makes the process of going from idea to outline to draft even easier.</p>\n<p>One thing you learn using Microsoft Word for most things at work is that you never, ever draft directly in Word. The same goes for using the web interface of your preferred blogging tool. These things crash. Plenty of people use Google Docs for drafting stuff, but even that seems too bloated for me these days.</p>\n<p>I’m a lawyer, so there’s a level of factual detail that does eventually require me to go “offline” and finish my work in Word, to preserve confidentiality and attorney-client privilege and other ethical obligations.</p>\n<p>But Workflowy has never crashed on me, in the browser or in the app itself, and having a safe starting point to develop stuff in is great.</p>\n<p><a href=\"https://blog.workflowy.com/paperback-writer-paragraphs-and-headers-now-available/\">Paperback writer – Paragraphs and headers now available</a></p>\n<p>(Image via Workflowy)</p>\n",
-				"content_text": "<img src=\"https://joeross.me/uploads/2023/5c887555ac.jpg\" width=\"600\" height=\"337\" alt=\"Image via Workflowy\">\n\nWorkflowy is easily one of my favorite #productivity apps. I’ve been using it for years for work and personal stuff and it fits my brain.\n\nIt’s great for work as a place to keep, for example, a list of causes of action, together with their elements and defenses. It’s also where I keep the cases I most commonly cite, with links to periodically make sure they’re still good law. Personal uses for Workflowy include everything from shopping lists to draft blog posts and to-watch/to-read lists. \n\nThere are many similar tools but everything else seems too bloated or complex or targeted at project managers. I don’t want to be a project manager — I just want to manage projects. Or organize. Or list. Or write. \n\nSomehow, despite being a daily user, I missed the addition of optional paragraph functionality. This makes the process of going from idea to outline to draft even easier. \n\nOne thing you learn using Microsoft Word for most things at work is that you never, ever draft directly in Word. The same goes for using the web interface of your preferred blogging tool. These things crash. Plenty of people use Google Docs for drafting stuff, but even that seems too bloated for me these days.\n\nI’m a lawyer, so there’s a level of factual detail that does eventually require me to go “offline” and finish my work in Word, to preserve confidentiality and attorney-client privilege and other ethical obligations.\n\nBut Workflowy has never crashed on me, in the browser or in the app itself, and having a safe starting point to develop stuff in is great. \n\n[Paperback writer – Paragraphs and headers now available](https://blog.workflowy.com/paperback-writer-paragraphs-and-headers-now-available/)\n\n(Image via Workflowy)\n",
+				"content_text": "<img src=\"uploads/2023/5c887555ac.jpg\" width=\"600\" height=\"337\" alt=\"Image via Workflowy\">\n\nWorkflowy is easily one of my favorite #productivity apps. I’ve been using it for years for work and personal stuff and it fits my brain.\n\nIt’s great for work as a place to keep, for example, a list of causes of action, together with their elements and defenses. It’s also where I keep the cases I most commonly cite, with links to periodically make sure they’re still good law. Personal uses for Workflowy include everything from shopping lists to draft blog posts and to-watch/to-read lists. \n\nThere are many similar tools but everything else seems too bloated or complex or targeted at project managers. I don’t want to be a project manager — I just want to manage projects. Or organize. Or list. Or write. \n\nSomehow, despite being a daily user, I missed the addition of optional paragraph functionality. This makes the process of going from idea to outline to draft even easier. \n\nOne thing you learn using Microsoft Word for most things at work is that you never, ever draft directly in Word. The same goes for using the web interface of your preferred blogging tool. These things crash. Plenty of people use Google Docs for drafting stuff, but even that seems too bloated for me these days.\n\nI’m a lawyer, so there’s a level of factual detail that does eventually require me to go “offline” and finish my work in Word, to preserve confidentiality and attorney-client privilege and other ethical obligations.\n\nBut Workflowy has never crashed on me, in the browser or in the app itself, and having a safe starting point to develop stuff in is great. \n\n[Paperback writer – Paragraphs and headers now available](https://blog.workflowy.com/paperback-writer-paragraphs-and-headers-now-available/)\n\n(Image via Workflowy)\n",
 				"date_published": "2023-01-16T06:46:58-04:00",
 				"url": "https://joeross.me/2023/01/16/054658.html",
 				"tags": ["Essays"]
