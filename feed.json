@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2023/08/26/so-im-going.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>⚠️ So I’m going to do a real blog post about this when I find the time, but today I discovered that my router’s admin panel is accessible via a combination of selecting the right IP and appending a string of numbers to the name of the HTML page that contains the admin panel. The string is the same across a nonzero number of individual routers, some of which can be located with the right Google search…</p>\n<h1>security #networking #routers</h1>\n",
+				"date_published": "2023-08-26T08:03:40-04:00",
+				"url": "https://joeross.me/2023/08/26/so-im-going.html"
+			},
+			{
+				"id": "http://joeross.micro.blog/2023/08/24/julia-glassman-writing.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🐎 Julia Glassman, writing at <em><a href=\"https://www.themarysue.com/bluey-is-getting-experimental-and-kids-are-keeping-up/\">The Mary Sue</a></em> (with major #spoilers for the newest batch of episodes):</p>\n<blockquote>\n<p><em>What makes this show so great is that it isn’t afraid to employ writing that’s savvy enough for adults to enjoy. Bluey navigates real conflicts, while her parents—the delightfully flawed Bandit and Chilli—work through believable, thoughtful issues of their own. This isn’t your average children’s show.</em></p>\n</blockquote>\n<blockquote>\n<p><em> And now, with ten new episodes having dropped on Disney+ earlier this summer (they came out in Australia a whole year ago), the show is getting positively meta.</em></p>\n</blockquote>\n<p>I dare even people <em>without kids</em> to watch a few random episodes of Bluey without learning something they wish they learned decades ago.</p>\n",
+				"date_published": "2023-08-24T15:25:34-04:00",
+				"url": "https://joeross.me/2023/08/24/julia-glassman-writing.html"
+			},
+			{
 				"id": "http://joeross.micro.blog/2023/08/20/sherlock-holmes-giving.html",
 				
-				"content_html": "<p>Sherlock Holmes giving serious <a href=\"https://nardwuar.com/\">Nardwuar</a> vibes in <em><a href=\"https://micro.blog/books/9780008182229\">The Adventures of Sherlock Holmes</a></em> by Sir Arthur Conan Doyle📚:</p>\n<blockquote>\n<p>My name is Sherlock Holmes. It is my business to know what other people don’t know.</p>\n</blockquote>\n<p>This particular quote, for nerds who know, is from adventure number seven, <em>[The Adventure of the Blue Carbuncle](<a href=\"https://micro.blog/books/9781502762900\">micro.blog/books/978&hellip;</a></em></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sherlock Holmes giving serious [Nardwuar](https://nardwuar.com/) vibes in _[The Adventures of Sherlock Holmes](https://micro.blog/books/9780008182229)_ by Sir Arthur Conan Doyle📚:\n\n> My name is Sherlock Holmes. It is my business to know what other people don’t know.\n\nThis particular quote, for nerds who know, is from adventure number seven, _[The Adventure of the Blue Carbuncle]([micro.blog/books/978...](https://micro.blog/books/9781502762900)_\n\n<img src=\"uploads/2023/97162e57ec.png\" width=\"600\" height=\"336\" alt=\"A quote shot of Sherlock Holmes, from Sir Arthur Conan Doyle's The Adventures of Sherlock Holmes: &quot;My name is Sherlock Holmes. It is my business to know what other people don’t know.&quot;&10;\">\n",
+				"content_html": "<p>Sherlock Holmes giving serious <a href=\"https://nardwuar.com/\">Nardwuar</a> vibes in <em><a href=\"https://micro.blog/books/9780008182229\">The Adventures of Sherlock Holmes</a></em> by Sir Arthur Conan Doyle📚:</p>\n<blockquote>\n<p>My name is Sherlock Holmes. It is my business to know what other people don’t know.</p>\n</blockquote>\n<p>This particular quote, for nerds who know, is from adventure number seven, <em><a href=\"https://micro.blog/books/9781502762900\">The Adventure of the Blue Carbuncle</a></em>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sherlock Holmes giving serious [Nardwuar](https://nardwuar.com/) vibes in _[The Adventures of Sherlock Holmes](https://micro.blog/books/9780008182229)_ by Sir Arthur Conan Doyle📚:\n\n> My name is Sherlock Holmes. It is my business to know what other people don’t know.\n\nThis particular quote, for nerds who know, is from adventure number seven, _[The Adventure of the Blue Carbuncle](https://micro.blog/books/9781502762900)_.\n\n<img src=\"uploads/2023/97162e57ec.png\" width=\"600\" height=\"336\" alt=\"A quote shot of Sherlock Holmes, from Sir Arthur Conan Doyle's The Adventures of Sherlock Holmes: My name is Sherlock Holmes. It is my business to know what other people don’t know.\">\n",
 				"date_published": "2023-08-20T15:47:08-04:00",
 				"url": "https://joeross.me/2023/08/20/sherlock-holmes-giving.html",
 				"tags": ["Notes","Books"]
