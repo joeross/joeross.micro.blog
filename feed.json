@@ -7,12 +7,29 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2023/09/02/ive-played-an.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🎸 I’ve played an acoustic guitar for and with my two kids since my oldest was born a few years ago, but today I plugged an old electric of mine into an amp for the first time in maybe ten years and the kids loved it, and it reminded me that there’s music-making at the core of me.</p>\n",
+				"date_published": "2023-09-02T10:56:43-04:00",
+				"url": "https://joeross.me/2023/09/02/ive-played-an.html"
+			},
+			{
+				"id": "http://joeross.micro.blog/2023/08/31/its-not-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🤢 It's not a great headshot. I look so... unfamiliar with the \"Smile!\" command. And thanks to a moment of poor judgment, and <a href=\"https://en.gravatar.com/joeross1\">Gravatar</a>, it'll be all over the internet until I decide to change it again. Which will likely be soon... </p>\n<p>(Yes, I know it's not attached. That was intentional...)</p>\n",
+				"date_published": "2023-08-31T01:46:30-04:00",
+				"url": "https://joeross.me/2023/08/31/its-not-a.html"
+			},
+			{
 				"id": "http://joeross.micro.blog/2023/08/26/so-im-going.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>⚠️ So I’m going to do a real blog post about this when I find the time, but today I discovered that my router’s admin panel is accessible via a combination of selecting the right IP and appending a string of numbers to the name of the HTML page that contains the admin panel. The string is the same across a nonzero number of individual routers, some of which can be located with the right Google search…</p>\n<h1>security #networking #routers</h1>\n",
+				"content_text": "<p>⚠️ So I’m going to do a real blog post about this when I find the time, but today I discovered that my router’s admin panel is accessible via a combination of selecting the right IP and appending a string of numbers to the name of the HTML page that contains the admin panel. The string is the same across a nonzero number of individual routers, some of which can be located with the right Google search…</p>\n",
 				"date_published": "2023-08-26T08:03:40-04:00",
-				"url": "https://joeross.me/2023/08/26/so-im-going.html"
+				"url": "https://joeross.me/2023/08/26/so-im-going.html",
+				"tags": ["Notes"]
 			},
 			{
 				"id": "http://joeross.micro.blog/2023/08/24/julia-glassman-writing.html",
