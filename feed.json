@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2023/09/16/audio-recordings-are.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>⌚ Audio recordings are an overlooked way of keeping memories with your kids. Mine are both under 4 and, while pointing a phone camera at them often changes their behavior, a surreptitious audio recording is easy to do. I've got some great stuff that I'm almost certain an attempt at photos or video would've prevented. Aside from sleep tracking, this is the most common way I used my Apple Watch.</p>\n",
+				"date_published": "2023-09-16T08:32:49-04:00",
+				"url": "https://joeross.me/2023/09/16/audio-recordings-are.html"
+			},
+			{
+				"id": "http://joeross.micro.blog/2023/09/04/okay-maybe-im.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>⚖️ Okay maybe I'm just a hopelessly biased defense lawyer but can anyone <a href=\"https://www.freep.com/story/news/local/michigan/macomb/2023/08/29/warren-olive-garden-rat-foot/70702454007/\">read this</a> and tell me with a straight face that the plaintiff didn't set this up...</p>\n",
+				"date_published": "2023-09-04T18:01:54-04:00",
+				"url": "https://joeross.me/2023/09/04/okay-maybe-im.html"
+			},
+			{
+				"id": "http://joeross.micro.blog/2023/09/04/im-curious-has.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>⁉️ I’m curious: has anyone else recently seen excessive outgoing #DNS  requests on their network from #Wyze cameras? This was a known issue a while ago but I <em>thought</em> they had fixed it.</p>\n<p>I've noticed unusual spikes in the past 60 days or so, and when I blocked Wyze and its related domains using NextDNS, logs showed they accounted for more than 40 percent of DNS requests from my network (‼️).</p>\n",
+				"date_published": "2023-09-04T06:56:38-04:00",
+				"url": "https://joeross.me/2023/09/04/im-curious-has.html"
+			},
+			{
 				"id": "http://joeross.micro.blog/2023/09/02/ive-played-an.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
