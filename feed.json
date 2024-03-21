@@ -7,11 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2024/03/21/scholarfy-google-scholar.html",
+				"title": "Scholarfy | Google Scholar bookmarklet by Johan Ugander",
+				"content_html": "<p>This is a useful bookmarklet to move a standard Google search to Google Scholar. I use it with modified version I made with ChatGPT to search an exact phrase, for use in searching for legal opinions.</p>\n<p>Here&rsquo;s &ldquo;my&rdquo; code:</p>\n<blockquote>\n<p>javascript:location = &lsquo;<a href=\"http://scholar.google.com/scholar?q=\">scholar.google.com/scholar</a>&quot;&rsquo; escape(document.forms[0].elements[&lsquo;q&rsquo;].value) &lsquo;&quot;';</p>\n</blockquote>\n",
+				"content_text": "This is a useful bookmarklet to move a standard Google search to Google Scholar. I use it with modified version I made with ChatGPT to search an exact phrase, for use in searching for legal opinions.\r\n\r\nHere's \"my\" code:\r\n\r\n> javascript:location = '[scholar.google.com/scholar](http://scholar.google.com/scholar?q=)\"' escape(document.forms[0].elements['q'].value) '\"';\n",
+				"date_published": "2024-03-21T14:15:12-04:00",
+				"url": "https://joeross.me/2024/03/21/scholarfy-google-scholar.html"
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/03/14/bit-cafe.html",
+				"title": "🔗 32-Bit Cafe",
+				"content_html": "<blockquote>\n<p>The best part about the 32-Bit Cafe is that we&rsquo;re trying to move the internet forward productively in the ways we can make an impact, participating in the creation of web services, websites, and weird, wacky web projects. We want to bring back the idea of personal websites to the many of us who have been stuck in social media cycles since the emergence of Web 2.0. Not to mention, we&rsquo;re not just helping people build their first websites; we&rsquo;re also making our own hosted services for anyone to use and participate in to help with decentralizing hosted services.</p>\n</blockquote>\n<p>This is exactly the kind of thing I love to see.</p>\n",
+				"content_text": "> The best part about the 32-Bit Cafe is that we're trying to move the internet forward productively in the ways we can make an impact, participating in the creation of web services, websites, and weird, wacky web projects. We want to bring back the idea of personal websites to the many of us who have been stuck in social media cycles since the emergence of Web 2.0. Not to mention, we're not just helping people build their first websites; we're also making our own hosted services for anyone to use and participate in to help with decentralizing hosted services.\r\n\r\nThis is exactly the kind of thing I love to see.\n",
+				"date_published": "2024-03-14T15:34:36-04:00",
+				"url": "https://joeross.me/2024/03/14/bit-cafe.html",
+				"tags": ["Links"]
+			},
+			{
 				"id": "http://joeross.micro.blog/2024/03/12/the-hobbit-the.html",
 				"title": "The Hobbit: The Desolation of Smaug, 2013",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/e0/ek/na/yb/gQCiuxGsfiXH1su6lp9n0nd0UeH-0-600-0-900-crop.jpg?v=00310e521d\"/></p> <p>Watched on Tuesday March 12, 2024.</p>\n",
-				"date_published": "2024-03-12T18:41:13-05:00",
+				"date_published": "2024-03-12T19:41:13-04:00",
 				"url": "https://joeross.me/2024/03/12/the-hobbit-the.html"
 			},
 			{
@@ -19,7 +36,7 @@
 				"title": "The Hobbit: An Unexpected Journey, 2012",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/s7/p6/sy/6v/mfSAahVkAIYFkx1GVFSlCEdn0mt-0-600-0-900-crop.jpg?v=282e4f2260\"/></p> <p>Watched on Friday March 8, 2024.</p>\n",
-				"date_published": "2024-03-12T18:40:28-05:00",
+				"date_published": "2024-03-12T19:40:28-04:00",
 				"url": "https://joeross.me/2024/03/12/the-hobbit-an.html"
 			},
 			{
@@ -27,7 +44,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>⚖️ It is an uncharacteristic misstep, in terms of both litigation strategy and public relations, for Apple to poke the EU bear by <a href=\"https://www.epicgames.com/site/en-US/nexws/apple-terminated-epic-s-developer-account\">terminating  Epic’s developer account</a>. Whether Apple is right about Epic's intentions is irrelevant. This move looks petty and, worse, calculated to avoid exactly the kind of competition from exactly the kind of competitor the Digital Markets Act intends to encourage.</p>\n",
-				"date_published": "2024-03-06T16:37:42-05:00",
+				"date_published": "2024-03-06T17:37:42-04:00",
 				"url": "https://joeross.me/2024/03/06/it-is-an.html"
 			},
 			{
@@ -35,15 +52,15 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>😔 Yahoo is <a href=\"https://www.theverge.com/2024/2/22/24080215/engadget-layoffs-tech-news-blogs-editorial-restructuring\">accelerating its enshittification of Engadget</a>, in a move that really surprises absolutely no one because, well, it's Yahoo:</p>\n<blockquote>\n<p>\"Engadget, which is operated by Yahoo, will lay off 10 employees, according to people with knowledge of the situation who say staff were “blindsided” by the decision. In addition to cutting staff, the editorial team will split into two sections: 'news and features' and 'reviews and buying advice.' The news teams will focus on traffic growth, while the reviews teams will report to commerce leaders.\"</p>\n</blockquote>\n<p>This is sad. I have been an Engadget reader since the beginning, and while its glory days have been gone for a while, the writers keeping it alive have done great work. </p>\n",
-				"date_published": "2024-02-23T14:20:42-05:00",
+				"date_published": "2024-02-23T15:20:42-04:00",
 				"url": "https://joeross.me/2024/02/23/yahoo-is-accelerating.html"
 			},
 			{
 				"id": "http://joeross.micro.blog/2024/02/17/chris-geidner-at.html",
 				
 				"content_html": "<p>Chris Geidner at Law Dork has <a href=\"https://www.lawdork.com/p/fifth-circuit-mad-vibes-judges\">the best explanation</a> of why the 5th Circuit’s jurisprudence has become so, to use a legal term of art, whacky:</p>\n<blockquote>\n<p>At the end of the day, there are essentially three groups of active judges on the Fifth Circuit: There are “mad vibes” judges, legally conservative judges, and legally moderate (or more left) judges.</p>\n</blockquote>\n<p>Geidner is so insightful and prolific that, and I mean this as a high compliment, it irritates me a little.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Chris Geidner at Law Dork has [the best explanation](https://www.lawdork.com/p/fifth-circuit-mad-vibes-judges) of why the 5th Circuit’s jurisprudence has become so, to use a legal term of art, whacky:\n\n> At the end of the day, there are essentially three groups of active judges on the Fifth Circuit: There are “mad vibes” judges, legally conservative judges, and legally moderate (or more left) judges.\n\nGeidner is so insightful and prolific that, and I mean this as a high compliment, it irritates me a little.\n\n<img src=\"uploads/2024/98be885a3b.png\" width=\"600\" height=\"600\" alt=\"A quote screenshot from an article by Chris Geidner in his Law Dork newsletter, which says:&10;&10;At the end of the day, there are essentially three groups of active judges on the Fifth Circuit: There are “mad vibes” judges, legally conservative judges, and legally moderate (or more left) judges.\">\n",
-				"date_published": "2024-02-17T23:03:47-05:00",
+				"content_text": "Chris Geidner at Law Dork has [the best explanation](https://www.lawdork.com/p/fifth-circuit-mad-vibes-judges) of why the 5th Circuit’s jurisprudence has become so, to use a legal term of art, whacky:\n\n> At the end of the day, there are essentially three groups of active judges on the Fifth Circuit: There are “mad vibes” judges, legally conservative judges, and legally moderate (or more left) judges.\n\nGeidner is so insightful and prolific that, and I mean this as a high compliment, it irritates me a little.\n\n<img src=\"uploads/2024/98be885a3b.jpg\" width=\"600\" height=\"600\" alt=\"A quote screenshot from an article by Chris Geidner in his Law Dork newsletter, which says:&10;&10;At the end of the day, there are essentially three groups of active judges on the Fifth Circuit: There are “mad vibes” judges, legally conservative judges, and legally moderate (or more left) judges.\">\n",
+				"date_published": "2024-02-18T00:03:47-04:00",
 				"url": "https://joeross.me/2024/02/17/chris-geidner-at.html",
 				"tags": ["Links","Law"]
 			},
@@ -52,7 +69,7 @@
 				
 				"content_html": "<p>The top seven free apps in the news category of the iOS App Store are a mix of proudly user-hostile mismanagement, fear mongering, hyperlocal hate, and Nazi monetization.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The top seven free apps in the news category of the iOS App Store are a mix of proudly user-hostile mismanagement, fear mongering, hyperlocal hate, and Nazi monetization. \n\n<img src=\"uploads/2024/65e3024697.png\" width=\"276\" height=\"600\" alt=\"The image shows a screenshot from an iPhone of the iOS App Store displaying the 'Top Charts' section for free apps. The top seven apps are listed: 1. Reddit - Social Forum & Community Chats, 2. X - Formerly Twitter, 3. Nextdoor: Neighborhood Net..., 4. NewsBreak: Local News & Alerts, 5. Citizen: Local Safety Alerts, 6. Substack - A home for readers, and 7. Police Scanner. Icons for 'Today', 'Games', 'Apps', 'Arcade', and 'Search' are at the bottom of the screen. The device's status bar indicates it's 9:15 with Wi-Fi and battery level at 86%, and a 'News' widget is visible in the top right corner.\">\n",
-				"date_published": "2024-01-30T21:32:59-05:00",
+				"date_published": "2024-01-30T22:32:59-04:00",
 				"url": "https://joeross.me/2024/01/30/the-top-seven.html",
 				"tags": ["Notes"]
 			},
@@ -61,7 +78,7 @@
 				
 				"content_html": "<p>🔗 <a href=\"https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/\">Haier hits Home Assistant plugin dev with takedown notice</a></p>\n<p>Bill Toulas, writing at <em>Bleeping Computer</em>:</p>\n<blockquote>\n<p>Targeting open-source software developers tends to backfire for companies, as others fork or clone the code repositories to prevent the projects from disappearing.</p>\n</blockquote>\n<blockquote>\n<p>At this time, the Haier home assistant plugins have been forked 228 times, many occurring since the news of the legal threats.</p>\n</blockquote>\n<p>Now?</p>\n<p><em>1,462</em> forks.</p>\n<p>These were niche plugins for niche software for a niche audience before Haier let the lawyers loose.</p>\n<p>Hey Haier, Ms. Streisand called… she wants <a href=\"https://en.m.wikipedia.org/wiki/Streisand_effect\">her effect</a> back.</p>\n",
 				"content_text": "🔗 [Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/)\n\nBill Toulas, writing at _Bleeping Computer_:\n\n> Targeting open-source software developers tends to backfire for companies, as others fork or clone the code repositories to prevent the projects from disappearing.\n\n> At this time, the Haier home assistant plugins have been forked 228 times, many occurring since the news of the legal threats.\n\nNow? \n\n_1,462_ forks. \n\nThese were niche plugins for niche software for a niche audience before Haier let the lawyers loose.\n\nHey Haier, Ms. Streisand called… she wants [her effect](https://en.m.wikipedia.org/wiki/Streisand_effect) back.\n",
-				"date_published": "2024-01-18T21:12:43-05:00",
+				"date_published": "2024-01-18T22:12:43-04:00",
 				"url": "https://joeross.me/2024/01/18/haier-hits-home.html",
 				"tags": ["Links"]
 			},
@@ -70,7 +87,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>☄️ I’m watching this Yaccarino interview very long after it occurred, but time has not dulled the stings of how uninformed and naive she was about Twitter and Musk. </p>\n<p>It’s hard to believe a seasoned executive fell so far so fast, but there’s no denying the descent  when you’re standing in the crater…</p>\n<p><a href=\"https://youtu.be/hYymRU-bfpQ\">https://youtu.be/hYymRU-bfpQ</a></p>\n",
-				"date_published": "2024-01-14T04:31:35-05:00",
+				"date_published": "2024-01-14T05:31:35-04:00",
 				"url": "https://joeross.me/2024/01/14/im-watching-this.html"
 			},
 			{
@@ -78,7 +95,7 @@
 				"title": "Stop turning awesome apps into internet noise machines",
 				"content_html": "<p>The news aggregating app <a href=\"https://apps.apple.com/us/app/artifact-feed-your-curiosity/id1572927568\">Artifact</a> is <a href=\"https://medium.com/artifact-news/shutting-down-artifact-1e70de46d419\">shutting down</a>.</p>\n<p>Jarrod Blundy wrote <a href=\"https://heydingus.net/blog/2024/1/artifact-shuts-down-just-as-i-was-getting-into-it\">at his blog HeyDingus</a>:</p>\n<blockquote>\n<p>I do wonder if it would have had a brighter future <em>without</em> the ability to add comments. I never engaged with that social aspect of the service, and I expect it contributed massively to its complexity and moderation costs.</p>\n</blockquote>\n<p>I think about this every time a good news or link aggregation app goes away. These apps are, fundamentally, trying to help you sort the signal from the noise in an overwhelming &ldquo;media ecosystem&rdquo; or whatever we&rsquo;re supposed to call it these days.</p>\n<p>As soon as they add their own social layer on top of the news and the links, they have betrayed their best use case and their most loyal users. It&rsquo;s like buying a pair of earplugs, only to have them turn into in-ear headphones or hearing aides you don&rsquo;t need and never asked for.</p>\n<p>Engagement, which they thought would spike after going social, craters. Resources, which were optimized and sufficient and scalable with increasing revenue over time, are siphoned off, as Jarrod wrote, into moderation and increasingly complex development cycles.</p>\n<p>It&rsquo;s a kind of death spiral that most founders notice too late, so kudos, of a sort, to Artifact&rsquo;s founders for knowing the telltale signs of a terminally ill app, and letting it die with some dignity.</p>\n<p>There are already plenty of places to share links and half-baked hot takes. The real challenge, for Artifact&rsquo;s founders and anyone else with the leadership, technical and fundraising skills to tackle it, is to build something extremely useful to individuals <em>without draining all of its lifeblood into a push for &ldquo;social&rdquo;</em> that ultimately just turns it into another internet noise machine.</p>\n",
 				"content_text": "The news aggregating app [Artifact](https://apps.apple.com/us/app/artifact-feed-your-curiosity/id1572927568) is [shutting down](https://medium.com/artifact-news/shutting-down-artifact-1e70de46d419). \n\nJarrod Blundy wrote [at his blog HeyDingus](https://heydingus.net/blog/2024/1/artifact-shuts-down-just-as-i-was-getting-into-it):\n\n> I do wonder if it would have had a brighter future _without_ the ability to add comments. I never engaged with that social aspect of the service, and I expect it contributed massively to its complexity and moderation costs.\n\nI think about this every time a good news or link aggregation app goes away. These apps are, fundamentally, trying to help you sort the signal from the noise in an overwhelming \"media ecosystem\" or whatever we're supposed to call it these days. \n\nAs soon as they add their own social layer on top of the news and the links, they have betrayed their best use case and their most loyal users. It's like buying a pair of earplugs, only to have them turn into in-ear headphones or hearing aides you don't need and never asked for. \n\nEngagement, which they thought would spike after going social, craters. Resources, which were optimized and sufficient and scalable with increasing revenue over time, are siphoned off, as Jarrod wrote, into moderation and increasingly complex development cycles.\n\nIt's a kind of death spiral that most founders notice too late, so kudos, of a sort, to Artifact's founders for knowing the telltale signs of a terminally ill app, and letting it die with some dignity. \n\nThere are already plenty of places to share links and half-baked hot takes. The real challenge, for Artifact's founders and anyone else with the leadership, technical and fundraising skills to tackle it, is to build something extremely useful to individuals _without draining all of its lifeblood into a push for \"social\"_ that ultimately just turns it into another internet noise machine. \n",
-				"date_published": "2024-01-13T12:19:09-05:00",
+				"date_published": "2024-01-13T13:19:09-04:00",
 				"url": "https://joeross.me/2024/01/13/stop-turning-awesome.html",
 				"tags": ["Notes"]
 			},
@@ -87,7 +104,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062406781\">Charlotte&rsquo;s Web</a> by E. B. White 📚 — ⭐️ ⭐️ ⭐️ ⭐️ ⭐️</p>\n<blockquote>\n<p>Skip and dance, jump and prance! Go down through the orchard and stroll in the woods! The world is a wonderful place when you’re young.</p>\n</blockquote>\n<p>It sure is.</p>\n<p>What a hell of an amazing book to relegate to the unjustly dismissed &ldquo;children&rsquo;s&rdquo; shelves. This book gets five stars, no question about it.</p>\n<p>White manages to address, in my opinion, so many of The Important Things We All Should Learn About Rather Young If Possible, including misogyny/clueless men, bullies, transactional acquaintances, competition, the joy and sorrow of freedom, the dilemma of the naive but intelligent, parenting (well, let&rsquo;s be honest, mostly motherhood), the distinction between pathology and an innocent&rsquo;s rational-from-their-perspective perceptions, the rarity and value of adults who are aware of the immediately preceding concept (like the inimitable Dr. Dorian), evolution, religion, birth and death, and, of course, the intergenerational power of real, no-but-seriously-really-real friendship that reaches out beyond its originators and enriches those who come after, in ways known and unknown, for years or decades to come.</p>\n<p>Like I said, just a hell of a book.</p>\n",
 				"content_text": "Finished reading: [Charlotte's Web](https://micro.blog/books/9780062406781) by E. B. White 📚 — ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ \n\n> Skip and dance, jump and prance! Go down through the orchard and stroll in the woods! The world is a wonderful place when you’re young.\n\nIt sure is. \n\nWhat a hell of an amazing book to relegate to the unjustly dismissed \"children's\" shelves. This book gets five stars, no question about it. \n\nWhite manages to address, in my opinion, so many of The Important Things We All Should Learn About Rather Young If Possible, including misogyny/clueless men, bullies, transactional acquaintances, competition, the joy and sorrow of freedom, the dilemma of the naive but intelligent, parenting (well, let's be honest, mostly motherhood), the distinction between pathology and an innocent's rational-from-their-perspective perceptions, the rarity and value of adults who are aware of the immediately preceding concept (like the inimitable Dr. Dorian), evolution, religion, birth and death, and, of course, the intergenerational power of real, no-but-seriously-really-real friendship that reaches out beyond its originators and enriches those who come after, in ways known and unknown, for years or decades to come. \n\nLike I said, just a hell of a book.\n",
-				"date_published": "2023-10-30T20:05:21-05:00",
+				"date_published": "2023-10-30T21:05:21-04:00",
 				"url": "https://joeross.me/2023/10/30/finished-reading-charlottes.html",
 				"tags": ["Books"]
 			},
@@ -96,7 +113,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📱 Someone please tell me which non-leather bifold wallet case to get for an #iPhone 14 Pro, preferably in pink. Extra points for MagSafe compatibility but it's not required.</p>\n",
-				"date_published": "2023-10-24T03:57:03-05:00",
+				"date_published": "2023-10-24T04:57:03-04:00",
 				"url": "https://joeross.me/2023/10/24/someone-please-tell.html"
 			},
 			{
@@ -104,7 +121,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🤖 Don’t bother giving your three-year-old a comprehensive 10-minute explanation of Arnold Schwarzenegger’s early career up to The Terminator, featuring one of the absolute BEST accent performances of your LIFE, because, honestly, they aren’t going to appreciate it at all.</p>\n",
-				"date_published": "2023-10-21T15:07:54-05:00",
+				"date_published": "2023-10-21T16:07:54-04:00",
 				"url": "https://joeross.me/2023/10/21/dont-bother-giving.html"
 			},
 			{
@@ -112,7 +129,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>😕 Thanks to Casey Newton mentioning it on the #HardFork podcast and my having no judgment regarding the apps I try, I downloaded an app called bonk. Join the whatever this is and find me at <a href=\"https://bonkbonkbonk.app/friend/joeross\">https://bonkbonkbonk.app/friend/joeross</a> …</p>\n",
-				"date_published": "2023-10-13T22:22:26-05:00",
+				"date_published": "2023-10-13T23:22:26-04:00",
 				"url": "https://joeross.me/2023/10/13/thanks-to-casey.html"
 			},
 			{
@@ -120,7 +137,7 @@
 				"title": "iPhone as geek guardrails ",
 				"content_html": "<p>Here’s a reply I posted to someone I follow on Mastodon who, on being issued an iPhone by their employer for work calls, was wondering why anyone chooses it over other options when, for example, it’s hard to sideload something as simple as a custom ringtone:</p>\n<p>Look I need guardrails and I’ve known that ever since I was bopping around the command line on my HTC Evo 4G.</p>\n<p>Some of us stopped headbanging not because the music left our hearts, but because if you feel something too deeply for too long it can destroy you.</p>\n<p>That’s what was happening to me in the bowels of my root-and-rom addiction.</p>\n<p>Now I pay 0.99 for a ringtone to Tim Apple and say thank you sir may I have another because I’m safe from sudo-ing on my phone.</p>\n",
 				"content_text": "Here’s a reply I posted to someone I follow on Mastodon who, on being issued an iPhone by their employer for work calls, was wondering why anyone chooses it over other options when, for example, it’s hard to sideload something as simple as a custom ringtone:\n\nLook I need guardrails and I’ve known that ever since I was bopping around the command line on my HTC Evo 4G. \n\nSome of us stopped headbanging not because the music left our hearts, but because if you feel something too deeply for too long it can destroy you. \n\nThat’s what was happening to me in the bowels of my root-and-rom addiction. \n\nNow I pay 0.99 for a ringtone to Tim Apple and say thank you sir may I have another because I’m safe from sudo-ing on my phone.\n",
-				"date_published": "2023-10-12T04:12:24-05:00",
+				"date_published": "2023-10-12T05:12:24-04:00",
 				"url": "https://joeross.me/2023/10/12/iphone-as-geek.html",
 				"tags": ["Notes"]
 			},
@@ -129,7 +146,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🤨 Is it true that despite paying for the special upgrade I can't set the #ChatGPT iOS app to default to 4 instead of 3.5?i</p>\n",
-				"date_published": "2023-10-01T11:02:06-05:00",
+				"date_published": "2023-10-01T12:02:06-04:00",
 				"url": "https://joeross.me/2023/10/01/is-it-true.html"
 			},
 			{
@@ -137,7 +154,7 @@
 				
 				"content_html": "<p>Princeton Public Library.</p>\n",
 				"content_text": "Princeton Public Library. \n",
-				"date_published": "2023-09-30T10:33:28-05:00",
+				"date_published": "2023-09-30T11:33:28-04:00",
 				"url": "https://joeross.me/2023/09/30/princeton-public-library.html",
 				"tags": ["Checkins"]
 			},
@@ -146,7 +163,7 @@
 				
 				"content_html": "<p>Dear Lawyers Still Manually Numbering Paragraphs:</p>\n<p>Stop it.</p>\n<p>Here&rsquo;s a tutorial:</p>\n<ol>\n<li>Place your cursor where you intend to begin the numbered section of your pleading.</li>\n<li>Click the numbered list button in your word processor.</li>\n<li>Repent, and feel your soul become lighter.</li>\n</ol>\n<p>Yours, scoldingly,</p>\n<p>Joe</p>\n",
 				"content_text": "Dear Lawyers Still Manually Numbering Paragraphs:\r\n\r\nStop it.\r\n\r\nHere's a tutorial:\r\n\r\n1. Place your cursor where you intend to begin the numbered section of your pleading.\r\n2. Click the numbered list button in your word processor. \r\n3. Repent, and feel your soul become lighter.\r\n\r\n Yours, scoldingly,\r\n\r\nJoe\r\n",
-				"date_published": "2023-09-20T11:46:06-05:00",
+				"date_published": "2023-09-20T12:46:06-04:00",
 				"url": "https://joeross.me/2023/09/20/dear-lawyers-still.html",
 				"tags": ["Law","Notes"]
 			},
@@ -155,7 +172,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🎮 Bluey: The Videogame, for real life?!</p>\n<p>Yup.</p>\n<p><a href=\"https://youtu.be/S-PYqMxXKKk\">https://youtu.be/S-PYqMxXKKk</a></p>\n",
-				"date_published": "2023-09-19T10:58:18-05:00",
+				"date_published": "2023-09-19T11:58:18-04:00",
 				"url": "https://joeross.me/2023/09/19/bluey-the-videogame.html"
 			},
 			{
@@ -163,7 +180,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>⌚ Audio recordings are an overlooked way of keeping memories with your kids. Mine are both under 4 and, while pointing a phone camera at them often changes their behavior, a surreptitious audio recording is easy to do. I've got some great stuff that I'm almost certain an attempt at photos or video would've prevented. Aside from sleep tracking, this is the most common way I used my Apple Watch.</p>\n",
-				"date_published": "2023-09-16T07:32:49-05:00",
+				"date_published": "2023-09-16T08:32:49-04:00",
 				"url": "https://joeross.me/2023/09/16/audio-recordings-are.html"
 			},
 			{
@@ -171,7 +188,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>⚖️ Okay maybe I'm just a hopelessly biased defense lawyer but can anyone <a href=\"https://www.freep.com/story/news/local/michigan/macomb/2023/08/29/warren-olive-garden-rat-foot/70702454007/\">read this</a> and tell me with a straight face that the plaintiff didn't set this up...</p>\n",
-				"date_published": "2023-09-04T17:01:54-05:00",
+				"date_published": "2023-09-04T18:01:54-04:00",
 				"url": "https://joeross.me/2023/09/04/okay-maybe-im.html"
 			},
 			{
@@ -179,7 +196,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>⁉️ I’m curious: has anyone else recently seen excessive outgoing #DNS  requests on their network from #Wyze cameras? This was a known issue a while ago but I <em>thought</em> they had fixed it.</p>\n<p>I've noticed unusual spikes in the past 60 days or so, and when I blocked Wyze and its related domains using NextDNS, logs showed they accounted for more than 40 percent of DNS requests from my network (‼️).</p>\n",
-				"date_published": "2023-09-04T05:56:38-05:00",
+				"date_published": "2023-09-04T06:56:38-04:00",
 				"url": "https://joeross.me/2023/09/04/im-curious-has.html"
 			},
 			{
@@ -187,7 +204,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🎸 I’ve played an acoustic guitar for and with my two kids since my oldest was born a few years ago, but today I plugged an old electric of mine into an amp for the first time in maybe ten years and the kids loved it, and it reminded me that there’s music-making at the core of me.</p>\n",
-				"date_published": "2023-09-02T09:56:43-05:00",
+				"date_published": "2023-09-02T10:56:43-04:00",
 				"url": "https://joeross.me/2023/09/02/ive-played-an.html"
 			},
 			{
@@ -195,7 +212,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🤢 It's not a great headshot. I look so... unfamiliar with the \"Smile!\" command. And thanks to a moment of poor judgment, and <a href=\"https://en.gravatar.com/joeross1\">Gravatar</a>, it'll be all over the internet until I decide to change it again. Which will likely be soon... </p>\n<p>(Yes, I know it's not attached. That was intentional...)</p>\n",
-				"date_published": "2023-08-31T00:46:30-05:00",
+				"date_published": "2023-08-31T01:46:30-04:00",
 				"url": "https://joeross.me/2023/08/31/its-not-a.html"
 			},
 			{
@@ -203,7 +220,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>⚠️ So I’m going to do a real blog post about this when I find the time, but today I discovered that my router’s admin panel is accessible via a combination of selecting the right IP and appending a string of numbers to the name of the HTML page that contains the admin panel. The string is the same across a nonzero number of individual routers, some of which can be located with the right Google search…</p>\n",
-				"date_published": "2023-08-26T07:03:40-05:00",
+				"date_published": "2023-08-26T08:03:40-04:00",
 				"url": "https://joeross.me/2023/08/26/so-im-going.html",
 				"tags": ["Notes"]
 			},
@@ -212,7 +229,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🐎 Julia Glassman, writing at <em><a href=\"https://www.themarysue.com/bluey-is-getting-experimental-and-kids-are-keeping-up/\">The Mary Sue</a></em> (with major #spoilers for the newest batch of episodes):</p>\n<blockquote>\n<p><em>What makes this show so great is that it isn’t afraid to employ writing that’s savvy enough for adults to enjoy. Bluey navigates real conflicts, while her parents—the delightfully flawed Bandit and Chilli—work through believable, thoughtful issues of their own. This isn’t your average children’s show.</em></p>\n</blockquote>\n<blockquote>\n<p><em> And now, with ten new episodes having dropped on Disney+ earlier this summer (they came out in Australia a whole year ago), the show is getting positively meta.</em></p>\n</blockquote>\n<p>I dare even people <em>without kids</em> to watch a few random episodes of Bluey without learning something they wish they learned decades ago.</p>\n",
-				"date_published": "2023-08-24T14:25:34-05:00",
+				"date_published": "2023-08-24T15:25:34-04:00",
 				"url": "https://joeross.me/2023/08/24/julia-glassman-writing.html"
 			},
 			{
@@ -220,7 +237,7 @@
 				
 				"content_html": "<p>Sherlock Holmes giving serious <a href=\"https://nardwuar.com/\">Nardwuar</a> vibes in <em><a href=\"https://micro.blog/books/9780008182229\">The Adventures of Sherlock Holmes</a></em> by Sir Arthur Conan Doyle📚:</p>\n<blockquote>\n<p>My name is Sherlock Holmes. It is my business to know what other people don’t know.</p>\n</blockquote>\n<p>This particular quote, for nerds who know, is from adventure number seven, <em><a href=\"https://micro.blog/books/9781502762900\">The Adventure of the Blue Carbuncle</a></em>.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Sherlock Holmes giving serious [Nardwuar](https://nardwuar.com/) vibes in _[The Adventures of Sherlock Holmes](https://micro.blog/books/9780008182229)_ by Sir Arthur Conan Doyle📚:\n\n> My name is Sherlock Holmes. It is my business to know what other people don’t know.\n\nThis particular quote, for nerds who know, is from adventure number seven, _[The Adventure of the Blue Carbuncle](https://micro.blog/books/9781502762900)_.\n\n<img src=\"uploads/2023/97162e57ec.png\" width=\"600\" height=\"336\" alt=\"A quote shot of Sherlock Holmes, from Sir Arthur Conan Doyle's The Adventures of Sherlock Holmes: My name is Sherlock Holmes. It is my business to know what other people don’t know.\">\n",
-				"date_published": "2023-08-20T14:47:08-05:00",
+				"date_published": "2023-08-20T15:47:08-04:00",
 				"url": "https://joeross.me/2023/08/20/sherlock-holmes-giving.html",
 				"tags": ["Notes","Books"]
 			},
@@ -229,7 +246,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>😠 I’m looking at the Be Our Guest dinner as my wife and I finalize our plans for #Disney World and I need someone to tell me why the menu at one of their top restaurant experiences is so vegetarian-hostile. </p>\n<p>Pan-roasted zucchini? </p>\n<p>Really? </p>\n<p>Disappointing.</p>\n",
-				"date_published": "2023-08-19T12:11:19-05:00",
+				"date_published": "2023-08-19T13:11:19-04:00",
 				"url": "https://joeross.me/2023/08/19/im-looking-at.html"
 			},
 			{
@@ -237,7 +254,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>⚖️ From a <a href=\"https://www.lawdork.com/p/religious-liberty-training-order-30-day-stay\">report at <em>Law Dork</em></a> by its proprietor, <a href=\"https://journa.host/@chrisgeidner\">Chris Geidner</a>:</p>\n<blockquote>\n<p>Starr issued an “administrative stay” on Thursday that will last for 30 days while he considers the airline’s request for a stay of the order pending its appeal to the U.S. Court of Appeals for the Fifth Circuit.</p>\n</blockquote>\n<p>Judge Starr is having a good think about whether he’s willing to endure the near-certain reversal, and the more-likely-than-not searing <a href=\"https://www.urbandictionary.com/define.php?term=benchslap\">bench slap</a> that will accompany it…</p>\n",
-				"date_published": "2023-08-17T21:24:13-05:00",
+				"date_published": "2023-08-17T22:24:13-04:00",
 				"url": "https://joeross.me/2023/08/17/222413.html",
 				"tags": ["Law","Notes","Status"]
 			},
@@ -246,7 +263,7 @@
 				"title": "Introducing Quicklinks.lol",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>The other day, er, morning, er, very early morning, I <a href=\"https://joeross.me/2023/08/10/so-commits-later.html\">posted</a> about a little project I did instead of sleeping called <a href=\"https://github.com/joeross/Quicklinks\">Quicklinks</a>.</p>\n\n<p>It&#8217;s essentially just a list links I visit whenever I take a break or have some downtime. That&#8217;s it. That&#8217;s the whole thing. I published it for my personal use and testing at <strong><em>joeross.dev/quicklinks</em></strong> and <strong><em>joeross.dev/quicklinks</em></strong>.</p>\n\n<p>But where there&#8217;s a new random webpage, there&#8217;s a geek running domain name searches&#8230;</p>\n\n<p>So, in keeping with my recent run of <a href=\"https://joeross.lol\" title=\"joeross.lol\">unnecessary</a> but <a href=\"https://joeross.dev\" title=\"joeross.dev\">fun</a> domain <a href=\"https://joe.rad.dad\" title=\"joe.rad.dad\">names</a>, I hereby present:</p>\n\n<p style=\"text-align:center;font-size:2em;text-decoration:underline;letter-spacing:.15em;\"><a href=\"https://quicklinks.lol\">quicklinks.lol</a></p>\n\n<p>I have Big Dreams™ of adding:</p>\n\n<ul>\n<li>Sidebar installation instructions for browsers that support sidebars;</li>\n<li>A dynamic new/same tab checkbox (a la <a href=\"https://techmeme.com\">Techmeme</a>); and</li>\n<li>An integrated way to customize the links.</li>\n</ul>\n\n<p>But <a href=\"https://quicklinks.lol\">Quicklinks</a> is mostly for me, so it comes without promises. Most people who can code up something like this can do it far better than I can, and most who can&#8217;t will still be able to name two or three ways of doing the same thing without writing a single line of HTML. </p>\n\n<p>That&#8217;s fine. You, as the kids say, do you. </p>\n\n<p>And feel free to <a href=\"https://github.com/joeross/Quicklinks/fork\">fork it</a>. </p>\n",
-				"date_published": "2023-08-16T03:38:30-05:00",
+				"date_published": "2023-08-16T04:38:30-04:00",
 				"url": "https://joeross.me/2023/08/16/introducing-quicklinkslol.html",
 				"tags": ["Projects"]
 			},
@@ -255,7 +272,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>😑 So if one had, hypothetically, selected all of the files in the .txt/.markdown notes folder in their iCloud Files all, and mistaken the “duplicate” button for a “copy” button, is there an app or solution to de-dupe the folder from iOS?</p>\n",
-				"date_published": "2023-08-15T20:08:07-05:00",
+				"date_published": "2023-08-15T21:08:07-04:00",
 				"url": "https://joeross.me/2023/08/15/so-if-one.html"
 			},
 			{
@@ -263,7 +280,7 @@
 				"title": "The Web Worth Paying For",
 				"content_html": "<p>I was listening to <a href=\"https://celesteheadlee.com/\">Celeste Headlee</a> interview <a href=\"https://www.anildash.com/\">Anil Dash</a> on the <a href=\"https://slate.com/podcasts/what-next-tbd/2023/08/techs-white-supremacist-reactionary-problem\">latest episode</a> of the Slate podcast <a href=\"https://slate.com/podcasts/what-next-tbd\">What Next: TBD</a>, and Dash said something about the kind of web communities we should build, and encourage, to combat the rise of white supremacy among wealthy and influential tech leaders and the communities they fund:</p>\n<blockquote>\n<p>How do we make there be a community that has its own recipes and how many of the apps you use every day are home cooked meals made by somebody you love in a community that you’re from? It can be that, it’s happening again.</p>\n</blockquote>\n<p>This immediately struck me as a perfect description of what I like about <a href=\"https://micro.blog\">Micro.blog</a> and <a href=\"https://home.omg.lol\">Omg.lol</a>. Each is made by a <a href=\"https://adam.omg.lol/\">person</a> or a <a href=\"https://micro.blog/about\">small team</a> who are constantly involved in the community, who we can report bugs to, suggest features to, or just chat with, and who greet criticism head-on with clear explanations of why they hold their positions, and who maintain a willingness to change their minds.</p>\n<p>I&rsquo;m not saying they&rsquo;re perfect &ndash; after all, like you and I, they&rsquo;re <em>people</em>, so of course they&rsquo;re not perfect. But that&rsquo;s just it: they&rsquo;re <em>people</em>, and they treat their users like they&rsquo;re people, too.</p>\n<p>We get all of this because we pay a really, <em>really</em> reasonable fee to join these communities, relieving them of the need to pursue increasingly questionable methods of revenue generation.</p>\n<p>That&rsquo;s the web worth paying for, and I&rsquo;m happy to be here.</p>\n",
 				"content_text": "I was listening to [Celeste Headlee](https://celesteheadlee.com/) interview [Anil Dash](https://www.anildash.com/) on the [latest episode](https://slate.com/podcasts/what-next-tbd/2023/08/techs-white-supremacist-reactionary-problem) of the Slate podcast [What Next: TBD](https://slate.com/podcasts/what-next-tbd), and Dash said something about the kind of web communities we should build, and encourage, to combat the rise of white supremacy among wealthy and influential tech leaders and the communities they fund:\n\n> How do we make there be a community that has its own recipes and how many of the apps you use every day are home cooked meals made by somebody you love in a community that you’re from? It can be that, it’s happening again.\n\nThis immediately struck me as a perfect description of what I like about [Micro.blog](https://micro.blog) and [Omg.lol](https://home.omg.lol). Each is made by a [person](https://adam.omg.lol/) or a [small team](https://micro.blog/about) who are constantly involved in the community, who we can report bugs to, suggest features to, or just chat with, and who greet criticism head-on with clear explanations of why they hold their positions, and who maintain a willingness to change their minds. \n\nI'm not saying they're perfect -- after all, like you and I, they're _people_, so of course they're not perfect. But that's just it: they're _people_, and they treat their users like they're people, too.\n\nWe get all of this because we pay a really, _really_ reasonable fee to join these communities, relieving them of the need to pursue increasingly questionable methods of revenue generation.\n\nThat's the web worth paying for, and I'm happy to be here.\n",
-				"date_published": "2023-08-15T10:13:52-05:00",
+				"date_published": "2023-08-15T11:13:52-04:00",
 				"url": "https://joeross.me/2023/08/15/the-web-worth.html",
 				"tags": ["Essays"]
 			},
@@ -272,7 +289,7 @@
 				
 				"content_html": "<p>Grounds For Sculpture.</p>\n",
 				"content_text": "Grounds For Sculpture. \n",
-				"date_published": "2023-08-13T18:51:02-05:00",
+				"date_published": "2023-08-13T19:51:02-04:00",
 				"url": "https://joeross.me/2023/08/13/grounds-for-sculpture.html",
 				"tags": ["Checkins"]
 			},
@@ -281,7 +298,7 @@
 				
 				"content_html": "<p>Rat&rsquo;s Restaurant.</p>\n",
 				"content_text": "Rat's Restaurant. \n",
-				"date_published": "2023-08-13T16:07:35-05:00",
+				"date_published": "2023-08-13T17:07:35-04:00",
 				"url": "https://joeross.me/2023/08/13/rats-restaurant.html",
 				"tags": ["Checkins"]
 			},
@@ -290,7 +307,7 @@
 				
 				"content_html": "<p>So, 40 commits later, you can star my insomnia <a href=\"https://github.com/joeross/QuickLinks/\">on GitHub</a>. I should have been cleaning, or sleeping. Instead, I made <a href=\"https://joeross.dev/quicklinks\">a webpage</a>. Then I made <a href=\"https://joeross.dev/quicklinks/sametab\">a second webpage</a>, identical to the first, except links open in the same tab, for all the weirdos out there who like that sort of thing.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "So, 40 commits later, you can star my insomnia [on GitHub](https://github.com/joeross/QuickLinks/). I should have been cleaning, or sleeping. Instead, I made [a webpage](https://joeross.dev/quicklinks). Then I made [a second webpage](https://joeross.dev/quicklinks/sametab), identical to the first, except links open in the same tab, for all the weirdos out there who like that sort of thing.\r\n\r\n\n\n<img src=\"uploads/2023/screenshot-2023-08-10-at-04-23-46-quicklinks.png\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-08-10T03:27:18-05:00",
+				"date_published": "2023-08-10T04:27:18-04:00",
 				"url": "https://joeross.me/2023/08/10/so-commits-later.html",
 				"tags": ["Notes"]
 			},
@@ -299,7 +316,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>💻 The MacBook Air I'm posting this from is older than I'll admit in polite company, so I've been eyeing the new 15-inch Air, and today Amazon is <a href=\"https://www.amazon.com/dp/B0C7638G25?language=en_US\">selling the base configuration</a> - in all colorways - at a $200 discount.</p>\n",
-				"date_published": "2023-08-08T00:36:32-05:00",
+				"date_published": "2023-08-08T01:36:32-04:00",
 				"url": "https://joeross.me/2023/08/08/the-macbook-air.html"
 			},
 			{
@@ -307,7 +324,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>👍 Apropos of my earlier post about considering migration to a different Mastodon server: <a href=\"https://erinkissane.com/notes-from-a-mastodon-migration\">Notes from a Mastodon migration - Erin Kissane's small internet website</a></p>\n",
-				"date_published": "2023-08-07T14:30:43-05:00",
+				"date_published": "2023-08-07T15:30:43-04:00",
 				"url": "https://joeross.me/2023/08/07/apropos-of-my.html",
 				"tags": ["Status"]
 			},
@@ -316,7 +333,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🚆 Right now I do ActivityPubs primarily from mastodon.social. But I’m researching migration and reading about other folks’ experiences. I love omg.lol as a whole and social.lol is where I probably belong, but it’s daunting to move. If you decided to migrate here from another server when social.lol launched, let me know if you have any tips or tricks for someone considering the move!</p>\n",
-				"date_published": "2023-08-07T10:07:46-05:00",
+				"date_published": "2023-08-07T11:07:46-04:00",
 				"url": "https://joeross.me/2023/08/07/right-now-i.html",
 				"tags": ["Status"]
 			},
@@ -325,7 +342,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>💬 So the <a href=\"https://trakt.tv/shows/disney-s-adventures-of-the-gummi-bears\">Gummi Bears show</a> from 1985-1991 was both something I think I saw in its entirety during its original run (I was born in 1983), and something I completely forgot had ever existed. </p>\n",
-				"date_published": "2023-08-06T17:50:04-05:00",
+				"date_published": "2023-08-06T18:50:04-04:00",
 				"url": "https://joeross.me/2023/08/06/so-the-gummi.html",
 				"tags": ["Status"]
 			},
@@ -334,7 +351,7 @@
 				
 				"content_html": "<p>Avon-by-the-Sea Beach.</p>\n",
 				"content_text": "Avon-by-the-Sea Beach. \n",
-				"date_published": "2023-08-05T15:15:34-05:00",
+				"date_published": "2023-08-05T16:15:34-04:00",
 				"url": "https://joeross.me/2023/08/05/avonbythesea-beach.html",
 				"tags": ["Checkins"]
 			},
@@ -343,7 +360,7 @@
 				
 				"content_html": "<p>Author and actor <a href=\"https://www.mirandakeeling.com/\">Miranda Keeling</a> posted this <a href=\"https://mastodon.social/@Mirandakeeling/110807760527453143\">on Mastodon</a>, where she frequently posts interesting fragments of conversation she overhears in everyday life:</p>\n<blockquote>\n<p>Woman in a supermarket: Fake it til you can’t be bothered anymore, and then just be yourself.</p>\n</blockquote>\n<p>This has been one of my core experiences of aging. A lot of faking/masking/figuring stuff out for the first 30 years, then the last ten years steadily moving toward where I am now: how could I possibly be bothered to be anything but myself?</p>\n<p><em>I originally <a href=\"https://mastodon.social/@joeross/110807983371811693\">posted this</a> to my Mastodon account.</em></p>\n",
 				"content_text": "Author and actor [Miranda Keeling](https://www.mirandakeeling.com/) posted this [on Mastodon](https://mastodon.social/@Mirandakeeling/110807760527453143), where she frequently posts interesting fragments of conversation she overhears in everyday life:\n\n> Woman in a supermarket: Fake it til you can’t be bothered anymore, and then just be yourself.\n\nThis has been one of my core experiences of aging. A lot of faking/masking/figuring stuff out for the first 30 years, then the last ten years steadily moving toward where I am now: how could I possibly be bothered to be anything but myself? \n\n_I originally [posted this](https://mastodon.social/@joeross/110807983371811693) to my Mastodon account._\n",
-				"date_published": "2023-08-04T08:35:18-05:00",
+				"date_published": "2023-08-04T09:35:18-04:00",
 				"url": "https://joeross.me/2023/08/04/author-and-actor.html"
 			},
 			{
@@ -351,7 +368,7 @@
 				
 				"content_html": "<p>I saw <a href=\"http://toastermuseum.com/index.htm\">The Toaster Museum</a> linked to over at <a href=\"https://news.ycombinator.com/item?id=36992802\">Hacker News</a> and immediately thought of <a href=\"https://hypercritical.co/\">John Siracusa</a> (<a href=\"https://mastodon.social/@siracusa\">@siracusa</a>).</p>\n<p>Here&rsquo;s some <a href=\"https://www.caseyliss.com/2015/9/10/siracusa-on-toasters\">great context</a> for <em>why</em> I immediately thought of him, by his friend and <em><a href=\"http://atp.fm/\">Accidental Tech Podcast</a></em> (<a href=\"https://mastodon.social/@atpfm\">@atp.fm</a>) co-host <a href=\"https://www.caseyliss.com/\">Casey Liss</a> (<a href=\"https://mastodon.social/@caseyliss\">@caseyliss</a>).</p>\n",
 				"content_text": "I saw [The Toaster Museum](http://toastermuseum.com/index.htm) linked to over at [Hacker News](https://news.ycombinator.com/item?id=36992802) and immediately thought of [John Siracusa](https://hypercritical.co/) ([@siracusa](https://mastodon.social/@siracusa)). \r\n\r\nHere's some [great context](https://www.caseyliss.com/2015/9/10/siracusa-on-toasters) for _why_ I immediately thought of him, by his friend and _[Accidental Tech Podcast](http://atp.fm/)_ ([@atp.fm](https://mastodon.social/@atpfm)) co-host [Casey Liss](https://www.caseyliss.com/) ([@caseyliss](https://mastodon.social/@caseyliss)).\n",
-				"date_published": "2023-08-04T03:36:55-05:00",
+				"date_published": "2023-08-04T04:36:55-04:00",
 				"url": "https://joeross.me/2023/08/04/i-saw-the.html",
 				"tags": ["Notes"]
 			},
@@ -360,7 +377,7 @@
 				
 				"content_html": "<p>Associated Humane Societies.</p>\n",
 				"content_text": "Associated Humane Societies. \n",
-				"date_published": "2023-07-31T12:47:59-05:00",
+				"date_published": "2023-07-31T13:47:59-04:00",
 				"url": "https://joeross.me/2023/07/31/associated-humane-societies.html",
 				"tags": ["Checkins"]
 			},
@@ -369,7 +386,7 @@
 				
 				"content_html": "<p>I have some more Bluesky invite codes.</p>\n<p>But I’m 40 and married, so I don’t just hand a code to the first internet user that smiles at me.</p>\n<p>Bluesky servers can use the invite tree in moderation decisions, so I do at least <em>some</em> vetting of folks before I send them a code. No hate/harassment/anti-vax etc.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I have some more Bluesky invite codes.\n\nBut I’m 40 and married, so I don’t just hand a code to the first internet user that smiles at me.\n\nBluesky servers can use the invite tree in moderation decisions, so I do at least _some_ vetting of folks before I send them a code. No hate/harassment/anti-vax etc.\n\n<img src=\"uploads/2023/3773937202.png\" width=\"600\" height=\"337\" alt=\"Text shot from Bluesky’s F.A.Q. about their policy on using invite code trees in moderatiom efforts: Question: How does the Bluesky server use the invite tree? Answer: We reference the invite tree to track behavior on the social graph. For example, if we take action to moderate an account, we may revoke invite codes from other accounts in the same invite tree.\">\n",
-				"date_published": "2023-07-30T08:28:17-05:00",
+				"date_published": "2023-07-30T09:28:17-04:00",
 				"url": "https://joeross.me/2023/07/30/i-have-some.html",
 				"tags": ["Notes"]
 			},
@@ -378,7 +395,7 @@
 				"title": "Top Gun: Maverick, 2022 - ★★★★ (contains spoilers)",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/9/3/4/6/5/293465-top-gun-maverick-0-600-0-900-crop.jpg?v=9f8af0f61b\"/></p> <p><em>This review may contain spoilers.</em></p> <p>Sure, it’s a couple hours of Tom Cruise being paid millions of dollars to do stunts literally everyone else in the world would have to pay millions of dollars to do. But nails the fan service, the tech, and the physics. </p><p>And it’s fun.</p><p>Also, it includes an appearance by the Ice Man himself, though anyone who has seen Val Kilmer’s autobiographical documentary <i><a href=\"https://letterboxd.com/film/val/\" rel=\"nofollow\">Val</a></i> will instantly notice that Kilmer basically just walked onto the <i>Maverick</i> set dressed as he always dresses to greet company these days.</p>\n",
-				"date_published": "2023-07-25T21:46:17-05:00",
+				"date_published": "2023-07-25T22:46:17-04:00",
 				"url": "https://joeross.me/2023/07/25/top-gun-maverick.html"
 			},
 			{
@@ -386,7 +403,7 @@
 				
 				"content_html": "<p>Threatening to <a href=\"https://archive.ph/sGYgS\">take away your customers’ fake merit badges if they don’t pay</a> more isn’t a business.</p>\n<p>It’s barely a grift.</p>\n<p>It’s how a lonely bully enforces the closest thing to social relationships he can possibly attain.</p>\n<p>But at least we can call the post-mortem when this all explodes “the X-Files.”</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Threatening to [take away your customers’ fake merit badges if they don’t pay](https://archive.ph/sGYgS) more isn’t a business. \n\nIt’s barely a grift.\n\nIt’s how a lonely bully enforces the closest thing to social relationships he can possibly attain.\n\nBut at least we can call the post-mortem when this all explodes “the X-Files.”\n\n<img src=\"uploads/2023/bd77e6dba0.png\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-07-25T18:57:52-05:00",
+				"date_published": "2023-07-25T19:57:52-04:00",
 				"url": "https://joeross.me/2023/07/25/threatening-to-take.html",
 				"tags": ["Notes"]
 			},
@@ -395,7 +412,7 @@
 				
 				"content_html": "<p>Obviously this is incredible, full stop. But if you’re trained in the craft and the composers, this must be one of the most delightful things you’ve seen in a long, long time. And those animations!</p>\n<p><a href=\"https://youtu.be/WRfsibwR5x4\">youtu.be/WRfsibwR5&hellip;</a></p>\n<p>The kicker? The performer, Joseph Castanyer Alonso, is the <em>cellist</em> of the Royal Stockholm Philaharmonic Orchestra. Piano <em>isn’t even his primary instrument</em>. Wild.</p>\n<p>(<em>Via <a href=\"https://kottke.org/23/07/barbie-girl-in-the-style-of-six-classical-composers\">kottke</a> &amp;  <a href=\"https://mastodon.gamedev.place/@Erikmitk/110752026468912440\">Erikmitk</a></em>)</p>\n",
 				"content_text": "Obviously this is incredible, full stop. But if you’re trained in the craft and the composers, this must be one of the most delightful things you’ve seen in a long, long time. And those animations!\n\n[youtu.be/WRfsibwR5...](https://youtu.be/WRfsibwR5x4)\n\nThe kicker? The performer, Joseph Castanyer Alonso, is the _cellist_ of the Royal Stockholm Philaharmonic Orchestra. Piano _isn’t even his primary instrument_. Wild.\n\n(_Via [kottke](https://kottke.org/23/07/barbie-girl-in-the-style-of-six-classical-composers) &  [Erikmitk](https://mastodon.gamedev.place/@Erikmitk/110752026468912440)_)\n",
-				"date_published": "2023-07-21T20:57:22-05:00",
+				"date_published": "2023-07-21T21:57:22-04:00",
 				"url": "https://joeross.me/2023/07/21/obviously-this-is.html",
 				"tags": ["Notes"]
 			},
@@ -404,7 +421,7 @@
 				"title": "🍿 Prey, 2022 - ★★★★ (contains spoilers)",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/8/6/3/8/9/686389-prey-0-600-0-900-crop.jpg?v=f9f0c6bb6e\"/></p> <p><em>This review may contain spoilers.</em></p> <p>A <em>Predator</em> movie is only as good as its protagonist. </p><p>The dialogue can mostly suck, as it does here. </p><p>The CG effects can look like trash, as they too often do here. </p><p>The plot can be an early colonial-American choose-your-own-adventure story, as it (mostly) is here. <br />  <br />But if you have 1987 Arnold Schwarzenegger, or 2022 Amber Midthunder, you will have a movie worth your time, and worthy of a theater run. </p><p>That <em>Prey</em> didn't get the latter is an affront to Midthunder's performance. </p><p>She carries the movie, together with the skilled eye of Philadelphia's own Dan Trachtenberg. </p><p>And you can't help but notice, as the movie progresses toward a climax that thrills in spite of its predictability, that only she and the Predator get any character development. They're growing in parallel: she coming into her power, and it learning that its power may, for the first time, not be enough to ensure its survival.</p><p>(And yes, the dog lives.)</p>\n",
-				"date_published": "2023-07-21T03:13:50-05:00",
+				"date_published": "2023-07-21T04:13:50-04:00",
 				"url": "https://joeross.me/2023/07/21/prey-contains-spoilers.html",
 				"tags": ["Watched"]
 			},
@@ -413,7 +430,7 @@
 				
 				"content_html": "<p>One bit of Casey Newton’s <a href=\"https://www.platformer.news/p/five-reasons-threads-could-still\">latest <em>Platformer</em> piece</a>, on how Threads can survive the calm after the storm, must have many social media pros searching their feelings.</p>\n<p>I felt a great disturbance in the Force, as if millions of social media managers suddenly cried out in terror and were suddenly silenced.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "One bit of Casey Newton’s [latest _Platformer_ piece](https://www.platformer.news/p/five-reasons-threads-could-still), on how Threads can survive the calm after the storm, must have many social media pros searching their feelings.\n\nI felt a great disturbance in the Force, as if millions of social media managers suddenly cried out in terror and were suddenly silenced.\n\n<img src=\"uploads/2023/a743cc09df.png\" width=\"600\" height=\"600\" alt=\"Casey Newton wrote in his newsletter Platformer about how Threads can survive its initial explosion in user base: &quot;the best version of Threads is an app where people go to learn about and discuss what’s happening in the moment, news included, and absent that the feed is going to feel like one more overstuffed shopping mall for a company that already has plenty of those. (The earliest days of Threads, when the timeline was dominated by brands posting cringey engagement-bait, offer a good roadmap for what the company should avoid.)&quot;&10;&10;https://www.platformer.news/p/five-reasons-threads-could-still\">\n",
-				"date_published": "2023-07-17T19:57:00-05:00",
+				"date_published": "2023-07-17T20:57:00-04:00",
 				"url": "https://joeross.me/2023/07/17/one-bit-of.html",
 				"tags": ["Notes"]
 			},
@@ -422,7 +439,7 @@
 				
 				"content_html": "<p>I need Mrs. Meyers to answer for the fact that her “Compassion Flower” handsoap scent has me routinely smelling like I think Axe body spray is a legitimate thing for a 40-year-old person to smell like.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I need Mrs. Meyers to answer for the fact that her “Compassion Flower” handsoap scent has me routinely smelling like I think Axe body spray is a legitimate thing for a 40-year-old person to smell like.\n\n<img src=\"uploads/2023/image.png\" width=\"192\" height=\"600\" alt=\"A photo of Mrs. Meyer’s Clean Day hand soap, Compassion Flower scent\">\n",
-				"date_published": "2023-07-15T20:58:37-05:00",
+				"date_published": "2023-07-15T21:58:37-04:00",
 				"url": "https://joeross.me/2023/07/15/i-need-mrs.html",
 				"tags": ["Notes"]
 			},
@@ -431,7 +448,7 @@
 				
 				"content_html": "<p>Kaya&rsquo;s Kitchen.</p>\n",
 				"content_text": "Kaya's Kitchen. \n",
-				"date_published": "2023-07-15T17:18:44-05:00",
+				"date_published": "2023-07-15T18:18:44-04:00",
 				"url": "https://joeross.me/2023/07/15/181844.html",
 				"tags": ["Checkins"]
 			},
@@ -440,7 +457,7 @@
 				
 				"content_html": "<p>Avon-by-the-Sea Beach.</p>\n",
 				"content_text": "Avon-by-the-Sea Beach. \n",
-				"date_published": "2023-07-15T13:14:22-05:00",
+				"date_published": "2023-07-15T14:14:22-04:00",
 				"url": "https://joeross.me/2023/07/15/avonbythesea-beach.html",
 				"tags": ["Checkins"]
 			},
@@ -449,7 +466,7 @@
 				
 				"content_html": "<p>I was going to treat reddit like Facebook, visiting every 1 or 2 months to see what was going on. But reddit leadership are so hostile to the most engaged users that I think it&rsquo;s time to delete my account, which sucks.</p>\n<p><a href=\"https://mashable.com/article/reddit-removes-live-chat-archives-messages\">Reddit removes years of chat and message archives from users' accounts | Mashable</a></p>\n",
 				"content_text": "I was going to treat reddit like Facebook, visiting every 1 or 2 months to see what was going on. But reddit leadership are so hostile to the most engaged users that I think it's time to delete my account, which sucks.\r\n\r\n[Reddit removes years of chat and message archives from users' accounts | Mashable](https://mashable.com/article/reddit-removes-live-chat-archives-messages)\n",
-				"date_published": "2023-07-15T03:26:16-05:00",
+				"date_published": "2023-07-15T04:26:16-04:00",
 				"url": "https://joeross.me/2023/07/15/i-was-going.html",
 				"tags": ["Status"]
 			},
@@ -458,7 +475,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>💬 💬 Okay, I'm trying again to see if I can set it up so my updates on status.lol are imported to my Micro.blog and syndicated out from there.</p>\n",
-				"date_published": "2023-07-15T01:17:04-05:00",
+				"date_published": "2023-07-15T02:17:04-04:00",
 				"url": "https://joeross.me/2023/07/15/okay-im-trying.html",
 				"tags": ["Status"]
 			},
@@ -467,7 +484,7 @@
 				
 				"content_html": "<p>Elon Musk is the answer to the question:</p>\n<p>What if we gave MRAs, incels and wannabe MAGA Big Deals™ billions of dollars and Peter Thiel&rsquo;s cell phone number?</p>\n",
 				"content_text": "Elon Musk is the answer to the question:\r\n\r\nWhat if we gave MRAs, incels and wannabe MAGA Big Deals™ billions of dollars and Peter Thiel's cell phone number?\n",
-				"date_published": "2023-07-15T00:13:49-05:00",
+				"date_published": "2023-07-15T01:13:49-04:00",
 				"url": "https://joeross.me/2023/07/15/elon-musk-is.html",
 				"tags": ["Status"]
 			},
@@ -476,7 +493,7 @@
 				
 				"content_html": "<p><a href=\"https://github.com/mattcorey/indie-dev-sales\">List of Indie Dev Sales Events</a></p>\n<p>Matt Corey put together a list of developers holding sales in an indie software version of Amazon’s Prime Day:</p>\n<blockquote>\n<p>Below, you&rsquo;ll find a list of over 100 (🤯) Indie apps that are offering discounts for Indie App Sales, July 11-12! Each of these apps is developed by an Indie App Developer - that can mean a lot of different things, but generally speaking, these are built by very small teams, or individuals either full time or part time. Indie App Developers are the epitome of small businesses, and sure do appreciate your support!</p>\n</blockquote>\n<p><em>Via <a href=\"https://heydingus.net/blog/2023/7/its-a-prime-day-to-try-an-indie-app\">Jarrod Blundy at HeyDingus</a></em></p>\n",
 				"content_text": "[List of Indie Dev Sales Events](https://github.com/mattcorey/indie-dev-sales)\n\nMatt Corey put together a list of developers holding sales in an indie software version of Amazon’s Prime Day:\n\n> Below, you'll find a list of over 100 (🤯) Indie apps that are offering discounts for Indie App Sales, July 11-12! Each of these apps is developed by an Indie App Developer - that can mean a lot of different things, but generally speaking, these are built by very small teams, or individuals either full time or part time. Indie App Developers are the epitome of small businesses, and sure do appreciate your support!\n \n\n_Via [Jarrod Blundy at HeyDingus](https://heydingus.net/blog/2023/7/its-a-prime-day-to-try-an-indie-app)_\n",
-				"date_published": "2023-07-12T05:33:41-05:00",
+				"date_published": "2023-07-12T06:33:41-04:00",
 				"url": "https://joeross.me/2023/07/12/list-of-indie.html",
 				"tags": ["Links"]
 			},
@@ -485,7 +502,7 @@
 				
 				"content_html": "<p><a href=\"https://boingboing.net/2023/07/10/new-study-finds-sleep-loss-surprisingly-lifts-mood-in-some-depressed-individuals.html\">Mark Frauenfelder, writing at Boing Boing</a>:</p>\n<blockquote>\n<p>A recent study of sleep loss and depression found that one night of total sleep deprivation generally worsens mood and emotional regulation in healthy individuals, but induces a temporary lift in spirits for some individuals with depression.\n. . .\nThe findings were remarkable: lack of sleep escalated negative mood among the healthy subjects, but eased depressive symptoms in 43% of the patients with depression.</p>\n</blockquote>\n<p>Presented without comment. 😐</p>\n<p>Here’s <a href=\"https://www.pnas.org/doi/10.1073/pnas.2214505120\">a link to the study itself</a>. Let me know if any copies fall off the back of any trucks, because i don’t have access to PNAS.</p>\n",
 				"content_text": "[Mark Frauenfelder, writing at Boing Boing](https://boingboing.net/2023/07/10/new-study-finds-sleep-loss-surprisingly-lifts-mood-in-some-depressed-individuals.html):\n\n> A recent study of sleep loss and depression found that one night of total sleep deprivation generally worsens mood and emotional regulation in healthy individuals, but induces a temporary lift in spirits for some individuals with depression.\n> . . . \n> The findings were remarkable: lack of sleep escalated negative mood among the healthy subjects, but eased depressive symptoms in 43% of the patients with depression.\n\nPresented without comment. 😐\n\nHere’s [a link to the study itself](https://www.pnas.org/doi/10.1073/pnas.2214505120). Let me know if any copies fall off the back of any trucks, because i don’t have access to PNAS.\n",
-				"date_published": "2023-07-10T20:10:32-05:00",
+				"date_published": "2023-07-10T21:10:32-04:00",
 				"url": "https://joeross.me/2023/07/10/mark-frauenfelder-writing.html",
 				"tags": ["Links"]
 			},
@@ -494,7 +511,7 @@
 				
 				"content_html": "<p><a href=\"https://wiki.tilde.institute/w/firefox-address-bar-tips\">Firefox address bar modifiers - the tilde.institute wiki</a>:</p>\n<blockquote>\n<p>The address bar has become our entry point to the internet these days. Firefox in its default configuration does some sort of smart guess on what you type there. If it resembles a URL then the browser makes that request. If not, it sends the string you typed to your default search engine. It also includes some fuzzy search matches from your history and all that, which is fine 90% of the time, but sometimes you need a bit more control over what results it shows you.</p>\n</blockquote>\n<blockquote>\n<!-- raw HTML omitted -->\n</blockquote>\n<p>I had no idea. These are super-useful.</p>\n<p><em>(via <a href=\"https://news.ycombinator.com/item?id=36666116\">Hacker News</a>)</em></p>\n",
 				"content_text": "[Firefox address bar modifiers - the tilde.institute wiki](https://wiki.tilde.institute/w/firefox-address-bar-tips):\n\n> The address bar has become our entry point to the internet these days. Firefox in its default configuration does some sort of smart guess on what you type there. If it resembles a URL then the browser makes that request. If not, it sends the string you typed to your default search engine. It also includes some fuzzy search matches from your history and all that, which is fine 90% of the time, but sometimes you need a bit more control over what results it shows you.\n\n> <img src=\"uploads/2023/firefox-screenshot-2023-07-10t16-41-22.359z.png\" width=\"600\" height=\"197\" alt=\"Screenshot of Firefox address bar modifiers\">\n\nI had no idea. These are super-useful.\n\n_(via [Hacker News](https://news.ycombinator.com/item?id=36666116))_\n",
-				"date_published": "2023-07-10T11:50:59-05:00",
+				"date_published": "2023-07-10T12:50:59-04:00",
 				"url": "https://joeross.me/2023/07/10/firefox-address-bar.html",
 				"tags": ["Links"]
 			},
@@ -503,7 +520,7 @@
 				
 				"content_html": "<p>Breakfast at Monmouth Junction Kitchen</p>\n",
 				"content_text": "Breakfast at Monmouth Junction Kitchen\n",
-				"date_published": "2023-07-09T09:42:29-05:00",
+				"date_published": "2023-07-09T10:42:29-04:00",
 				"url": "https://joeross.me/2023/07/09/monmouth-junction-kitchen.html",
 				"tags": ["Checkins"]
 			},
@@ -512,7 +529,7 @@
 				
 				"content_html": "<p>I’m trying out a new cross-posting method, this time using the #RSS feed for a new “status” category in Micro.blog to cross-post to other services, like Mastodon and Bluesky. If it works, I can leave cross-posting deactivated by default on regular posts.</p>\n<p>(take 2&hellip;)</p>\n",
 				"content_text": "I’m trying out a new cross-posting method, this time using the #RSS feed for a new “status” category in Micro.blog to cross-post to other services, like Mastodon and Bluesky. If it works, I can leave cross-posting deactivated by default on regular posts.\r\n\r\n(take 2...)\n",
-				"date_published": "2023-07-06T14:21:03-05:00",
+				"date_published": "2023-07-06T15:21:03-04:00",
 				"url": "https://joeross.me/2023/07/06/im-trying-out.html",
 				"tags": ["Status"]
 			},
@@ -521,7 +538,7 @@
 				
 				"content_html": "<p>I guess we’re supposed to shit on <a href=\"https://www.threads.net/\">Threads</a>.</p>\n<p>Skepticism is valid. But they already collect data from Instagram users. And you can always deactivate or delete your account: <a href=\"https://help.instagram.com/139886812848894\">help.instagram.com/139886812&hellip;</a></p>\n<p>I’m <a href=\"https://www.threads.net/@joeross.me\">giving it a chance</a>, but the forced algo. timeline is probably a dealbreaker for me.</p>\n",
 				"content_text": "I guess we’re supposed to shit on [Threads](https://www.threads.net/).\n\nSkepticism is valid. But they already collect data from Instagram users. And you can always deactivate or delete your account: [help.instagram.com/139886812...](https://help.instagram.com/139886812848894)\n\nI’m [giving it a chance](https://www.threads.net/@joeross.me), but the forced algo. timeline is probably a dealbreaker for me.\n",
-				"date_published": "2023-07-06T01:37:41-05:00",
+				"date_published": "2023-07-06T02:37:41-04:00",
 				"url": "https://joeross.me/2023/07/06/i-guess-were.html",
 				"tags": ["Notes"]
 			},
@@ -530,7 +547,7 @@
 				
 				"content_html": "<p>My daughter shushed me while we watched Carl Sagan’s “Pale Blue Dot” today and I’ve never been more proud of anything than I was when she told me, quietly and politely, but firmly and resolutely, to “just be quiet for a minute and listen to the man talk about space.”</p>\n<p>Edit to add: She’s only 3 years old!</p>\n<p><a href=\"https://youtu.be/wupToqz1e2g\">youtu.be/wupToqz1e&hellip;</a></p>\n",
 				"content_text": "My daughter shushed me while we watched Carl Sagan’s “Pale Blue Dot” today and I’ve never been more proud of anything than I was when she told me, quietly and politely, but firmly and resolutely, to “just be quiet for a minute and listen to the man talk about space.”\n\nEdit to add: She’s only 3 years old!\n\n[youtu.be/wupToqz1e...](https://youtu.be/wupToqz1e2g)\n",
-				"date_published": "2023-07-04T18:18:06-05:00",
+				"date_published": "2023-07-04T19:18:06-04:00",
 				"url": "https://joeross.me/2023/07/04/my-daughter-shushed.html",
 				"tags": ["Notes"]
 			},
@@ -539,7 +556,7 @@
 				
 				"content_html": "<p><a href=\"https://bsky.app/profile/neilhimself.neilgaiman.com\">Neil Gaiman</a> liked a <a href=\"https://bsky.app/profile/joeross.me/post/3jzlzkpjcf52y\">post of mine</a> on Bluesky. It was actually a re-post of one of his own posts, and he’s famously interactive with folks on social media, so I’m not exactly special, but it’s fun to see!</p>\n<!-- raw HTML omitted -->\n<p>::: growling at my negative internal monologue monster :::</p>\n",
 				"content_text": "[Neil Gaiman](https://bsky.app/profile/neilhimself.neilgaiman.com) liked a [post of mine](https://bsky.app/profile/joeross.me/post/3jzlzkpjcf52y) on Bluesky. It was actually a re-post of one of his own posts, and he’s famously interactive with folks on social media, so I’m not exactly special, but it’s fun to see!\r\n\r\n<img src=\"uploads/2023/37ce3c9022.jpg\" width=\"600\" height=\"575\" alt=\"A screenshot of Neil Gaiman having liked a share of a Bluesky post he made.\">\r\n\r\n::: growling at my negative internal monologue monster :::\n",
-				"date_published": "2023-07-04T08:19:31-05:00",
+				"date_published": "2023-07-04T09:19:31-04:00",
 				"url": "https://joeross.me/2023/07/04/neil-gaiman-liked.html",
 				"tags": ["Notes"]
 			},
@@ -548,7 +565,7 @@
 				
 				"content_html": "<p><a href=\"https://blog.joeross.me/2023/07/02/starbucks-the-early.html\">This</a> was supposed to post to my Microblog via <a href=\"https://ownyourswarm.p3k.io/\">OwnYourSwarm</a> but I don’t know how to set up my theme etc. to make it look like a checkin and I’d appreciate any help #MicroBlog / #IndieWeb / #micropub geeks can offer.</p>\n<p>(I fished for help with this <a href=\"https://blog.joeross.me/2023/05/21/ive-been-playing.html\">about a month ago</a> but there were no bites.)</p>\n",
 				"content_text": "[This](https://blog.joeross.me/2023/07/02/starbucks-the-early.html) was supposed to post to my Microblog via [OwnYourSwarm](https://ownyourswarm.p3k.io/) but I don’t know how to set up my theme etc. to make it look like a checkin and I’d appreciate any help #MicroBlog / #IndieWeb / #micropub geeks can offer. \n\n(I fished for help with this [about a month ago](https://blog.joeross.me/2023/05/21/ive-been-playing.html) but there were no bites.)\n",
-				"date_published": "2023-07-02T06:48:05-05:00",
+				"date_published": "2023-07-02T07:48:05-04:00",
 				"url": "https://joeross.me/2023/07/02/this-was-supposed.html",
 				"tags": ["Notes"]
 			},
@@ -557,7 +574,7 @@
 				
 				"content_html": "<p>The early nerd gets the… something. I’m tired.</p>\n",
 				"content_text": "The early nerd gets the… something. I’m tired.\n",
-				"date_published": "2023-07-02T04:47:07-05:00",
+				"date_published": "2023-07-02T05:47:07-04:00",
 				"url": "https://joeross.me/2023/07/02/starbucks-the-early.html",
 				"tags": ["Checkins"]
 			},
@@ -566,7 +583,7 @@
 				"title": "🎧 “The One” by Taking Back Sunday (2023) ⭐️⭐️⭐️⭐️",
 				"content_html": "<p>It’s good. I’m happy it’s good.</p>\n<p>It came from <a href=\"https://www.nme.com/news/music/taking-back-sunday-return-with-first-new-single-in-four-years-the-one-3463502\">something sad</a>:</p>\n<blockquote>\n<p>“This song came from a riff that bassist Shaun Cooper wrote the day he lost his grandmother while she was in a nursing home at the start of the COVID pandemic.”</p>\n</blockquote>\n<p>But it’s something more than sad. This line especially gets me:</p>\n<blockquote>\n<p>Still, the words that I can&rsquo;t say go on and on and on and on</p>\n</blockquote>\n<p>It’s okay if you don’t like it, but I am not accepting any yucking of my yums at this time, thank you for understanding.</p>\n<p><a href=\"https://youtube.com/watch?v=vCJ5FprgAKs\">youtube.com/watch</a></p>\n<p>(<a href=\"https://found.ee/TBSTheOne\">Find it where you listen</a>)</p>\n",
 				"content_text": "It’s good. I’m happy it’s good. \n\nIt came from [something sad](https://www.nme.com/news/music/taking-back-sunday-return-with-first-new-single-in-four-years-the-one-3463502):\n\n> “This song came from a riff that bassist Shaun Cooper wrote the day he lost his grandmother while she was in a nursing home at the start of the COVID pandemic.”\n\nBut it’s something more than sad. This line especially gets me:\n\n> Still, the words that I can't say go on and on and on and on\n\nIt’s okay if you don’t like it, but I am not accepting any yucking of my yums at this time, thank you for understanding.\n\n[youtube.com/watch](https://youtube.com/watch?v=vCJ5FprgAKs)\n\n([Find it where you listen](https://found.ee/TBSTheOne))\n",
-				"date_published": "2023-07-02T04:28:49-05:00",
+				"date_published": "2023-07-02T05:28:49-04:00",
 				"url": "https://joeross.me/2023/07/02/the-one-by.html",
 				"tags": ["Listened"]
 			},
@@ -575,7 +592,7 @@
 				
 				"content_html": "<p>📷 Found my old <em><a href=\"https://trakt.tv/shows/fringe\">Fringe</a></em> hoodie while putting some stuff away. It’s pretty beat up, but a great reminder that it was one hell of a good show.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📷 Found my old _[Fringe](https://trakt.tv/shows/fringe)_ hoodie while putting some stuff away. It’s pretty beat up, but a great reminder that it was one hell of a good show.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-07-01T10:18:33-05:00",
+				"date_published": "2023-07-01T11:18:33-04:00",
 				"url": "https://joeross.me/2023/07/01/found-my-old.html",
 				"tags": ["Photos"]
 			},
@@ -584,7 +601,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I <strong>do not</strong> want spoilers <em>but</em> I would appreciate anyone seeing <em><a href=\"https://letterboxd.com/film/indiana-jones-and-the-dial-of-destiny/\">Indiana Jones and the Dial of Destiny</a></em> giving me a 👍🏻 or 👎🏻. I’m going to see it in the theater either way, but <em><a href=\"https://boxd.it/2aR8\">Crystal Skull</a></em> was… fine. I’m just hoping the last <em>Indiana Jones</em> film with Harrison Ford is much better.</p>\n",
-				"date_published": "2023-07-01T08:10:13-05:00",
+				"date_published": "2023-07-01T09:10:13-04:00",
 				"url": "https://joeross.me/2023/07/01/i-do-not.html",
 				"tags": ["Notes","Status"]
 			},
@@ -593,7 +610,7 @@
 				
 				"content_html": "<p>The Supreme Court has struck down the Biden administration’s student loan forgiveness in <em>Biden v. Nebraska</em> (<a href=\"https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf\">PDF</a>).</p>\n<p>I haven’t read through the entire opinion yet, but it appears the majority relied on the entirely fictional and opportunistically deployed major questions doctrine. More at <a href=\"https://www.scotusblog.com/case-files/cases/biden-v-nebraska-2/\">SCOTUSBlog</a>.</p>\n",
 				"content_text": "The Supreme Court has struck down the Biden administration’s student loan forgiveness in _Biden v. Nebraska_ ([PDF](https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf)).\n\nI haven’t read through the entire opinion yet, but it appears the majority relied on the entirely fictional and opportunistically deployed major questions doctrine. More at [SCOTUSBlog](https://www.scotusblog.com/case-files/cases/biden-v-nebraska-2/).\n",
-				"date_published": "2023-06-30T09:45:28-05:00",
+				"date_published": "2023-06-30T10:45:28-04:00",
 				"url": "https://joeross.me/2023/06/30/the-supreme-court.html",
 				"tags": ["Notes"]
 			},
@@ -602,7 +619,7 @@
 				
 				"content_html": "<p>Narwhal dev <a href=\"https://www.theverge.com/2023/6/29/23777992/reddit-third-party-ios-app-narwhal\">declining to answer</a> whether he made a deal with Reddit is him confirming he made a deal, as is Reddit’s line that they don’t disclose discussions. Some will pay $4 to $7 a month for their favorite Reddit app, but most won’t, or can’t. Can’t fault narwhal for surviving, but it feels icky.</p>\n",
 				"content_text": "Narwhal dev [declining to answer](https://www.theverge.com/2023/6/29/23777992/reddit-third-party-ios-app-narwhal) whether he made a deal with Reddit is him confirming he made a deal, as is Reddit’s line that they don’t disclose discussions. Some will pay $4 to $7 a month for their favorite Reddit app, but most won’t, or can’t. Can’t fault narwhal for surviving, but it feels icky.\n",
-				"date_published": "2023-06-30T03:16:18-05:00",
+				"date_published": "2023-06-30T04:16:18-04:00",
 				"url": "https://joeross.me/2023/06/30/narwhal-dev-declining.html",
 				"tags": ["Notes"]
 			},
@@ -611,7 +628,7 @@
 				
 				"content_html": "<p><a href=\"https://skybridge.fly.dev/\">SkyBridge</a> is a server that connects <a href=\"https://joinmastodon.org\">Mastodon</a> to <a href=\"https://bsky.app/\">Bluesky</a>, enabling the use of some Mastodon-only apps with your Bluesky account. Today I noticed that, at least in <a href=\"https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274\">Ivory</a> for iOS, you can access Bluesky feeds via the Mastodon lists screen.</p>\n<p>(I still have some Bluesky invites if anyone&rsquo;s interested…)</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "[SkyBridge](https://skybridge.fly.dev/) is a server that connects [Mastodon](https://joinmastodon.org) to [Bluesky](https://bsky.app/), enabling the use of some Mastodon-only apps with your Bluesky account. Today I noticed that, at least in [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) for iOS, you can access Bluesky feeds via the Mastodon lists screen.\r\n\r\n(I still have some Bluesky invites if anyone's interested…)\n\n<img src=\"uploads/2023/46157c91f6.png\" width=\"276\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-06-26T11:12:15-05:00",
+				"date_published": "2023-06-26T12:12:15-04:00",
 				"url": "https://joeross.me/2023/06/26/skybridge-is-a.html",
 				"tags": ["Notes"]
 			},
@@ -620,7 +637,7 @@
 				
 				"content_html": "<p>There are <a href=\"https://apps.apple.com/us/app/trunks-for-mastodon/id6444749479\">so</a> <a href=\"https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884\">many</a> <a href=\"https://apps.apple.com/us/app/mammoth-for-mastodon/id1667573899\">wonderful</a> #iOS apps for <a href=\"https://apps.apple.com/us/app/mastodon-for-iphone-and-ipad/id1571998974\">Mastodon</a><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, but <a href=\"https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274\">Ivory</a> is still my favorite. Just need it to add quote posts so I can point my #ADHD Eye of Sauron at a category of nerd stuff other than Mastodon apps.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Mastodon&rsquo;s official iOS app has <a href=\"https://joeross.me/uploads/2023/img-0813.png\">better two-tap moderation options</a> than most apps.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
 				"content_text": "There are [so](https://apps.apple.com/us/app/trunks-for-mastodon/id6444749479) [many](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) [wonderful](https://apps.apple.com/us/app/mammoth-for-mastodon/id1667573899) #iOS apps for [Mastodon](https://apps.apple.com/us/app/mastodon-for-iphone-and-ipad/id1571998974)[^1], but [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) is still my favorite. Just need it to add quote posts so I can point my #ADHD Eye of Sauron at a category of nerd stuff other than Mastodon apps.\n\n[^1]: Mastodon's official iOS app has [better two-tap moderation options](https://joeross.me/uploads/2023/img-0813.png) than most apps.\n",
-				"date_published": "2023-06-25T12:25:07-05:00",
+				"date_published": "2023-06-25T13:25:07-04:00",
 				"url": "https://joeross.me/2023/06/25/there-are-so.html",
 				"tags": ["Notes"]
 			},
@@ -629,7 +646,7 @@
 				
 				"content_html": "<p>Do you realize how much of Live Aid Freddie Mercury spent playing air guitar? Just one of the true gods of rock, air guitaring for what must have been half their 21-minute set, one of the best rock sets of all time, in front of 72,000 people. You love to see it.</p>\n<p><a href=\"https://youtu.be/PLIAp5nr0q0\">youtu.be/PLIAp5nr0&hellip;</a></p>\n",
 				"content_text": "Do you realize how much of Live Aid Freddie Mercury spent playing air guitar? Just one of the true gods of rock, air guitaring for what must have been half their 21-minute set, one of the best rock sets of all time, in front of 72,000 people. You love to see it.\n\n[youtu.be/PLIAp5nr0...](https://youtu.be/PLIAp5nr0q0)\n",
-				"date_published": "2023-06-24T08:26:23-05:00",
+				"date_published": "2023-06-24T09:26:23-04:00",
 				"url": "https://joeross.me/2023/06/24/do-you-realize.html",
 				"tags": ["Notes"]
 			},
@@ -638,7 +655,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>😁 Hey thanks @jmj@social.lol for the tip on getting my status.lol crossposting to Mastodon working again! </p>\n<p>Everyone on social.lol should check out Joanna’s app status.log: </p>\n<p><a href=\"https://apps.apple.com/us/app/status-log/id6444921793\">https://apps.apple.com/us/app/status-log/id6444921793</a></p>\n",
-				"date_published": "2023-06-23T04:53:30-05:00",
+				"date_published": "2023-06-23T05:53:30-04:00",
 				"url": "https://joeross.me/2023/06/23/hey-thanks-jmjsociallol.html"
 			},
 			{
@@ -646,7 +663,7 @@
 				"title": "📚 Finished: The Restaurant at the End of the Universe (1980), ⭐️⭐️⭐️⭐️",
 				"content_html": "<p>Yesterday I finished reading <a href=\"https://micro.blog/books/9780345391810\">The Restaurant at the End of the Universe</a> by Douglas Adams.</p>\n<p>️Maybe not as ruthlessly original as, well, the original, but better than a Vogon poem.</p>\n<p>Let the naysayers say their nays. Sure, it’s no <em>Hitchhikers</em>, but nothing was before, and nothing will be again. Unless we’re all living in a loop. In that case, <em>Hitchhikers</em> will, eventually, be <em>Hitchhikers</em>, again, er, for the first time.</p>\n<p>I read it to my 1- and 3-year-old a little each day or so at bedtime. As I said <a href=\"https://blog.joeross.me/2023/05/09/currently-reading-the.html\">when I started reading this book</a>, I changed some words and skipped a few bits, but they could tell it was pretty silly, for a more a grown-up book than they’re used to.</p>\n<p>Bottom line: It’s worth a read, which is a fair bit better than any of us should be saying about a lot of what’s written these days.</p>\n<p>Including book reviews. 🙃</p>\n<hr>\n<p><em>Read about my <a href=\"https://blog.joeross.me/ratings/\">personal ratings framework</a> for more information on my star ratings.</em></p>\n",
 				"content_text": "Yesterday I finished reading [The Restaurant at the End of the Universe](https://micro.blog/books/9780345391810) by Douglas Adams.\n\n️Maybe not as ruthlessly original as, well, the original, but better than a Vogon poem.\n\nLet the naysayers say their nays. Sure, it’s no _Hitchhikers_, but nothing was before, and nothing will be again. Unless we’re all living in a loop. In that case, _Hitchhikers_ will, eventually, be _Hitchhikers_, again, er, for the first time. \n\nI read it to my 1- and 3-year-old a little each day or so at bedtime. As I said [when I started reading this book](https://blog.joeross.me/2023/05/09/currently-reading-the.html), I changed some words and skipped a few bits, but they could tell it was pretty silly, for a more a grown-up book than they’re used to. \n\nBottom line: It’s worth a read, which is a fair bit better than any of us should be saying about a lot of what’s written these days. \n\nIncluding book reviews. 🙃\n\n---\n\n_Read about my [personal ratings framework](https://blog.joeross.me/ratings/) for more information on my star ratings._\n",
-				"date_published": "2023-06-23T04:34:39-05:00",
+				"date_published": "2023-06-23T05:34:39-04:00",
 				"url": "https://joeross.me/2023/06/23/finished-the-restaurant.html",
 				"tags": ["Books"]
 			},
@@ -655,7 +672,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Now I have <em>three</em> Bluesky invites. Let me know if you&#8217;re interested!</p>\n",
-				"date_published": "2023-06-21T02:58:58-05:00",
+				"date_published": "2023-06-21T03:58:58-04:00",
 				"url": "https://joeross.me/2023/06/21/now-i-have.html",
 				"tags": ["Notes"]
 			},
@@ -664,7 +681,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🔵 Now I have <em>three</em> Bluesky invites. Let me know if you're interested!</p>\n",
-				"date_published": "2023-06-21T02:57:22-05:00",
+				"date_published": "2023-06-21T03:57:22-04:00",
 				"url": "https://joeross.me/2023/06/21/025722.html"
 			},
 			{
@@ -672,7 +689,7 @@
 				
 				"content_html": "<p>CEO Steve Huffman’s <a href=\"https://www.theverge.com/2023/6/13/23759559/reddit-internal-memo-api-pricing-changes-steve-huffman\">bumbling, slow-motion destruction of reddit</a> would be a huge loss to collective knowledge on the web.</p>\n<p>Without the ability to append “reddit” to most queries, <a href=\"https://www.theverge.com/2022/9/28/23377358/google-search-reddit-discussions-forums-results\">Google Search is mostly worthless</a> unless you’re looking for sponsored content or SEO-abusing nonsense results.</p>\n",
 				"content_text": "CEO Steve Huffman’s [bumbling, slow-motion destruction of reddit](https://www.theverge.com/2023/6/13/23759559/reddit-internal-memo-api-pricing-changes-steve-huffman) would be a huge loss to collective knowledge on the web.\n\nWithout the ability to append “reddit” to most queries, [Google Search is mostly worthless](https://www.theverge.com/2022/9/28/23377358/google-search-reddit-discussions-forums-results) unless you’re looking for sponsored content or SEO-abusing nonsense results.\n",
-				"date_published": "2023-06-14T08:42:16-05:00",
+				"date_published": "2023-06-14T09:42:16-04:00",
 				"url": "https://joeross.me/2023/06/14/ceo-steve-huffmans.html",
 				"tags": ["Links"]
 			},
@@ -681,7 +698,7 @@
 				
 				"content_html": "<p>My 3-year-old just asked me if Mark Hoppus is me on this video of Blink 182 playing <em>I Miss You</em> at Coachella 2023.</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/7pYqbVztRtk\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
 				"content_text": "My 3-year-old just asked me if Mark Hoppus is me on this video of Blink 182 playing _I Miss You_ at Coachella 2023. \n\n{{< youtube 7pYqbVztRtk >}}\n",
-				"date_published": "2023-06-10T07:06:52-05:00",
+				"date_published": "2023-06-10T08:06:52-04:00",
 				"url": "https://joeross.me/2023/06/10/my-yearold-just.html",
 				"tags": ["Notes"]
 			},
@@ -690,7 +707,7 @@
 				
 				"content_html": "<p>I took this photo tonight while leaving work at 18th and Market Streets in Philly. It doesn’t really show how thick the air was, and it’s only slightly better at home in Princeton. Be safe everyone.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I took this photo tonight while leaving work at 18th and Market Streets in Philly. It doesn’t really show how thick the air was, and it’s only slightly better at home in Princeton. Be safe everyone. \n\n<img src=\"uploads/2023/b71d4649b1.jpg\" width=\"450\" height=\"600\" alt=\"A photo taken with an iPhone 14 Pro of Market Street in Philly, a dense haze hanging over the city as a result of Canadian wildfires. \">\n",
-				"date_published": "2023-06-08T00:19:04-05:00",
+				"date_published": "2023-06-08T01:19:04-04:00",
 				"url": "https://joeross.me/2023/06/08/i-took-this.html",
 				"tags": ["Photos"]
 			},
@@ -699,7 +716,7 @@
 				
 				"content_html": "<p>Jeri Ryan, the actor who plays Seven of Nine on various <em>Stars Trek</em>, favorited a post of mine on Mastodon today.</p>\n<p>That’s it.</p>\n<p>That’s the whole blog post.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Jeri Ryan, the actor who plays Seven of Nine on various _Stars Trek_, favorited a post of mine on Mastodon today. \r\n\r\nThat’s it. \r\n\r\nThat’s the whole blog post. \r\n\n\n<img src=\"uploads/2023/506a84bfe2.jpeg\" width=\"600\" height=\"494\" alt=\"A screenshot from Mastodon for iOS, showing that Jeri Ryan favorites a quote post I made of her praising my favorite third-party Mastodon app, Ivory for iOS by Tapbots.\">\n",
-				"date_published": "2023-06-07T21:35:45-05:00",
+				"date_published": "2023-06-07T22:35:45-04:00",
 				"url": "https://joeross.me/2023/06/07/jeri-ryan-the.html",
 				"tags": ["Notes"]
 			},
@@ -708,7 +725,7 @@
 				
 				"content_html": "<p><a href=\"https://www.thedailybeast.com/california-lawyers-john-barber-and-jeff-ranen-former-lewis-brisbois-partners-emails-exposed\">“Lawyers’ vile emails exposed”</a></p>\n<p>Sometimes I write a long, angry blog post about a thing, fully intending to post it all for the world to see, but then I save it to my journaling app, and just post a link to what prompted the angry draft while I decide if I should make my angry thoughts public, whether I should edit them a bit, whether the anger is productive or will just be seen as virtue signaling.</p>\n<p>This is one of those links. <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>The <em>New York Post</em> broke the story, but I&rsquo;m a fan of supporting that rag with even a single link on my minuscule blog, so I&rsquo;m linking to the <em>Daily Beast</em> re-write. You&rsquo;ll find the <em>Post</em> link there easily enough if you want  it.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
 				"content_text": "[“Lawyers’ vile emails exposed”](https://www.thedailybeast.com/california-lawyers-john-barber-and-jeff-ranen-former-lewis-brisbois-partners-emails-exposed)\n\nSometimes I write a long, angry blog post about a thing, fully intending to post it all for the world to see, but then I save it to my journaling app, and just post a link to what prompted the angry draft while I decide if I should make my angry thoughts public, whether I should edit them a bit, whether the anger is productive or will just be seen as virtue signaling.\n\nThis is one of those links. [^1]\n\n[^1]: The _New York Post_ broke the story, but I'm a fan of supporting that rag with even a single link on my minuscule blog, so I'm linking to the _Daily Beast_ re-write. You'll find the _Post_ link there easily enough if you want  it.\n",
-				"date_published": "2023-06-03T22:58:59-05:00",
+				"date_published": "2023-06-03T23:58:59-04:00",
 				"url": "https://joeross.me/2023/06/03/lawyers-vile-emails.html",
 				"tags": ["Links"]
 			},
@@ -717,7 +734,7 @@
 				
 				"content_html": "<p>It’s a whole vibe.</p>\n",
 				"content_text": "It’s a whole vibe.\n",
-				"date_published": "2023-06-03T12:24:04-05:00",
+				"date_published": "2023-06-03T13:24:04-04:00",
 				"url": "https://joeross.me/2023/06/03/columbus-farmers-market.html",
 				"tags": ["Checkins"]
 			},
@@ -726,7 +743,7 @@
 				
 				"content_html": "<p><a href=\"https://www.oldestsearch.com/\">Oldest Search - Search for the oldest result on internet</a></p>\n<p>This is one of those things I just love about the internet, a fun, simple thing, done well. The oldest result for my name is a 1982 NY Times obituary on Joe E. Ross, another New Jersey native, of Car 54 fame.</p>\n",
 				"content_text": "[Oldest Search - Search for the oldest result on internet](https://www.oldestsearch.com/)\n\nThis is one of those things I just love about the internet, a fun, simple thing, done well. The oldest result for my name is a 1982 NY Times obituary on Joe E. Ross, another New Jersey native, of Car 54 fame.\n",
-				"date_published": "2023-06-02T03:48:37-05:00",
+				"date_published": "2023-06-02T04:48:37-04:00",
 				"url": "https://joeross.me/2023/06/02/oldest-search-search.html",
 				"tags": ["Links"]
 			},
@@ -735,7 +752,7 @@
 				
 				"content_html": "<p>I verified myself on nostr which required logging into cpanel, creating a json file, editing my .htaccess, and using a CORS tester. It was exhausting. <em>THEN</em> I found out if I don&rsquo;t give some guy on the internet like 1 USD worth of bitcoin from my lightning wallet, whatever the hell that is, I&rsquo;ll be stuck on spammy public relays.</p>\n",
 				"content_text": "I verified myself on nostr which required logging into cpanel, creating a json file, editing my .htaccess, and using a CORS tester. It was exhausting. *THEN* I found out if I don't give some guy on the internet like 1 USD worth of bitcoin from my lightning wallet, whatever the hell that is, I'll be stuck on spammy public relays.\n",
-				"date_published": "2023-06-02T01:52:26-05:00",
+				"date_published": "2023-06-02T02:52:26-04:00",
 				"url": "https://joeross.me/2023/06/02/i-verified-myself.html",
 				"tags": ["Notes"]
 			},
@@ -744,7 +761,7 @@
 				
 				"content_html": "<p><a href=\"https://daverupert.com/2023/05/markdown-images-anti-pattern/\">Markdown images are an anti-pattern | daverupert.com</a></p>\n<p>Dave Rupert doesn&rsquo;t see a place in Markdown for images, and I agree. Just use an img tag. But his good point and my agreement with it aren&rsquo;t really the reason I&rsquo;m sharing a link to his post.</p>\n<p>I&rsquo;m sharing it because he writes with the voice of a sage but slightly jaded manager who&rsquo;s just trying to save new developers from bad habits and messy code. It&rsquo;s refreshingly devoid of arrogance, and refreshingly full of practical examples of why his position makes sense.</p>\n<p>It&rsquo;s also how I <em>try</em> to approach working with less experienced lawyers. Just replace &ldquo;developers&rdquo; with &ldquo;lawyers&rdquo; and &ldquo;code&rdquo; with &ldquo;argumentation.&rdquo;</p>\n<p><em>Thanks to <a href=\"https://meyerweb.com/\">Eric Meyer</a> for <a href=\"https://mastodon.social/@Meyerweb/110431206335150934\">linking</a> to Rupert&rsquo;s post on Mastodon, where I found it.</em></p>\n",
 				"content_text": "[Markdown images are an anti-pattern | daverupert.com](https://daverupert.com/2023/05/markdown-images-anti-pattern/)\n\nDave Rupert doesn't see a place in Markdown for images, and I agree. Just use an img tag. But his good point and my agreement with it aren't really the reason I'm sharing a link to his post. \n\nI'm sharing it because he writes with the voice of a sage but slightly jaded manager who's just trying to save new developers from bad habits and messy code. It's refreshingly devoid of arrogance, and refreshingly full of practical examples of why his position makes sense. \n\nIt's also how I *try* to approach working with less experienced lawyers. Just replace \"developers\" with \"lawyers\" and \"code\" with \"argumentation.\"\n\n_Thanks to [Eric Meyer](https://meyerweb.com/) for [linking](https://mastodon.social/@Meyerweb/110431206335150934) to Rupert's post on Mastodon, where I found it._\n",
-				"date_published": "2023-05-27T12:40:04-05:00",
+				"date_published": "2023-05-27T13:40:04-04:00",
 				"url": "https://joeross.me/2023/05/27/markdown-images-are.html",
 				"tags": ["Links"]
 			},
@@ -753,7 +770,7 @@
 				
 				"content_html": "<p><a href=\"https://furbo.org/2023/04/12/announcing-blank/\">Craig Hockenberry, announces &lsquo;Blank&rsquo; for Apple tvOS</a></p>\n<blockquote>\n<p>I’m happy to announce the release of a new tvOS app called <a href=\"https://apps.apple.com/us/app/blank-tv/id1550519498\">Blank</a>. It turns your screen black and keeps it that way until you press any button on a remote. Seriously, that’s all it does.</p>\n</blockquote>\n<p>Simple and useful.</p>\n",
 				"content_text": "[Craig Hockenberry, announces 'Blank' for Apple tvOS](https://furbo.org/2023/04/12/announcing-blank/)\n\n> I’m happy to announce the release of a new tvOS app called [Blank](https://apps.apple.com/us/app/blank-tv/id1550519498). It turns your screen black and keeps it that way until you press any button on a remote. Seriously, that’s all it does.\n\nSimple and useful.\n",
-				"date_published": "2023-05-22T14:45:00-05:00",
+				"date_published": "2023-05-22T15:45:00-04:00",
 				"url": "https://joeross.me/2023/05/22/craig-hockenberry-announcing.html",
 				"tags": ["Links"]
 			},
@@ -762,7 +779,7 @@
 				
 				"content_html": "<p><a href=\"https://sixcolors.com/post/2023/05/mac-gmail-client-mimestream-reaches-1-0/\">Mac Gmail client Mimestream reaches 1.0</a></p>\n<p>Jason Snell, writing at Six Colors:</p>\n<blockquote>\n<p>If you’re a Gmail user, Mimestream will be a revelation. Since it was built from the ground up to understand Google’s approach to email, it doesn’t suffer from the weird workarounds required to map an IMAP protocol metaphor onto Gmail’s particular quirks. Instead, it behaves… like Gmail. But in a pure, Swift-driven Mac app.</p>\n</blockquote>\n<p>Mimestream is by far the best experience a Gmail user can possibly have on a Mac. It&rsquo;s been rock solid in my daily use throughout the beta, and having those familiar keyboard shortcuts let&rsquo;s me move through email like lightning.</p>\n<p>But, while betas are free, honest-to-goodness one-point-ohs have price tags, as they should:</p>\n<blockquote>\n<p>The biggest change in going to version 1.0 is that, after two years of using an in-progress email app for free, it’s time for Mimestream to become a real app—with real money changing hands. The app is available as a $5 monthly subscription or a $50 annual subscription. (There’s a 40% discount offer for year one available for the next few weeks.)</p>\n</blockquote>\n<p>I just put down my $30, and I won&rsquo;t think twice next year to put down the full $50. Software that saves you frustration and time is worth every penny.</p>\n",
 				"content_text": "[Mac Gmail client Mimestream reaches 1.0](https://sixcolors.com/post/2023/05/mac-gmail-client-mimestream-reaches-1-0/)\n\nJason Snell, writing at Six Colors:\n\n> If you’re a Gmail user, Mimestream will be a revelation. Since it was built from the ground up to understand Google’s approach to email, it doesn’t suffer from the weird workarounds required to map an IMAP protocol metaphor onto Gmail’s particular quirks. Instead, it behaves… like Gmail. But in a pure, Swift-driven Mac app.\n\nMimestream is by far the best experience a Gmail user can possibly have on a Mac. It's been rock solid in my daily use throughout the beta, and having those familiar keyboard shortcuts let's me move through email like lightning. \n\nBut, while betas are free, honest-to-goodness one-point-ohs have price tags, as they should:\n\n> The biggest change in going to version 1.0 is that, after two years of using an in-progress email app for free, it’s time for Mimestream to become a real app—with real money changing hands. The app is available as a $5 monthly subscription or a $50 annual subscription. (There’s a 40% discount offer for year one available for the next few weeks.)\n\nI just put down my $30, and I won't think twice next year to put down the full $50. Software that saves you frustration and time is worth every penny.\n",
-				"date_published": "2023-05-22T12:34:49-05:00",
+				"date_published": "2023-05-22T13:34:49-04:00",
 				"url": "https://joeross.me/2023/05/22/mac-gmail-client.html",
 				"tags": ["Links"]
 			},
@@ -771,7 +788,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🌞 I have two Bluesky invites if anyone is interested. However, I’m only considering requests from people who will swear never to call posts on Bluesky… what lots of people on Bluesky are calling them. It’s not okay.</p>\n",
-				"date_published": "2023-05-22T05:10:03-05:00",
+				"date_published": "2023-05-22T06:10:03-04:00",
 				"url": "https://joeross.me/2023/05/22/051003.html"
 			},
 			{
@@ -779,7 +796,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I have two Bluesky invites if anyone is interested. However, I&#8217;m only considering requests from people who will swear never to call posts on Bluesky&#8230; what lots of people on Bluesky are calling them. It&#8217;s not okay.</p>\n",
-				"date_published": "2023-05-22T05:07:50-05:00",
+				"date_published": "2023-05-22T06:07:50-04:00",
 				"url": "https://joeross.me/2023/05/22/i-have-two.html",
 				"tags": ["Notes"]
 			},
@@ -788,7 +805,7 @@
 				"title": "Moon, 2009 - ★★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/1z/15/kh/dw/ydmC5WsPEhMZKV7VwQ8jT8hQLlc-0-600-0-900-crop.jpg?v=4343a06e20\"/></p> <p>⭐️⭐️⭐️⭐️⭐️ (5 out of 5 stars)</p><p>This is the last one for today, I promise. </p><p>Another rewatch, Sam Rockwell’s performance puts this movie on a level with <i>The Martian. <br /></i><br />I know they’re very different movies, but, for my money, <i>Moon</i> does at just as much with fewer/older VFX and a <i>much</i> lower budget.</p><p>How much lower? </p><p>Well, <i>The Martian</i> had a $108 million budget. (<a href=\"https://www.hollywoodreporter.com/news/general-news/martian-truth-todd-mccarthys-5-819231/\" rel=\"nofollow\">Source</a>, via <a href=\"https://en.wikipedia.org/wiki/The_Martian_(film)?\" rel=\"nofollow\">Wikipedia</a>)<br /><i><br />Moon</i> had a <i>$5 million</i> budget. (<a href=“https://web.archive.org/web/20190307072156/www.syfy.com/syfywire/how_david_bowies_son_woun”>Archived source</a>, via <a href=\"https://en.wikipedia.org/wiki/Moon_(2009_film)\" rel=\"nofollow\">Wikipedia</a>)</p><p>And a little piece of trivia: <a href=\"https://en.wikipedia.org/wiki/Benedict_Wong\" rel=\"nofollow\">Benedict Wong</a> is in both <i>Moon</i> and <i>The Martian</i>, not to mention<i> Annihilation</i>, which I also <a href=\"https://blog.joeross.me/2023/05/22/annihilation.html\" rel=\"nofollow\">recently re-watched</a>.</p>\n",
-				"date_published": "2023-05-22T00:34:57-05:00",
+				"date_published": "2023-05-22T01:34:57-04:00",
 				"url": "https://joeross.me/2023/05/22/moon.html",
 				"tags": ["Watched"]
 			},
@@ -797,7 +814,7 @@
 				"title": "Annihilation, 2018 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/2/7/7/8/4/227784-annihilation-0-600-0-900-crop.jpg?v=35308091d6\"/></p> <p>⭐️⭐️⭐️⭐️ (4 out of 5 stars)</p><p>I can confirm in watching this movie again that it is ambitious, original and has a fully committed cast. </p><p>If you like sci-fi and somehow haven’t seen Annihilation yet, do yourself a favor and watch it.</p>\n",
-				"date_published": "2023-05-21T23:19:57-05:00",
+				"date_published": "2023-05-22T00:19:57-04:00",
 				"url": "https://joeross.me/2023/05/22/annihilation.html",
 				"tags": ["Watched"]
 			},
@@ -806,7 +823,7 @@
 				"title": "The Menu, 2022 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/2/1/3/2/3/521323-the-menu-0-600-0-900-crop.jpg?v=d00a0d03a8\"/></p> <p>⭐️⭐️⭐️ (3 stars out of 5)</p><p>I don’t regret watching this and I would certainly recommend it to certain people, but I’m not sure I’ll ever need to watch it again.</p>\n",
-				"date_published": "2023-05-21T19:32:35-05:00",
+				"date_published": "2023-05-21T20:32:35-04:00",
 				"url": "https://joeross.me/2023/05/21/the-menu.html",
 				"tags": ["Watched"]
 			},
@@ -815,7 +832,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I’ve been playing around with using <a href=\"https://ownyourswarm.p3k.io/\">OwnYourSwarm</a> and the idea of posting only certain checkins publicly on my Micro.blog. If anyone has any experience with it, especially with ironing out weirdness/rookie mistakes, let me know!</p>\n",
-				"date_published": "2023-05-21T19:11:45-05:00",
+				"date_published": "2023-05-21T20:11:45-04:00",
 				"url": "https://joeross.me/2023/05/21/ive-been-playing.html",
 				"tags": ["Notes"]
 			},
@@ -824,7 +841,7 @@
 				
 				"content_html": "<p>D&amp;R Canal.</p>\n",
 				"content_text": "D&R Canal. \n",
-				"date_published": "2023-05-21T12:55:28-05:00",
+				"date_published": "2023-05-21T13:55:28-04:00",
 				"url": "https://joeross.me/2023/05/21/dr-canal.html",
 				"tags": ["Checkins"]
 			},
@@ -833,7 +850,7 @@
 				
 				"content_html": "<p>Checked in at D &amp; R Canal @ Kingston</p>\n",
 				"content_text": "Checked in at D & R Canal @ Kingston\n",
-				"date_published": "2023-05-21T11:44:45-05:00",
+				"date_published": "2023-05-21T12:44:45-04:00",
 				"url": "https://joeross.me/2023/05/21/checked-in-at.html",
 				"tags": ["Checkins"]
 			},
@@ -842,7 +859,7 @@
 				"title": "Ant-Man and the Wasp: Quantumania, 2023 - ★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/6/6/2/3/7/566237-ant-man-and-the-wasp-quantumania-0-600-0-900-crop.jpg?v=27ced3fac4\"/></p> <p>⭐️ (1 star out of 5</p><p>Wouldn’t watch again, wouldn’t recommend</p><p>The story was incoherent except as a forced setup of Kang and of passing of the Ant-Man-tle to Lang’s daughter.</p>\n",
-				"date_published": "2023-05-20T22:23:50-05:00",
+				"date_published": "2023-05-20T23:23:50-04:00",
 				"url": "https://joeross.me/2023/05/20/antman-and-the.html",
 				"tags": ["Watched"]
 			},
@@ -851,7 +868,7 @@
 				
 				"content_html": "<p>Camp Taylor. Checked in at Camp Taylor. A campfire in the daylight. (@ Camp Taylor Campground, NJ, USA)</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Camp Taylor. Checked in at Camp Taylor. A campfire in the daylight. (@ Camp Taylor Campground, NJ, USA)\r\n\r\n<img src=\"uploads/2023/274ec9b1aa.jpg\" width=\"600\" height=\"450\" alt=\"A campfire in the daylight at Camp Taylor, New Jersey\" />\n",
-				"date_published": "2023-05-15T17:02:17-05:00",
+				"date_published": "2023-05-15T18:02:17-04:00",
 				"url": "https://joeross.me/2023/05/15/camp-taylor-checked.html",
 				"tags": ["Photos"]
 			},
@@ -860,7 +877,7 @@
 				
 				"content_html": "<p>Justice Gorsuch, during #SCOTUS oral arguments in Counterman v. Colorado, displaying a kind of intellectual dishonesty that must have had Alito beaming proudly in the direction of his more junior colleague</p>\n<!-- raw HTML omitted -->\n<p>(Originally shared at <a href=\"https://mastodon.social/@joeross/110372909294212147\">Mastodon</a>)</p>\n",
 				"content_text": "Justice Gorsuch, during #SCOTUS oral arguments in Counterman v. Colorado, displaying a kind of intellectual dishonesty that must have had Alito beaming proudly in the direction of his more junior colleague\n\n<div style=\"align:center;\">\n<video controls width=\"250\" src=\"/uploads/2023/f5331a0941.mp4\" type=\"video/webm\">\n</video>\n</div>\n\n\n(Originally shared at [Mastodon](https://mastodon.social/@joeross/110372909294212147))\n",
-				"date_published": "2023-05-15T09:33:34-05:00",
+				"date_published": "2023-05-15T10:33:34-04:00",
 				"url": "https://joeross.me/2023/05/15/justice-gorsuch-during.html",
 				"tags": ["Notes"]
 			},
@@ -869,7 +886,7 @@
 				"title": "Castle in the Sky, 1986",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/1/5/7/46157-castle-in-the-sky-0-600-0-900-crop.jpg?v=b1924d4dcd\"/></p> <p>Watched on Sunday May 14, 2023.</p>\n",
-				"date_published": "2023-05-14T19:14:44-05:00",
+				"date_published": "2023-05-14T20:14:44-04:00",
 				"url": "https://joeross.me/2023/05/14/castle-in-the.html",
 				"tags": ["Photos"]
 			},
@@ -878,7 +895,7 @@
 				
 				"content_html": "<p>Checked in at Camp Taylor. Another night, another shot of the sky through the trees (@ Camp Taylor Campground, NJ, USA)</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Checked in at Camp Taylor. Another night, another shot of the sky through the trees (@ Camp Taylor Campground, NJ, USA)\n\n<img src=\"uploads/2023/bd7395c531.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-05-14T02:01:00-05:00",
+				"date_published": "2023-05-14T03:01:00-04:00",
 				"url": "https://joeross.me/2023/05/14/checked-in-at.html",
 				"tags": ["Checkins","Photos"]
 			},
@@ -887,7 +904,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Checked in at Camp Taylor. </p>\n\n<p>Camping with some family to celebrate my upcoming ██th birthday.</p>\n",
-				"date_published": "2023-05-13T19:09:52-05:00",
+				"date_published": "2023-05-13T20:09:52-04:00",
 				"url": "https://joeross.me/2023/05/13/checked-in-at.html",
 				"tags": ["Checkins"]
 			},
@@ -896,7 +913,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I love the big overlap in the user communities at <a href=\"https://omg.lol\">omg.lol</a> and <a href=\"https://micro.blog\">Micro.blog</a>. There’s something about both platforms that draws a certain kind of geek and I think it’s great.</p>\n",
-				"date_published": "2023-05-13T18:18:19-05:00",
+				"date_published": "2023-05-13T19:18:19-04:00",
 				"url": "https://joeross.me/2023/05/13/i-love-the.html",
 				"tags": ["Notes"]
 			},
@@ -905,7 +922,7 @@
 				
 				"content_html": "<p>The sky through the trees (@ Camp Taylor Campground, NJ, USA)</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The sky through the trees (@ Camp Taylor Campground, NJ, USA)\n\n<img src=\"uploads/2023/3b39dd2476.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-05-13T17:29:35-05:00",
+				"date_published": "2023-05-13T18:29:35-04:00",
 				"url": "https://joeross.me/2023/05/13/the-sky-through.html",
 				"tags": ["Photos"]
 			},
@@ -914,7 +931,7 @@
 				
 				"content_html": "<p>Neil Gaiman <a href=\"https://bsky.app/profile/neilhimself.bsky.social/post/3jvfeemvory2m\">announced season 2 of Good Omens</a> on Bluesky today. I enjoyed <a href=\"https://en.wikipedia.org/wiki/Good_Omens_(TV_series)\">season 1</a> which, though it had its faults, was a really pleasant display of the chemistry between its leads, David Tenant as the demon Crowley and Michael Sheen as the angel Aziraphale.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Neil Gaiman [announced season 2 of Good Omens](https://bsky.app/profile/neilhimself.bsky.social/post/3jvfeemvory2m) on Bluesky today. I enjoyed [season 1](https://en.wikipedia.org/wiki/Good_Omens_(TV_series)) which, though it had its faults, was a really pleasant display of the chemistry between its leads, David Tenant as the demon Crowley and Michael Sheen as the angel Aziraphale. \n\n<img src=\"uploads/2023/a405149b29.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-05-10T13:30:46-05:00",
+				"date_published": "2023-05-10T14:30:46-04:00",
 				"url": "https://joeross.me/2023/05/10/neil-gaiman-announced.html",
 				"tags": ["Notes","Photos"]
 			},
@@ -923,7 +940,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780345391810\">The Restaurant at the End of the Universe</a> by Douglas Adams 📚</p>\n<hr>\n<p>I’m reading this one with the kids at bedtime. I definitely do a bit of light word replacement here and there, mostly where death or sex are mentioned. But it’s fun, especially with the 3-year-old, who can understand just enough of it to be interested but has sufficient trouble keeping up with the weirdness to make it, eventually, conducive to falling asleep.</p>\n",
 				"content_text": "Currently reading: [The Restaurant at the End of the Universe](https://micro.blog/books/9780345391810) by Douglas Adams 📚\n\n---\n\nI’m reading this one with the kids at bedtime. I definitely do a bit of light word replacement here and there, mostly where death or sex are mentioned. But it’s fun, especially with the 3-year-old, who can understand just enough of it to be interested but has sufficient trouble keeping up with the weirdness to make it, eventually, conducive to falling asleep.\n",
-				"date_published": "2023-05-09T03:36:32-05:00",
+				"date_published": "2023-05-09T04:36:32-04:00",
 				"url": "https://joeross.me/2023/05/09/currently-reading-the.html",
 				"tags": ["Books"]
 			},
@@ -932,7 +949,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p><a href=\"https://www.theverge.com/2023/5/5/23713232/bluesky-no-presidents-no-kings-policy\">Please stop inviting heads of state to Bluesky</a> ⟶</p>\n\n<p>The Verge’s Elizabeth Lopatto reports on Bluesky’s refusal, for now, to allow national leaders on the platform.</p>\n\n<p>(<em>This was originally auto-posted via RSS from Pinboard but I had to edit it because the actual link didn’t come through. I’m experimenting a bit…</em>)</p>\n",
-				"date_published": "2023-05-06T09:16:14-05:00",
+				"date_published": "2023-05-06T10:16:14-04:00",
 				"url": "https://joeross.me/2023/05/06/please-stop-inviting.html",
 				"tags": ["Notes"]
 			},
@@ -941,7 +958,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🗨️ Re-installing the twitter app… just for a bit so I can complain to Dropbox about their gross downgrading flow dark patterns…</p>\n",
-				"date_published": "2023-05-06T03:58:13-05:00",
+				"date_published": "2023-05-06T04:58:13-04:00",
 				"url": "https://joeross.me/2023/05/06/reinstalling-the-twitter.html"
 			},
 			{
@@ -949,7 +966,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Mandibles, night-blooming jasmine, and in-utero memories. These are the things <a href=\"https://youtu.be/cyXr1vrT8G0\">a great Nic Cage interview</a> is made of. </p>\n",
-				"date_published": "2023-05-05T23:22:38-05:00",
+				"date_published": "2023-05-06T00:22:38-04:00",
 				"url": "https://joeross.me/2023/05/06/mandibles-nightblooming-jasmine.html",
 				"tags": ["Notes"]
 			},
@@ -958,7 +975,7 @@
 				"title": "If You Build It",
 				"content_html": "<p>I’ve been poking around Bluesky and it seems like they’ve really opened up the gates over there. I’m seeing far more familiar names and avatars. And everyone seems cool, as long as you can avoid the crypto/web3 nonsense.</p>\n<p>(<em>This isn&rsquo;t about Jack, or any of weird takes he&rsquo;s been dropping lately <a href=\"https://staging.bsky.app/profile/jack.bsky.social\">at Bluesky</a>.</em>)</p>\n<p>And using my domain name as my username is really, really cool.</p>\n<p>But what made me want to write this is that the Bluesky team is actively involved and genuinely listening to positive and critical feedback, which is probably my favorite part of it so far. And I realize now that an active presence by the people who build it is what makes a social network appealing to me.</p>\n<p>I can find a community of folks I like anywhere. Geeks are like water: we just keep spreading out until we’re everywhere. But my favorite communities in a long, long time, <a href=\"https://omg.lol\">omg.lol</a> and <a href=\"https:/micro.blog\">micro.blog</a>, are fun and comfortable and challenging because their founders/owners/developers are constantly present.</p>\n<p>They built something they love, betting that they could at least make it self-sustaining from a business standpoint because they had a sense of the kind of communities that were poorly served by pre-existing platforms.</p>\n<p>for themselves because they wanted it, and then they realized other people would probably like it too, and then they realized that they could charge a really reasonable amount of money per user and build a business out of it.</p>\n",
 				"content_text": "I’ve been poking around Bluesky and it seems like they’ve really opened up the gates over there. I’m seeing far more familiar names and avatars. And everyone seems cool, as long as you can avoid the crypto/web3 nonsense. \n\n(_This isn't about Jack, or any of weird takes he's been dropping lately [at Bluesky](https://staging.bsky.app/profile/jack.bsky.social)._)\n\nAnd using my domain name as my username is really, really cool. \n\nBut what made me want to write this is that the Bluesky team is actively involved and genuinely listening to positive and critical feedback, which is probably my favorite part of it so far. And I realize now that an active presence by the people who build it is what makes a social network appealing to me. \n\nI can find a community of folks I like anywhere. Geeks are like water: we just keep spreading out until we’re everywhere. But my favorite communities in a long, long time, [omg.lol](https://omg.lol) and [micro.blog](https:/micro.blog), are fun and comfortable and challenging because their founders/owners/developers are constantly present. \n\nThey built something they love, betting that they could at least make it self-sustaining from a business standpoint because they had a sense of the kind of communities that were poorly served by pre-existing platforms.\n\nfor themselves because they wanted it, and then they realized other people would probably like it too, and then they realized that they could charge a really reasonable amount of money per user and build a business out of it. \n\n",
-				"date_published": "2023-04-30T00:55:51-05:00",
+				"date_published": "2023-04-30T01:55:51-04:00",
 				"url": "https://joeross.me/2023/04/28/if-you-build.html",
 				"tags": ["Notes"]
 			},
@@ -967,7 +984,7 @@
 				
 				"content_html": "<p>As I said on Bluesky itself: This is… not a good idea at all…</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "As I said on Bluesky itself: This is… not a good idea at all…\n\n<img src=\"uploads/2023/357758c6af.jpg\" width=\"560\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-04-29T10:44:23-05:00",
+				"date_published": "2023-04-29T11:44:23-04:00",
 				"url": "https://joeross.me/2023/04/29/as-i-said.html",
 				"tags": ["Photos"]
 			},
@@ -976,7 +993,7 @@
 				"title": "🎧 \"It’s a Pleasure to Meet You\" by Motion City Soundtrack",
 				"content_html": "<!-- raw HTML omitted -->\n<blockquote>\n<p>You are not alone\nWe&rsquo;ve all had our battles with darkness and shadows\nI&rsquo;m here to let you know\nIt&rsquo;s a pleasure to meet you\nToday is all we have\nSo try for a moment to break from the torment\nAnd sing this to yourself\nIt&rsquo;s a pleasure to meet you</p>\n</blockquote>\n<p>(<a href=\"https://songwhip.com/motion-city-soundtrack/days-will-run-away\">find it where you listen</a>)</p>\n",
 				"content_text": "<img src=\"uploads/2023/569598748e.jpg\" width=\"300\" height=\"300\" alt=\"The cover art for the 2015 Motion City Soundtrack album Panic Stations\">\n\n> You are not alone\n> We've all had our battles with darkness and shadows\n> I'm here to let you know\n> It's a pleasure to meet you\n> Today is all we have\n> So try for a moment to break from the torment\n> And sing this to yourself\n> It's a pleasure to meet you\n\n([find it where you listen](https://songwhip.com/motion-city-soundtrack/days-will-run-away))\n",
-				"date_published": "2023-04-28T04:26:34-05:00",
+				"date_published": "2023-04-28T05:26:34-04:00",
 				"url": "https://joeross.me/2023/04/28/listening-to-its.html",
 				"tags": ["Listened"]
 			},
@@ -985,7 +1002,7 @@
 				
 				"content_html": "<p>I’m trying out <a href=\"https://micro.blog/manton/18546164\">cross-posting from Micro.blog to Bluesky</a>. Come &amp; <a href=\"https://bsky.app/profile/joeross.me\">say hi</a> if you’re over there. There are more people there all the time, but there aren’t many of <em>my</em> people (read: users of Micro.blog &amp; omg.lol) there yet. (I’m also cross-posting to all the others services I’ve added because why not.)</p>\n",
 				"content_text": "\nI’m trying out [cross-posting from Micro.blog to Bluesky](https://micro.blog/manton/18546164). Come & [say hi](https://bsky.app/profile/joeross.me) if you’re over there. There are more people there all the time, but there aren’t many of _my_ people (read: users of Micro.blog & omg.lol) there yet. (I’m also cross-posting to all the others services I’ve added because why not.)\n",
-				"date_published": "2023-04-23T02:35:02-05:00",
+				"date_published": "2023-04-23T03:35:02-04:00",
 				"url": "https://joeross.me/2023/04/23/im-trying-out.html",
 				"tags": ["Notes"]
 			},
@@ -994,7 +1011,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🟦 If you’re on Bluesky, come say hi. I’ve found some cool people, but it’s a … different vibe than my other communities, for sure.</p>\n<p><a href=\"https://bsky.app/profile/joeross.me\">https://bsky.app/profile/joeross.me</a></p>\n<p>(Shout-out to @maique@social.lol for the invite! I don’t have any yet, but I’ll pay it forward when I do.)</p>\n",
-				"date_published": "2023-04-20T23:51:12-05:00",
+				"date_published": "2023-04-21T00:51:12-04:00",
 				"url": "https://joeross.me/2023/04/20/if-youre-on.html"
 			},
 			{
@@ -1002,7 +1019,7 @@
 				"title": "For and Against Bluesky",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<h2 id=\"pointagainstbluesky:\">Point against Bluesky:</h2>\n\n<p>Already it’s recommending I follow crypto bros, as if no one who works on this app has ever read my bio, which states, in pertinent part:</p>\n\n<blockquote>\n<p>I’m giving this place a chance. You all better keep the crypto sh*t out of my face, and my feed.</p>\n</blockquote>\n\n<h2 id=\"pointforbluesky:\">Point for Bluesky:</h2>\n\n<p>I made my handle my domain name. It involved a new DNS record and everything. Arcane geekery to many, a warm comforting breeze to me.</p>\n\n<p><em>See this post <a href=\"https://bsky.app/profile/joeross.me/post/3jtopsmlcmj2z\">on Bluesky</a>, where I’m <a href=\"https://bsky.app/profile/joeross.me\">@joeross.me</a>. Let’s avoid crypto bros together.</em></p>\n",
-				"date_published": "2023-04-19T02:46:07-05:00",
+				"date_published": "2023-04-19T03:46:07-04:00",
 				"url": "https://joeross.me/2023/04/19/034607.html",
 				"tags": ["Essays"]
 			},
@@ -1011,7 +1028,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>💻 Of course I'm putzing around on omg.lol </p>\n",
-				"date_published": "2023-04-15T00:11:54-05:00",
+				"date_published": "2023-04-15T01:11:54-04:00",
 				"url": "https://joeross.me/2023/04/15/of-course-im.html"
 			},
 			{
@@ -1019,7 +1036,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📱 Having fun rebuilding my Drafts app groups and actions from the ground up.</p>\n",
-				"date_published": "2023-03-25T23:32:55-05:00",
+				"date_published": "2023-03-26T00:32:55-04:00",
 				"url": "https://joeross.me/2023/03/25/having-fun-rebuilding.html"
 			},
 			{
@@ -1027,7 +1044,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📻 Listening to the National Security Law Podcast</p>\n<p><a href=\"https://www.nationalsecuritylawpodcast.com/episode-233-this-episode-was-not-written-by-chatgpt/\">https://www.nationalsecuritylawpodcast.com/episode-233-this-episode-was-not-written-by-chatgpt/</a></p>\n",
-				"date_published": "2023-03-02T01:21:01-05:00",
+				"date_published": "2023-03-02T02:21:01-04:00",
 				"url": "https://joeross.me/2023/03/02/listening-to-the.html"
 			},
 			{
@@ -1035,7 +1052,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>😁 Every time I visit omg.lol or social.lol I find a new fun thing to try. This time it’s status.lol and the neat app status.log by @jmj!</p>\n",
-				"date_published": "2023-02-25T01:19:24-05:00",
+				"date_published": "2023-02-25T02:19:24-04:00",
 				"url": "https://joeross.me/2023/02/25/every-time-i.html"
 			},
 			{
@@ -1043,7 +1060,7 @@
 				"title": "App recommendation: Workflowy",
 				"content_html": "<!-- raw HTML omitted -->\n<p>Workflowy is easily one of my favorite #productivity apps. I’ve been using it for years for work and personal stuff and it fits my brain.</p>\n<p>It’s great for work as a place to keep, for example, a list of causes of action, together with their elements and defenses. It’s also where I keep the cases I most commonly cite, with links to periodically make sure they’re still good law. Personal uses for Workflowy include everything from shopping lists to draft blog posts and to-watch/to-read lists.</p>\n<p>There are many similar tools but everything else seems too bloated or complex or targeted at project managers. I don’t want to be a project manager — I just want to manage projects. Or organize. Or list. Or write.</p>\n<p>Somehow, despite being a daily user, I missed the addition of optional paragraph functionality. This makes the process of going from idea to outline to draft even easier.</p>\n<p>One thing you learn using Microsoft Word for most things at work is that you never, ever draft directly in Word. The same goes for using the web interface of your preferred blogging tool. These things crash. Plenty of people use Google Docs for drafting stuff, but even that seems too bloated for me these days.</p>\n<p>I’m a lawyer, so there’s a level of factual detail that does eventually require me to go “offline” and finish my work in Word, to preserve confidentiality and attorney-client privilege and other ethical obligations.</p>\n<p>But Workflowy has never crashed on me, in the browser or in the app itself, and having a safe starting point to develop stuff in is great.</p>\n<p><a href=\"https://blog.workflowy.com/paperback-writer-paragraphs-and-headers-now-available/\">Paperback writer – Paragraphs and headers now available</a></p>\n<p>(Image via Workflowy)</p>\n",
 				"content_text": "<img src=\"uploads/2023/5c887555ac.jpg\" width=\"600\" height=\"337\" alt=\"Image via Workflowy\">\n\nWorkflowy is easily one of my favorite #productivity apps. I’ve been using it for years for work and personal stuff and it fits my brain.\n\nIt’s great for work as a place to keep, for example, a list of causes of action, together with their elements and defenses. It’s also where I keep the cases I most commonly cite, with links to periodically make sure they’re still good law. Personal uses for Workflowy include everything from shopping lists to draft blog posts and to-watch/to-read lists. \n\nThere are many similar tools but everything else seems too bloated or complex or targeted at project managers. I don’t want to be a project manager — I just want to manage projects. Or organize. Or list. Or write. \n\nSomehow, despite being a daily user, I missed the addition of optional paragraph functionality. This makes the process of going from idea to outline to draft even easier. \n\nOne thing you learn using Microsoft Word for most things at work is that you never, ever draft directly in Word. The same goes for using the web interface of your preferred blogging tool. These things crash. Plenty of people use Google Docs for drafting stuff, but even that seems too bloated for me these days.\n\nI’m a lawyer, so there’s a level of factual detail that does eventually require me to go “offline” and finish my work in Word, to preserve confidentiality and attorney-client privilege and other ethical obligations.\n\nBut Workflowy has never crashed on me, in the browser or in the app itself, and having a safe starting point to develop stuff in is great. \n\n[Paperback writer – Paragraphs and headers now available](https://blog.workflowy.com/paperback-writer-paragraphs-and-headers-now-available/)\n\n(Image via Workflowy)\n",
-				"date_published": "2023-01-16T05:46:58-05:00",
+				"date_published": "2023-01-16T06:46:58-04:00",
 				"url": "https://joeross.me/2023/01/16/054658.html",
 				"tags": ["Essays"]
 			},
@@ -1052,7 +1069,7 @@
 				"title": "Elliot: The Littlest Reindeer, 2018",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/8/7/7/7/7/387777-elliot-the-littlest-reindeer-0-600-0-900-crop.jpg?v=6b30712719\"/></p> <p>Turned this off in the first ten minutes</p>\n",
-				"date_published": "2021-11-22T07:39:19-05:00",
+				"date_published": "2021-11-22T08:39:19-04:00",
 				"url": "https://joeross.me/2021/11/22/elliot-the-littlest.html",
 				"tags": ["Photos"]
 			},
@@ -1061,7 +1078,7 @@
 				"title": "Riders of Justice, 2020 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/8/8/8/4/0/588840-riders-of-justice-0-600-0-900-crop.jpg?v=1e4b4ddaa9\"/></p> <p>It both is and is not the movie you think it is, and both in the best way.</p>\n",
-				"date_published": "2021-09-27T20:20:24-05:00",
+				"date_published": "2021-09-27T21:20:24-04:00",
 				"url": "https://joeross.me/2021/09/27/riders-of-justice.html",
 				"tags": ["Photos"]
 			},
@@ -1070,7 +1087,7 @@
 				"title": "FUMC Ideas",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<ul> <li> <a href=\"https://letterboxd.com/film/sunshine-2007/\">Sunshine</a> </li> <li> <a href=\"https://letterboxd.com/film/pieces/\">Pieces</a> </li> <li> <a href=\"https://letterboxd.com/film/daniel-isnt-real/\">Daniel Isn&#8217;t Real</a> </li> <li> <a href=\"https://letterboxd.com/film/near-dark/\">Near Dark</a> </li> <li> <a href=\"https://letterboxd.com/film/dont-look-now/\">Don&#8217;t Look Now</a> </li> <li> <a href=\"https://letterboxd.com/film/next-door-2005/\">Next Door</a> </li> <li> <a href=\"https://letterboxd.com/film/enter-the-void/\">Enter the Void</a> </li> <li> <a href=\"https://letterboxd.com/film/high-tension/\">High Tension</a> </li> <li> <a href=\"https://letterboxd.com/film/gaia-2021/\">Gaia</a> </li> <li> <a href=\"https://letterboxd.com/film/the-greasy-strangler/\">The Greasy Strangler</a> </li> </ul> <p>&#8230;plus 6 more. <a href=\"https://letterboxd.com/joeross/list/fumc-ideas/\">View the full list on Letterboxd</a>.</p>\n",
-				"date_published": "2021-08-24T18:49:44-05:00",
+				"date_published": "2021-08-24T19:49:44-04:00",
 				"url": "https://joeross.me/2021/08/24/fumc-ideas.html",
 				"tags": ["Watched"]
 			},
@@ -1079,7 +1096,7 @@
 				"title": "Truth or Dare?: A Critical Madness, 1986 - ★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/9/5/7/2/69572-truth-or-dare-a-critical-madness-0-600-0-900-crop.jpg?v=17be2bb8df\"/></p> <p>Awful… awfully wonderful</p>\n",
-				"date_published": "2021-08-24T18:48:07-05:00",
+				"date_published": "2021-08-24T19:48:07-04:00",
 				"url": "https://joeross.me/2021/08/24/truth-or-dare.html",
 				"tags": ["Photos"]
 			},
@@ -1088,7 +1105,7 @@
 				"title": "CODA, 2021 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/9/5/4/7/3/695473-coda-0-600-0-900-crop.jpg?v=dcb6fda78d\"/></p> <p>Awful family places burden of their livelihood on daughter for her entire life and finally decides to let her be her own kid as she leaves for college. </p><p>It was good but it was kind of missing that one show stopping, jaw dropping song that the third act of any movie in this vein kind of demands.</p>\n",
-				"date_published": "2021-08-14T22:02:01-05:00",
+				"date_published": "2021-08-14T23:02:01-04:00",
 				"url": "https://joeross.me/2021/08/14/coda.html",
 				"tags": ["Photos"]
 			},
@@ -1097,7 +1114,7 @@
 				"title": "Black Widow, 2021 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/2/7/8/0/7/427807-black-widow-0-600-0-900-crop.jpg?v=691395e563\"/></p> <p>It’s worth a watch for the chemistry between the sisters - you don’t see a lot of effective portrayals of sisterhood in action movies - and David Harbour is a lot of fun.</p><p><br />Edit: the pig scene was totally unnecessary and gross.</p>\n",
-				"date_published": "2021-08-13T20:27:22-05:00",
+				"date_published": "2021-08-13T21:27:22-04:00",
 				"url": "https://joeross.me/2021/08/13/black-widow.html",
 				"tags": ["Photos"]
 			},
@@ -1106,7 +1123,7 @@
 				"title": "The Suicide Squad, 2021 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/6/9/8/3/5/369835-the-suicide-squad-0-600-0-900-crop.jpg?v=8503fd610a\"/></p> <p>A lot of people love this movie for the same reasons a lot of people hate this movie. It simultaneously shamelessly indulges in the same clichés and tropes that it’s constantly subverting. A lot of people just want it to pick whether it’s going to shamelessly indulge or it’s going to subvert but I think what makes it so much fun and so unique is that it does both.</p>\n",
-				"date_published": "2021-08-06T22:58:55-05:00",
+				"date_published": "2021-08-06T23:58:55-04:00",
 				"url": "https://joeross.me/2021/08/06/the-suicide-squad.html",
 				"tags": ["Photos"]
 			},
@@ -1115,7 +1132,7 @@
 				"title": "Don\u0026#039;t Look Now, 1973 - ★★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/b1/xg/44/w1/mK1SxllUiyAjtugZg3M64e2CTu3-0-600-0-900-crop.jpg?v=caa512b778\"/></p> <p>The non sequitur implementation of the ending cost half a star but the film is visually stunning and narratively bold. I can’t say what movies clearly took inspiration from it without giving it away, but you’ll probably know right away after you watch it.</p>\n",
-				"date_published": "2021-07-31T21:26:51-05:00",
+				"date_published": "2021-07-31T22:26:51-04:00",
 				"url": "https://joeross.me/2021/07/31/dont-look-now.html",
 				"tags": ["Photos"]
 			},
@@ -1124,7 +1141,7 @@
 				"title": "Starry Eyes, 2014 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/7/8/0/0/1/178001-starry-eyes-0-600-0-900-crop.jpg?v=6bbc6390e6\"/></p> <p>Watched on Tuesday July 20, 2021.</p>\n",
-				"date_published": "2021-07-27T22:29:00-05:00",
+				"date_published": "2021-07-27T23:29:00-04:00",
 				"url": "https://joeross.me/2021/07/27/starry-eyes.html",
 				"tags": ["Photos"]
 			},
@@ -1133,7 +1150,7 @@
 				"title": "The Peanut Butter Solution, 1985 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/9/6/3/9/39639-the-peanut-butter-solution-0-600-0-900-crop.jpg?v=6438894e39\"/></p> <p>You will not know where it’s going until it gets there.</p>\n",
-				"date_published": "2021-07-27T22:28:24-05:00",
+				"date_published": "2021-07-27T23:28:24-04:00",
 				"url": "https://joeross.me/2021/07/27/the-peanut-butter.html",
 				"tags": ["Photos"]
 			},
@@ -1142,7 +1159,7 @@
 				"title": "FUMC History",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>The films watched by the FUMC, in order.</p> <ul> <li> <a href=\"https://letterboxd.com/film/martyrs/\">Martyrs</a> </li> <li> <a href=\"https://letterboxd.com/film/the-peanut-butter-solution/\">The Peanut Butter Solution</a> </li> <li> <a href=\"https://letterboxd.com/film/starry-eyes/\">Starry Eyes</a> </li> <li> <a href=\"https://letterboxd.com/film/cigarette-burns/\">Cigarette Burns</a> </li> <li> <a href=\"https://letterboxd.com/film/hereditary/\">Hereditary</a> </li> </ul>\n",
-				"date_published": "2021-07-27T22:26:31-05:00",
+				"date_published": "2021-07-27T23:26:31-04:00",
 				"url": "https://joeross.me/2021/07/27/fumc-history.html",
 				"tags": ["Watched"]
 			},
@@ -1151,7 +1168,7 @@
 				"title": "Cigarette Burns, 2005 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/5/4/8/7/3/254873-cigarette-burns-0-600-0-900-crop.jpg?v=8d34adf584\"/></p> <p>Watched for the FUMC.</p>\n",
-				"date_published": "2021-07-27T22:24:31-05:00",
+				"date_published": "2021-07-27T23:24:31-04:00",
 				"url": "https://joeross.me/2021/07/27/cigarette-burns.html",
 				"tags": ["Photos"]
 			},
@@ -1160,7 +1177,7 @@
 				"title": "House, 1977 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/7f/z3/ho/6j/6vblWscFAbIm9V5CwHC7IImgAq9-0-600-0-900-crop.jpg?v=b505ff45b0\"/></p> <p>Well you should all watch it once. Watching it alone was disorientating and left me wishing I had someone to share the experience with but it was a hell of ride. Go in blind and don’t ask of it any more than it is.</p>\n",
-				"date_published": "2021-07-26T23:40:46-05:00",
+				"date_published": "2021-07-27T00:40:46-04:00",
 				"url": "https://joeross.me/2021/07/27/house.html",
 				"tags": ["Photos"]
 			},
@@ -1169,7 +1186,7 @@
 				"title": "A Quiet Place Part II, 2020 - ★★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/5/0/3/3/7/450337-a-quiet-place-part-ii-0-600-0-900-crop.jpg?v=75a12b8eec\"/></p> <p>I try to be stingy with 5 stars but this movie deserves it. The writing, direction, acting and SOUND DESIGN are as good as the first and in some areas even better. </p><p>The main flaw that bugged me was SPOILER ALERT:</p><p><br /><br /></p><p>The day one flashback was really only there to remind us who JK was on the first one and introduce us to Cillian and his kid. One or two more flashbacks throughout the story may have balanced it a bit. I wouldn’t want anything predictable like showing one of Emmit’s family members dying, I actually think not seeing that stuff puts us in his mindset: it’s hard for him to think about but it’s all he thinks about. </p><p>I thought the conclusion was perfect, with the children both growing into their dad’s shoes, although it’s worth nothing that mom is consistently as badass and brave as dad. But when you lose someone you love you often want to live up to them somehow because it feels like they’re still there with you when you embody their best qualities. So I get it.</p>\n",
-				"date_published": "2021-07-24T00:46:53-05:00",
+				"date_published": "2021-07-24T01:46:53-04:00",
 				"url": "https://joeross.me/2021/07/24/a-quiet-place.html",
 				"tags": ["Photos"]
 			},
@@ -1178,7 +1195,7 @@
 				"title": "C\u0026#039;est la Vie, 2016 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/5/1/9/7/6/451976-c-est-la-vie-0-600-0-900-crop.jpg?v=73c14918b2\"/></p> <p>I watched a few of his shorts tonight but this was my favorite.</p>\n",
-				"date_published": "2021-07-23T01:46:40-05:00",
+				"date_published": "2021-07-23T02:46:40-04:00",
 				"url": "https://joeross.me/2021/07/23/cest-la-vie.html",
 				"tags": ["Photos"]
 			},
@@ -1187,7 +1204,7 @@
 				"title": "Beau, 2011 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/3/2/0/4/3/432043-beau-0-600-0-900-crop.jpg?v=4bed74a0df\"/></p> <p>There’s so much more to be told here.</p>\n",
-				"date_published": "2021-07-23T01:34:51-05:00",
+				"date_published": "2021-07-23T02:34:51-04:00",
 				"url": "https://joeross.me/2021/07/23/beau.html",
 				"tags": ["Photos"]
 			},
@@ -1196,7 +1213,7 @@
 				"title": "The Strange Thing About the Johnsons, 2011 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/2/1/6/1/8/121618-the-strange-thing-about-the-johnsons-0-600-0-900-crop.jpg?v=507c900e79\"/></p> <p>Yes it’s disturbing but there’s nothing supernatural about it.</p>\n",
-				"date_published": "2021-07-23T01:18:03-05:00",
+				"date_published": "2021-07-23T02:18:03-04:00",
 				"url": "https://joeross.me/2021/07/23/the-strange-thing.html",
 				"tags": ["Photos"]
 			},
@@ -1205,7 +1222,7 @@
 				"title": "Martyrs, 2008 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/7/0/6/1/47061-martyrs-0-600-0-900-crop.jpg?v=26b1166803\"/></p> <p>Watched on Wednesday July 21, 2021.</p>\n",
-				"date_published": "2021-07-21T18:28:55-05:00",
+				"date_published": "2021-07-21T19:28:55-04:00",
 				"url": "https://joeross.me/2021/07/21/martyrs.html",
 				"tags": ["Photos"]
 			},
@@ -1214,7 +1231,7 @@
 				"title": "Come and See, 1985 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/6/1/9/2/36192-come-and-see-0-600-0-900-crop.jpg?v=741b0269bb\"/></p> <p>Brutal and unrelenting, once is enough, but it’s also necessary.</p>\n",
-				"date_published": "2021-07-21T15:41:48-05:00",
+				"date_published": "2021-07-21T16:41:48-04:00",
 				"url": "https://joeross.me/2021/07/21/come-and-see.html",
 				"tags": ["Photos"]
 			},
@@ -1223,7 +1240,7 @@
 				"title": "Near Dark, 1987 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/4/9/2/4/44924-near-dark-0-600-0-900-crop.jpg?v=1d3a4a8169\"/></p> <p>It’s worth a watch despite the lame performance of the male lead. Henricksen and Paxton are wonderful, and Bigelow’s makes the thing a visually classic and novel experience at the same time.</p>\n",
-				"date_published": "2021-07-19T22:20:46-05:00",
+				"date_published": "2021-07-19T23:20:46-04:00",
 				"url": "https://joeross.me/2021/07/19/near-dark.html",
 				"tags": ["Photos"]
 			},
@@ -1232,7 +1249,7 @@
 				"title": "The Amusement Park, 1975 - ★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/8/9/5/0/7/489507-the-amusement-park-0-600-0-900-crop.jpg?v=80e0508f01\"/></p> <p>These are all things I have seen happening to Oder folks. It’s a sad sad movie whose true horror is the inevitability that we may all face one or more of these deep indignities if we are lucky enough to grow old.</p>\n",
-				"date_published": "2021-07-17T21:20:34-05:00",
+				"date_published": "2021-07-17T22:20:34-04:00",
 				"url": "https://joeross.me/2021/07/17/the-amusement-park.html",
 				"tags": ["Photos"]
 			},
@@ -1241,7 +1258,7 @@
 				"title": "Sunshine, 2007 - ★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/1/1/0/51110-sunshine-0-600-0-900-crop.jpg?v=c4ffc70fd4\"/></p> <p>The star power is impressive, with Michelle Yeoh and Chris Evans and Cillian Murphy and Rose Byrne. The story is Event Horizon light and not one of Boyle’s best by a long short but it’s a beautifully shot film.</p>\n",
-				"date_published": "2021-07-15T11:03:17-05:00",
+				"date_published": "2021-07-15T12:03:17-04:00",
 				"url": "https://joeross.me/2021/07/15/sunshine.html",
 				"tags": ["Photos"]
 			},
@@ -1250,7 +1267,7 @@
 				"title": "Gunpowder Milkshake, 2021 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/2/5/0/9/502509-gunpowder-milkshake-0-600-0-900-crop.jpg?v=8e0c48311e\"/></p> <p>Watched on Thursday July 15, 2021.</p>\n",
-				"date_published": "2021-07-15T10:56:46-05:00",
+				"date_published": "2021-07-15T11:56:46-04:00",
 				"url": "https://joeross.me/2021/07/15/gunpowder-milkshake.html",
 				"tags": ["Photos"]
 			},
@@ -1259,7 +1276,7 @@
 				"title": "Furious 7, 2015",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/2/4/1/3/3/124133-furious-7-0-600-0-900-crop.jpg?v=cab4a0ecf6\"/></p> <p>Watched on Friday June 4, 2021.</p>\n",
-				"date_published": "2021-06-05T11:35:28-05:00",
+				"date_published": "2021-06-05T12:35:28-04:00",
 				"url": "https://joeross.me/2021/06/05/furious.html",
 				"tags": ["Photos"]
 			},
@@ -1268,7 +1285,7 @@
 				"title": "Fast \u0026amp; Furious 6, 2013",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/9/4/5/3/69453-fast-furious-6-0-600-0-900-crop.jpg?v=c1a5aa4775\"/></p> <p>Watched on Thursday June 3, 2021.</p>\n",
-				"date_published": "2021-06-05T11:35:11-05:00",
+				"date_published": "2021-06-05T12:35:11-04:00",
 				"url": "https://joeross.me/2021/06/05/123511.html",
 				"tags": ["Photos"]
 			},
@@ -1277,7 +1294,7 @@
 				"title": "Fast Five, 2011",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/xr/1t/wx/2n/cA81CI8odKv5KHRUUzJbj83yN7c-0-600-0-900-crop.jpg?v=0d8a25a11f\"/></p> <p>Watched on Wednesday June 2, 2021.</p>\n",
-				"date_published": "2021-06-05T11:34:59-05:00",
+				"date_published": "2021-06-05T12:34:59-04:00",
 				"url": "https://joeross.me/2021/06/05/fast-five.html",
 				"tags": ["Photos"]
 			},
@@ -1286,7 +1303,7 @@
 				"title": "Fast \u0026amp; Furious, 2009",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/3/5/8/2/43582-fast-furious-0-600-0-900-crop.jpg?v=e16e161e36\"/></p> <p>Watched on Tuesday June 1, 2021.</p>\n",
-				"date_published": "2021-06-05T11:34:39-05:00",
+				"date_published": "2021-06-05T12:34:39-04:00",
 				"url": "https://joeross.me/2021/06/05/fast-amp-furious.html",
 				"tags": ["Photos"]
 			},
@@ -1295,7 +1312,7 @@
 				"title": "2 Fast 2 Furious, 2003",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/5/3/6/51536-2-fast-2-furious-0-600-0-900-crop.jpg?v=63379fdd8d\"/></p> <p>Watched on Saturday May 29, 2021.</p>\n",
-				"date_published": "2021-06-05T11:33:52-05:00",
+				"date_published": "2021-06-05T12:33:52-04:00",
 				"url": "https://joeross.me/2021/06/05/fast-furious.html",
 				"tags": ["Photos"]
 			},
@@ -1304,7 +1321,7 @@
 				"title": "The Fast and the Furious, 2001",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/8/1/3/46813-the-fast-and-the-furious-0-600-0-900-crop.jpg?v=ec37dbaf43\"/></p> <p>Watched on Friday May 28, 2021.</p>\n",
-				"date_published": "2021-06-05T11:33:24-05:00",
+				"date_published": "2021-06-05T12:33:24-04:00",
 				"url": "https://joeross.me/2021/06/05/the-fast-and.html",
 				"tags": ["Photos"]
 			},
@@ -1313,7 +1330,7 @@
 				"title": "Synchronic, 2019 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/7/8/1/0/7/478107-synchronic-0-600-0-900-crop.jpg?v=f6d00a3f29\"/></p> <p>As usual, this directing duo puts an interesting new spin on a very old kind of story. It’s a worthy addition to the time travel category.</p>\n",
-				"date_published": "2021-04-22T00:45:53-05:00",
+				"date_published": "2021-04-22T01:45:53-04:00",
 				"url": "https://joeross.me/2021/04/22/synchronic.html",
 				"tags": ["Photos"]
 			},
@@ -1322,7 +1339,7 @@
 				"title": "Sound of Metal, 2019",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/3/2/0/0/4/432004-sound-of-metal-0-600-0-900-crop.jpg?v=289acd955b\"/></p> <p>A stunning movie. I don’t know how well it portrays being deaf, but it moved me with its portrayal of being someone who can hear who suddenly starts to lose that hearing. </p><p><br />SPOILER AHEAD:</p><p><br /><br /><br /><br /><br /><br /><br /><br /></p><p><br />The scene in the bed where he realizes she has moved on and is so much better for it and he tells her it’s okay just destroyed me.</p>\n",
-				"date_published": "2021-04-16T20:45:13-05:00",
+				"date_published": "2021-04-16T21:45:13-04:00",
 				"url": "https://joeross.me/2021/04/16/sound-of-metal.html",
 				"tags": ["Photos"]
 			},
@@ -1331,7 +1348,7 @@
 				"title": "Parasite, 2019 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-600-0-900-crop.jpg?v=8f5653f710\"/></p> <p>I can’t remember when I watched this but it was a while ago. It was incredibly strange and disturbing and worth watching if those things don’t scare you off.</p>\n",
-				"date_published": "2021-04-16T20:39:07-05:00",
+				"date_published": "2021-04-16T21:39:07-04:00",
 				"url": "https://joeross.me/2021/04/16/parasite.html",
 				"tags": ["Photos"]
 			},
@@ -1340,7 +1357,7 @@
 				"title": "The Lighthouse, 2019 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/3/3/8/6/3/433863-the-lighthouse-0-600-0-900-crop.jpg?v=ee97005537\"/></p> <p>Buy the ticket, take the ride, smell the farts, be disturbed and left with a lot of questions and a day or so of your inner monologue speaking like a drunken Shakespearean character</p>\n",
-				"date_published": "2021-02-08T20:58:34-05:00",
+				"date_published": "2021-02-08T21:58:34-04:00",
 				"url": "https://joeross.me/2021/02/08/the-lighthouse.html",
 				"tags": ["Photos"]
 			},
@@ -1349,7 +1366,7 @@
 				"title": "Earwig and the Witch, 2020 - ★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/0/7/3/7/1/607371-earwig-and-the-witch-0-600-0-900-crop.jpg?v=cfcf29f5c1\"/></p> <p>Abrupt ending, animation not great, decent first draft of a story and movie at best</p>\n",
-				"date_published": "2021-02-08T20:52:56-05:00",
+				"date_published": "2021-02-08T21:52:56-04:00",
 				"url": "https://joeross.me/2021/02/08/earwig-and-the.html",
 				"tags": ["Photos"]
 			},
@@ -1358,7 +1375,7 @@
 				"title": "Promising Young Woman, 2020 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/0/0/4/7/510047-promising-young-woman-0-600-0-900-crop.jpg?v=21703347b6\"/></p> <p>Everyone woman should watch it once. </p><p>Every man should watch it two or three times. </p><p>I dinged it a star because there’s a part that’s hard to watch because I wanted something different to happen but make no mistake: this movie deserves your time and your attention and your full comprehension.</p>\n",
-				"date_published": "2021-01-17T22:48:09-05:00",
+				"date_published": "2021-01-17T23:48:09-04:00",
 				"url": "https://joeross.me/2021/01/17/promising-young-woman.html",
 				"tags": ["Photos"]
 			},
@@ -1367,7 +1384,7 @@
 				"title": "A Beautiful Day in the Neighborhood, 2019 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/3/1/8/7/7/431877-a-beautiful-day-in-the-neighborhood-0-600-0-900-crop.jpg?v=80d455b968\"/></p> <p>It simultaneously puts every cynical fight you ever may have had about Mr. Rogers to bed an also manages to humanize him by showing that he was not above pain. </p><p>The journalist is a stand-in for every kid that grew up in Mr. Rogers and still became kind of cynical and jaded. </p><p>Hanks is arresting as Rogers, and Rhys does a lot of work nor a lot of actual lines.</p>\n",
-				"date_published": "2021-01-14T23:05:36-05:00",
+				"date_published": "2021-01-15T00:05:36-04:00",
 				"url": "https://joeross.me/2021/01/15/a-beautiful-day.html",
 				"tags": ["Photos"]
 			},
@@ -1376,7 +1393,7 @@
 				"title": "Hope Gap, 2019 - ★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/6/1/8/7/466187-hope-gap-0-600-0-900-crop.jpg?v=9a9f67764d\"/></p> <p>Depressing but it has heart. Ending sucked.</p>\n",
-				"date_published": "2021-01-10T03:03:32-05:00",
+				"date_published": "2021-01-10T04:03:32-04:00",
 				"url": "https://joeross.me/2021/01/10/hope-gap.html",
 				"tags": ["Photos"]
 			},
@@ -1385,7 +1402,7 @@
 				"title": "Save Yourselves!, 2020 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/7/9/0/0/5/579005-save-yourselves--0-600-0-900-crop.jpg?v=868290de30\"/></p> <p>It’s worth watching but the end was huh?</p>\n",
-				"date_published": "2021-01-08T23:03:38-05:00",
+				"date_published": "2021-01-09T00:03:38-04:00",
 				"url": "https://joeross.me/2021/01/09/save-yourselves.html",
 				"tags": ["Photos"]
 			},
@@ -1394,7 +1411,7 @@
 				"title": "Togo, 2019 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/3/4/0/5/3/534053-togo-0-600-0-900-crop.jpg?v=cc490a94af\"/></p> <p>This was surprisingly true to the facts I could find. It’s hard to maintain a couple hours of mostly one man yelling “GOOD DOG” at running dogs, but Dafoe does it with aplomb. I liked it a lot, especially as an adventure movie with some scary bits that’s also meant for kids.</p>\n",
-				"date_published": "2021-01-05T00:59:46-05:00",
+				"date_published": "2021-01-05T01:59:46-04:00",
 				"url": "https://joeross.me/2021/01/05/togo.html",
 				"tags": ["Photos"]
 			},
@@ -1403,7 +1420,7 @@
 				"title": "Wild Mountain Thyme, 2020 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/5/4/8/4/0/554840-wild-mountain-thyme-0-600-0-900-crop.jpg?v=6d75a656a4\"/></p> <p>I guess, based on what the critics say, I’m not supposed to admit I liked this movie, but fuck it. I’ve spent a hundredish minutes on far, far worse films that didn’t delight me one millionth as much as this one did.</p>\n",
-				"date_published": "2021-01-02T21:48:38-05:00",
+				"date_published": "2021-01-02T22:48:38-04:00",
 				"url": "https://joeross.me/2021/01/02/wild-mountain-thyme.html",
 				"tags": ["Photos"]
 			},
@@ -1412,7 +1429,7 @@
 				"title": "Ad Astra, 2019 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/5/3/4/8/5/353485-ad-astra-0-600-0-900-crop.jpg?v=a4302e46ef\"/></p> <p>Brad Pitt was very good in a role I don’t think anyone would expect him to excel in. Beyond that it’s not a great movie and bafflingly underused Ruth Negga and Natasha Lyonne.</p>\n",
-				"date_published": "2020-12-30T00:00:37-05:00",
+				"date_published": "2020-12-30T01:00:37-04:00",
 				"url": "https://joeross.me/2020/12/30/ad-astra.html",
 				"tags": ["Photos"]
 			},
@@ -1421,7 +1438,7 @@
 				"title": "Wonder Woman 1984, 2020 - ★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/9/5/7/3/1/395731-wonder-woman-1984-0-600-0-900-crop.jpg?v=767573fbcd\"/></p> <p>Oof. That did not go well.</p>\n",
-				"date_published": "2020-12-26T10:40:49-05:00",
+				"date_published": "2020-12-26T11:40:49-04:00",
 				"url": "https://joeross.me/2020/12/26/wonder-woman.html",
 				"tags": ["Photos"]
 			},
@@ -1430,7 +1447,7 @@
 				"title": "Hubie Halloween, 2020 - ★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/4/4/5/1/1/544511-hubie-halloween-0-600-0-900-crop.jpg?v=38d9c9a58a\"/></p> <p>It was exactly what I thought it would be. Don’t review this thing like it’s suppose to change cinema forever. Watch it like your favorite musician is doing another tour after a long weird solo career and they’re just playing the hits you loved in high school. It’s harmless fun and should be easy to sequelize if they choose to. I’d watch one every Halloween or two.</p>\n",
-				"date_published": "2020-10-12T21:07:10-05:00",
+				"date_published": "2020-10-12T22:07:10-04:00",
 				"url": "https://joeross.me/2020/10/12/hubie-halloween.html",
 				"tags": ["Photos"]
 			},
@@ -1439,7 +1456,7 @@
 				"title": "Midnight Special, 2016 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/7/1/9/6/5/171965-midnight-special-0-600-0-900-crop.jpg?v=0a7eac9767\"/></p> <p>Great bones but a criminal underuse of Kirsten Dunst, overuse of Adam Driver, who is great but whose plot is muddled and doesn’t really justify his kind of gravitas.</p>\n",
-				"date_published": "2020-10-09T21:34:19-05:00",
+				"date_published": "2020-10-09T22:34:19-04:00",
 				"url": "https://joeross.me/2020/10/09/midnight-special.html",
 				"tags": ["Photos"]
 			},
@@ -1448,7 +1465,7 @@
 				"title": "One Cut of the Dead, 2017 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/4/3/0/8/6/443086-one-cut-of-the-dead-0-600-0-900-crop.jpg?v=41cb73909b\"/></p> <p>Despite how it looks at first, it’s not a horror movie but it’s absolutely worth a watch, especially if you like indie movies. I won’t ruin it by saying more.</p>\n",
-				"date_published": "2020-09-12T22:11:54-05:00",
+				"date_published": "2020-09-12T23:11:54-04:00",
 				"url": "https://joeross.me/2020/09/12/one-cut-of.html",
 				"tags": ["Photos"]
 			},
@@ -1457,7 +1474,7 @@
 				"title": "The Peanut Butter Falcon, 2019 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/oq/hs/fz/xj/qyQcRGvdW3VtxHR4fSDgPOePEip-0-600-0-900-crop.jpg?v=286844cae3\"/></p> <p>Great performances from the main dudes and the main lady, but the end was too abrupt</p>\n",
-				"date_published": "2020-09-01T19:31:31-05:00",
+				"date_published": "2020-09-01T20:31:31-04:00",
 				"url": "https://joeross.me/2020/09/01/the-peanut-butter.html",
 				"tags": ["Photos"]
 			},
@@ -1466,7 +1483,7 @@
 				"title": "Project Power, 2020 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/3/2/4/4/9/532449-project-power-0-600-0-900-crop.jpg?v=cc269fd296\"/></p> <p>The actor that plays Robin is really good. Her hoodie being Robin colors is an nice touch. It’s worth watching once.</p>\n",
-				"date_published": "2020-08-26T21:27:24-05:00",
+				"date_published": "2020-08-26T22:27:24-04:00",
 				"url": "https://joeross.me/2020/08/26/project-power.html",
 				"tags": ["Photos"]
 			},
@@ -1475,7 +1492,7 @@
 				"title": "Host, 2020 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/4/5/7/1/8/645718-host-0-600-0-900-crop.jpg?v=4d73e2cf1c\"/></p> <p>Perfectly paced and does the horror via video call thing very well.</p>\n",
-				"date_published": "2020-08-23T01:49:20-05:00",
+				"date_published": "2020-08-23T02:49:20-04:00",
 				"url": "https://joeross.me/2020/08/23/host.html",
 				"tags": ["Photos"]
 			},
@@ -1484,7 +1501,7 @@
 				"title": "Jurassic Park, 1993 - ★★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/1g/zz/ez/d8/yyCKYaW908ZbpexpnBJ3p8o87HA-0-600-0-900-crop.jpg?v=19a50874d0\"/></p> <p>Still a great watch all these years later.</p>\n",
-				"date_published": "2020-08-13T22:28:36-05:00",
+				"date_published": "2020-08-13T23:28:36-04:00",
 				"url": "https://joeross.me/2020/08/13/jurassic-park.html",
 				"tags": ["Photos"]
 			}
