@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2024/06/28/sure-elon-ill.html",
+				
+				"content_html": "<p>Sure, Elon, I’ll go right ahead and disable my privacy related extensions…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sure, Elon, I’ll go right ahead and disable my privacy related extensions…\n\n<img src=\"uploads/2024/2599032c00.jpg\" width=\"297\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-06-28T20:06:05-04:00",
+				"url": "https://joeross.me/2024/06/28/sure-elon-ill.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/06/21/laurens-hof-writing.html",
+				
+				"content_html": "<p>Laurens Hof, writing in <a href=\"https://fediversereport.com/last-week-in-fediverse-ep-73-and-72/\">Episode 73 of his Last Week in Fediverse newsletter</a>:</p>\n<blockquote>\n<p>What makes the situation with rumours of Mastodon leaking private messages so interesting to me is that the original posts that contained the rumours got significantly more engagement than the corrections. So it seems to me that the structural feature of decentralised networks that ‘significantly limits the reach of fake news’ can also work to limit the reach of corrections to fake news as well.</p>\n</blockquote>\n<p>This is a good point, but the structural aspect of decentralized networks that makes it as difficult to circulate corrections as it is to circulate fake news is susceptible to some white hat manipulation. To paraphrase a misquote/cliché, we have to be the circulation we wish to see in the network.</p>\n<p>Decentralization significantly reduces virality, allowing users to more carefully control the spread of information. We can spread corrections effectively, it just takes effort.</p>\n<p>I don’t have a solution, but here’s something ive been thinking about: Perhaps there is some way of building corrections into ActivityPub as a special type of edit that triggers a notification to users who interacted with the original post.</p>\n<p>I would advocate for making this mechanism opt-out to maximize the flow of corrections, but I know that may be naïve, and that perhaps I’m ignorant of the likelihood that some would find a way to abuse such a tool to spread fake news after all. It’s a fun thought experiment, and I’m open to discussing with other nerds who think about this stuff at weird hours of the night when they should be sleeping.</p>\n",
+				"content_text": "Laurens Hof, writing in [Episode 73 of his Last Week in Fediverse newsletter](https://fediversereport.com/last-week-in-fediverse-ep-73-and-72/):\n\n> What makes the situation with rumours of Mastodon leaking private messages so interesting to me is that the original posts that contained the rumours got significantly more engagement than the corrections. So it seems to me that the structural feature of decentralised networks that ‘significantly limits the reach of fake news’ can also work to limit the reach of corrections to fake news as well.\n\nThis is a good point, but the structural aspect of decentralized networks that makes it as difficult to circulate corrections as it is to circulate fake news is susceptible to some white hat manipulation. To paraphrase a misquote/cliché, we have to be the circulation we wish to see in the network. \n\nDecentralization significantly reduces virality, allowing users to more carefully control the spread of information. We can spread corrections effectively, it just takes effort. \n\nI don’t have a solution, but here’s something ive been thinking about: Perhaps there is some way of building corrections into ActivityPub as a special type of edit that triggers a notification to users who interacted with the original post. \n\nI would advocate for making this mechanism opt-out to maximize the flow of corrections, but I know that may be naïve, and that perhaps I’m ignorant of the likelihood that some would find a way to abuse such a tool to spread fake news after all. It’s a fun thought experiment, and I’m open to discussing with other nerds who think about this stuff at weird hours of the night when they should be sleeping. \n",
+				"date_published": "2024-06-21T04:36:35-04:00",
+				"url": "https://joeross.me/2024/06/21/laurens-hof-writing.html"
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/06/19/louisiana-classrooms-now.html",
+				
+				"content_html": "<p><a href=\"https://www.cnn.com/2024/06/19/politics/louisiana-classrooms-ten-commandments/index.html\">Louisiana classrooms now required by law to display the Ten Commandments | CNN Politics</a></p>\n<p>I haven’t looked into yet, but my first thought is that this middle finger to the Constitution has the stench of Leonard Leo and his ilk all over it.</p>\n",
+				"content_text": "[Louisiana classrooms now required by law to display the Ten Commandments | CNN Politics](https://www.cnn.com/2024/06/19/politics/louisiana-classrooms-ten-commandments/index.html)\n\nI haven’t looked into yet, but my first thought is that this middle finger to the Constitution has the stench of Leonard Leo and his ilk all over it.\n",
+				"date_published": "2024-06-19T19:14:01-04:00",
+				"url": "https://joeross.me/2024/06/19/louisiana-classrooms-now.html"
+			},
+			{
 				"id": "http://joeross.micro.blog/2024/06/17/what-are-some.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
