@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2024/09/06/matt-webb-wrote.html",
+				
+				"content_html": "<p>Matt Webb wrote about his open source in-page chat tool, cursor party:</p>\n<blockquote>\n<p>“If you&rsquo;ve visited my actual website, rather than reading by email or whatever, such as reading <a href=\"https://interconnected.org/home/2024/09/05/cursor-party\">this very post</a>, you may notice somebody else&rsquo;s cursor pass by as you&rsquo;re reading.”</p>\n</blockquote>\n<p>It’s a wonderful, playful, well-executed idea.</p>\n",
+				"content_text": "Matt Webb wrote about his open source in-page chat tool, cursor party:\n\n> “If you've visited my actual website, rather than reading by email or whatever, such as reading [this very post](https://interconnected.org/home/2024/09/05/cursor-party), you may notice somebody else's cursor pass by as you're reading.”\n\nIt’s a wonderful, playful, well-executed idea.\n",
+				"date_published": "2024-09-06T23:01:30-04:00",
+				"url": "https://joeross.me/2024/09/06/matt-webb-wrote.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/09/03/today-there-was.html",
+				
+				"content_html": "<p>Today there was a cybertruck parked at the daycare where parents park to drop off their kids.</p>\n<p>I’m wondering if I should put my tie on <em>after</em> drop-off because, like, how self-important do ties seem these days, right?</p>\n<p>But then there’s a literal human person driving a cybertruck to drop off their kids.</p>\n",
+				"content_text": "Today there was a cybertruck parked at the daycare where parents park to drop off their kids. \n\nI’m wondering if I should put my tie on _after_ drop-off because, like, how self-important do ties seem these days, right? \n\nBut then there’s a literal human person driving a cybertruck to drop off their kids.\n",
+				"date_published": "2024-09-03T22:12:16-04:00",
+				"url": "https://joeross.me/2024/09/03/today-there-was.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/08/31/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780547952017\">The Fellowship Of The Ring</a> by J.R.R. Tolkien 📚</p>\n<p>By the end you know all the players, some have already been lost, others have played out their parts, and still more have shown the true good in their hearts, and the depths of evil the Ring may inspire them to should they come to possess it.</p>\n<p>This is probably my tenth or eleventh time reading these books, but my first time reading it with my kids. Sure, I’m editing on the fly because they’re both younger than five, but they’re loving it.</p>\n",
+				"content_text": "Finished reading: [The Fellowship Of The Ring](https://micro.blog/books/9780547952017) by J.R.R. Tolkien 📚\n\nBy the end you know all the players, some have already been lost, others have played out their parts, and still more have shown the true good in their hearts, and the depths of evil the Ring may inspire them to should they come to possess it. \n\nThis is probably my tenth or eleventh time reading these books, but my first time reading it with my kids. Sure, I’m editing on the fly because they’re both younger than five, but they’re loving it. \n",
+				"date_published": "2024-08-31T20:54:29-04:00",
+				"url": "https://joeross.me/2024/08/31/finished-reading-the.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://joeross.micro.blog/2024/08/29/blueskys-trust-safety.html",
 				
 				"content_html": "<p>Bluesky&rsquo;s Trust &amp; Safety decisions may not please everyone, but they&rsquo;re <a href=\"https://bsky.social/about/blog/08-28-2024-anti-toxicity-features\">clearly thinking them through</a> in good faith.</p>\n<p>While nothing is perfect, a primarily public data store subject to moderation by obfuscation (requiring API work to get at certain moderated data) strikes a thoughtful balance.</p>\n",
@@ -27,7 +54,7 @@
 				"id": "http://joeross.micro.blog/2024/08/25/the-princess-bride.html",
 				"title": "The Princess Bride, 1987 - ★★★★★ (contains spoilers)",
 				"content_html": "<p><em>This review may contain spoilers.</em></p>\n<p>This is the first time watching it with the kids. They were enthralled from the initial sword fight on, though we did skip the fire swamp, the “Booooo!” lady, some torture, and much of the burning-giant-in-a-trenchcoat scene.</p>\n<p>To me, it’s still true that the idea that more than only a ver small handful of movies are better than this one is wholly, totally, and in all other ways…</p>\n<p>Inconceivable!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "_This review may contain spoilers._\n\nThis is the first time watching it with the kids. They were enthralled from the initial sword fight on, though we did skip the fire swamp, the “Booooo!” lady, some torture, and much of the burning-giant-in-a-trenchcoat scene.\n\nTo me, it’s still true that the idea that more than only a ver small handful of movies are better than this one is wholly, totally, and in all other ways…\n\nInconceivable!\n\n<img src=\"uploads/2024/ad4959b427.jpg\" width=\"400\" height=\"600\" alt=\"This is a movie poster for *The Princess Bride*. The image features a man and a woman standing close together, facing each other, and holding hands. They are silhouetted against a stunning backdrop of clouds and distant mountains, with a castle perched on a cliff in the background. The scene is framed by two large columns with foliage above, creating a dreamlike and romantic atmosphere. The title &quot;The Princess Bride&quot; is prominently displayed at the bottom of the poster in bold, stylized white text.\">\n",
+				"content_text": "_This review may contain spoilers._\n\nThis is the first time watching it with the kids. They were enthralled from the initial sword fight on, though we did skip the fire swamp, the “Booooo!” lady, some torture, and much of the burning-giant-in-a-trenchcoat scene.\n\nTo me, it’s still true that the idea that more than only a ver small handful of movies are better than this one is wholly, totally, and in all other ways…\n\nInconceivable!\n\n<img src=\"https://cdn.uploads.micro.blog/5757/2024/ad4959b427.jpg\" width=\"400\" height=\"600\" alt=\"This is a movie poster for *The Princess Bride*. The image features a man and a woman standing close together, facing each other, and holding hands. They are silhouetted against a stunning backdrop of clouds and distant mountains, with a castle perched on a cliff in the background. The scene is framed by two large columns with foliage above, creating a dreamlike and romantic atmosphere. The title &quot;The Princess Bride&quot; is prominently displayed at the bottom of the poster in bold, stylized white text.\">\n",
 				"date_published": "2024-08-25T22:33:30-04:00",
 				"url": "https://joeross.me/2024/08/25/the-princess-bride.html",
 				"tags": ["Watched"]
