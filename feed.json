@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2024/09/21/watching-these-network.html",
+				
+				"content_html": "<p>Watching <a href=\"https://www.bbc.com/news/articles/cwyl171lyewo\">these &ldquo;network state&rdquo; clowns fail</a> will be fun, but that shouldn’t overshadow the predatory nature of their worldview.</p>\n",
+				"content_text": "Watching [these \"network state\" clowns fail](https://www.bbc.com/news/articles/cwyl171lyewo) will be fun, but that shouldn’t overshadow the predatory nature of their worldview.\n",
+				"date_published": "2024-09-21T23:37:49-04:00",
+				"url": "https://joeross.me/2024/09/21/watching-these-network.html",
+				"tags": ["Links","Notes"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/09/12/sometimes-im-writing.html",
+				
+				"content_html": "<p>Sometimes I’m writing a Very Serious Blog Post™️ and then I have an intrusive ‘90s thought.</p>\n<p>For example, I love and hate the fact that, probably for the rest of my life, every time someone says “I don’t wanna wait” I have no choice or free will at all and I just sing</p>\n<p>🎤 for our lives to be OH-ver 🎤</p>\n",
+				"content_text": "Sometimes I’m writing a Very Serious Blog Post™️ and then I have an intrusive ‘90s thought.\n\nFor example, I love and hate the fact that, probably for the rest of my life, every time someone says “I don’t wanna wait” I have no choice or free will at all and I just sing\n\n🎤 for our lives to be OH-ver 🎤\n",
+				"date_published": "2024-09-12T20:04:40-04:00",
+				"url": "https://joeross.me/2024/09/12/sometimes-im-writing.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://joeross.micro.blog/2024/09/06/matt-webb-wrote.html",
 				
 				"content_html": "<p>Matt Webb wrote about his open source in-page chat tool, cursor party:</p>\n<blockquote>\n<p>“If you&rsquo;ve visited my actual website, rather than reading by email or whatever, such as reading <a href=\"https://interconnected.org/home/2024/09/05/cursor-party\">this very post</a>, you may notice somebody else&rsquo;s cursor pass by as you&rsquo;re reading.”</p>\n</blockquote>\n<p>It’s a wonderful, playful, well-executed idea.</p>\n",
