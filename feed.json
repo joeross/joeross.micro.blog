@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2024/10/14/abhorrent-ceo-or.html",
+				
+				"content_html": "<p>Abhorrent CEO or not, a lot of really incredible people at SpaceX achieved a really incredible thing with the Starship launch/Super Heavy catch, and it was awesome to show my kids and see the excitement in their eyes.</p>\n<p><a href=\"https://youtu.be/b28zbsnk-48\">youtu.be/b28zbsnk-&hellip;</a></p>\n",
+				"content_text": "Abhorrent CEO or not, a lot of really incredible people at SpaceX achieved a really incredible thing with the Starship launch/Super Heavy catch, and it was awesome to show my kids and see the excitement in their eyes. \n\n[youtu.be/b28zbsnk-...](https://youtu.be/b28zbsnk-48)\n",
+				"date_published": "2024-10-14T19:45:47-04:00",
+				"url": "https://joeross.me/2024/10/14/abhorrent-ceo-or.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/10/07/amazon-killed-api.html",
+				
+				"content_html": "<p>Amazon killed API access for one of my favorite apps, price tracker DropScout. Its developer, Daniel Kramer, <a href=\"https://mastodon.social/@_danielkramer/113264142218037075\">writes on Mastodon</a>:</p>\n<blockquote>\n<p>Amazon has pulled my API access and the app is non-functional as a result. I’m looking for find a solution but the future doesn’t look good.</p>\n</blockquote>\n<blockquote>\n<p>Apparently it’s against terms of service to track prices. There are other apps that do this so it’s a bit surprising. Apparently they’ve given other services permission and I’m trying to see if they will allow DropScout to do this.</p>\n</blockquote>\n<p>DropScout is my favorite in its class of apps and I hope Daniel gets his API access back.</p>\n",
+				"content_text": "Amazon killed API access for one of my favorite apps, price tracker DropScout. Its developer, Daniel Kramer, [writes on Mastodon](https://mastodon.social/@_danielkramer/113264142218037075):\n\n> Amazon has pulled my API access and the app is non-functional as a result. I’m looking for find a solution but the future doesn’t look good. \n\n> Apparently it’s against terms of service to track prices. There are other apps that do this so it’s a bit surprising. Apparently they’ve given other services permission and I’m trying to see if they will allow DropScout to do this. \n\nDropScout is my favorite in its class of apps and I hope Daniel gets his API access back.\n",
+				"date_published": "2024-10-07T10:02:24-04:00",
+				"url": "https://joeross.me/2024/10/07/amazon-killed-api.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/10/07/the-movie-sleepy.html",
+				
+				"content_html": "<p>The 1999 movie <a href=\"https://en.wikipedia.org/wiki/Sleepy_Hollow_(film)\"><em>Sleepy Hollow</em></a> is, to my mind, the film to watch during the transition from early autumn to the Halloween season.</p>\n<p>It captures the dreary, de-saturated feeling you get, on the east coast of the U.S., anyway, when you realize there won&rsquo;t be another day without a chill in the air for a few months.</p>\n<p>It&rsquo;s full of weirdness and dark humor, but one of my favorite exchanges in the movie is this:</p>\n<blockquote>\n<p><strong><em>Ichabod Crane</em></strong>: You have moved the body.<br>\n<strong><em>Dr. Thomas Lancaster</em>:</strong> I did.<br>\n<strong><em>Crane</em>:</strong> You must never move the body!<br>\n<strong><em>Lancaster</em>:</strong> Why not?<br>\n<strong><em>Crane</em>:</strong> &hellip; Because&hellip;</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The 1999 movie [_Sleepy Hollow_](https://en.wikipedia.org/wiki/Sleepy_Hollow_(film)) is, to my mind, the film to watch during the transition from early autumn to the Halloween season.\n\nIt captures the dreary, de-saturated feeling you get, on the east coast of the U.S., anyway, when you realize there won't be another day without a chill in the air for a few months.\n\nIt's full of weirdness and dark humor, but one of my favorite exchanges in the movie is this:\n\n> **_Ichabod Crane_**: You have moved the body.   \n> **_Dr. Thomas Lancaster_:** I did.  \n> **_Crane_:** You must never move the body!  \n > **_Lancaster_:** Why not?  \n> **_Crane_:** ... Because...\n\n<img src=\"uploads/2024/sleepy-hollow-movie-poster-horseman-moon.jpg\" width=\"403\" height=\"600\" alt=\"A stylized poster for the film Sleepy Hollow features a shadowy figure on horseback against a moonlit, eerie forest backdrop\">\n",
+				"date_published": "2024-10-07T06:51:00-04:00",
+				"url": "https://joeross.me/2024/10/07/the-movie-sleepy.html",
+				"tags": ["Watched"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/10/06/sometimes-when-ive.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😑 Sometimes, when I've really had it with my kids, I just look them right in the eyes and tell them, with the most stern and serious expression I can muster, \"There will be no fourth chances!\"</p>\n",
+				"date_published": "2024-10-06T13:40:47-04:00",
+				"url": "https://joeross.me/2024/10/06/sometimes-when-ive.html",
+				"tags": ["Status"]
+			},
+			{
 				"id": "http://joeross.micro.blog/2024/10/05/matt-mullenweg-is.html",
 				
 				"content_html": "<p>Matt Mullenweg is a litigator&rsquo;s worst nightmare — please <a href=\"https://ma.tt/2024/09/t3/\">stop talking in public about the subject matter</a> of the litigation — but presumably Wordpress' lawyer <a href=\"https://en.wikipedia.org/wiki/Neal_Katyal\">Neal Katyal</a> knows what he&rsquo;s doing and doesn&rsquo;t expect the PR blitz to cause problems.</p>\n",
