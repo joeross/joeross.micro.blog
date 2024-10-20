@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/joeross
+———————————————————————
+
+I hereby claim:
+
+  * I am an admin of https://joeross.me
+  * I am joeross (https://keybase.io/joeross) on keybase.
+  * I have a public key ASD6f0y4UnTMeX1-VaMaUapwQCyRpnIah9Jl-19v05MbMQo
+
+To do so, I am signing this object:
+
+{
+  “body”: {
+    “key”: {
+      “eldest_kid”: “0101274dc8d12f5d01312d84a98aacbc53438711d6bc4fe0beebdd9a7ad3d8d89aac0a”,
+      “host”: “keybase.io”,
+      “kid”: “0120fa7f4cb85274cc797d7e55a31a51aa70402c91a6721a87d265fb5f6fd3931b310a”,
+      “uid”: “936ead12918980a61da4b6032d2f1619”,
+      “username”: “joeross”
+    },
+    “merkle_root”: {
+      “ctime”: 1728959041,
+      “hash”: “f29efb81563d126298814cce9bd7005a83dcfb085eddd7b1bc3d3d2e6dc85c5a4e3c182162708de43c5637f6a7f0453bf2c83352914ca580f542ad85b0053d71”,
+      “hash_meta”: “acca3af66d6347f5722fda7155dc3de2662b397074a2c108ad8436edd8d5de1f”,
+      “seqno”: 26207286
+    },
+    “service”: {
+      “entropy”: “gLTFE+ug6j98rJHHWbJdhVOS”,
+      “hostname”: “joeross.me”,
+      “protocol”: “https:”
+    },
+    “type”: “web_service_binding”,
+    “version”: 2
+  },
+  “client”: {
+    “name”: “keybase.io go client”,
+    “version”: “6.4.2”
+  },
+  “ctime”: 1728959095,
+  “expire_in”: 504576000,
+  “prev”: “97d0be9a5acedba128d4ebfa92081db483e38536568929e3dd43d275d0e69d8b”,
+  “seqno”: 61,
+  “tag”: “signature”
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+n9MuFJ0zHl9flWjGlGqcEAskaZyGofSZftfb9OTGzEKp3BheWxvYWTESpcCPcQgl9C+mlrO26Eo1Ov6kggdtIPjhTZWiSnj3UPSddDmnYvEIGh450hZ/xvOGAH9i6fpKm8k7i+aAOzok3QzxTshUKJAAgHCo3NpZ8RADp/o60Jzl6Ep4nLNhXtawU/VlqBb0s6i05/4ygXWcNhuh1pygH37xeIc89LxAwT1gx6hfC5vMcM0nZ40iOP2D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC20GqN9/gm7Ilrl7FBYWfgJjIeQu4DWKuKERbjplqbeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joeross
+
+==================================================================
