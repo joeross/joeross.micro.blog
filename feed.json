@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2024/11/02/with-omnivore-being.html",
+				
+				"content_html": "<p>With <a href=\"https://blog.omnivore.app/p/details-on-omnivore-shutting-down\">Omnivore being acquired by Eleven Labs</a> and shutting down, I recommend <a href=\"https://readwise.io/read\">Readwise Reader</a>.</p>\n<p>You can still <a href=\"https://github.com/omnivore-app/omnivore\">self-host Omnivore</a>, but I think Readwise is worth its ~$100/year price, though all-in Apple users might prefer <a href=\"https://apps.apple.com/us/app/goodlinks/id1474335294\">GoodLinks</a> for a simpler but still well-designed alternative at a much lower cost.</p>\n",
+				"content_text": "With [Omnivore being acquired by Eleven Labs](https://blog.omnivore.app/p/details-on-omnivore-shutting-down) and shutting down, I recommend [Readwise Reader](https://readwise.io/read). \n\nYou can still [self-host Omnivore](https://github.com/omnivore-app/omnivore), but I think Readwise is worth its ~$100/year price, though all-in Apple users might prefer [GoodLinks](https://apps.apple.com/us/app/goodlinks/id1474335294) for a simpler but still well-designed alternative at a much lower cost.\n",
+				"date_published": "2024-11-02T13:57:55-04:00",
+				"url": "https://joeross.me/2024/11/02/with-omnivore-being.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/10/30/and-just-like.html",
+				
+				"content_html": "<p>And just like that, someone I have idolized since I was a young child <a href=\"https://www.prnewswire.com/news-releases/brigadier-general-buzz-aldrin-endorses-donald-j-trump-for-president-of-the-united-states-302291636.html\">shows themselves willing</a> to deliver our republic to death by authoritarianism.</p>\n",
+				"content_text": "And just like that, someone I have idolized since I was a young child [shows themselves willing](https://www.prnewswire.com/news-releases/brigadier-general-buzz-aldrin-endorses-donald-j-trump-for-president-of-the-united-states-302291636.html) to deliver our republic to death by authoritarianism.\n",
+				"date_published": "2024-10-30T23:22:07-04:00",
+				"url": "https://joeross.me/2024/10/30/and-just-like.html",
+				"tags": ["Links","Notes"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/10/28/heres-a-real.html",
+				
+				"content_html": "<p>Here’s a real form someone I know <em>who makes more than minimum wage</em> was recently asked by their employer to sign:</p>\n<blockquote>\n<p>I understand that for calculation of overtime, my contractual hour rate with <em>Employer</em> is set at minimum wage, which is the wage that New Jersey Department of Labor sets, or the Federal minimum wage, whichever is higher. This means that if I clock hours in excess of 40 in a one week pay period, that my pay should be equal to/or greater than 40 hours at minimum wage and overtime at 1.5 times the minimum wage.</p>\n</blockquote>\n<p>Am I missing something, or is this what us fancy lawyers call… illegal <em>af</em>?</p>\n",
+				"content_text": "Here’s a real form someone I know _who makes more than minimum wage_ was recently asked by their employer to sign:\n\n> I understand that for calculation of overtime, my contractual hour rate with _Employer_ is set at minimum wage, which is the wage that New Jersey Department of Labor sets, or the Federal minimum wage, whichever is higher. This means that if I clock hours in excess of 40 in a one week pay period, that my pay should be equal to/or greater than 40 hours at minimum wage and overtime at 1.5 times the minimum wage.\n\nAm I missing something, or is this what us fancy lawyers call… illegal _af_?\n",
+				"date_published": "2024-10-28T17:29:35-04:00",
+				"url": "https://joeross.me/2024/10/28/heres-a-real.html",
+				"tags": ["Law","Notes"]
+			},
+			{
 				"id": "http://joeross.micro.blog/2024/10/18/michael-keaton-enters.html",
 				
 				"content_html": "<p>“Michael Keaton Enters the SNL Ring”</p>\n<p><a href=\"https://youtu.be/CJGNX31DIwk\">youtu.be/CJGNX31DI&hellip;</a></p>\n<p>It’s one of the better films of the last several years. 10/10, no notes.</p>\n",
@@ -46,7 +73,7 @@
 				"id": "http://joeross.micro.blog/2024/10/07/the-movie-sleepy.html",
 				
 				"content_html": "<p>The 1999 movie <a href=\"https://en.wikipedia.org/wiki/Sleepy_Hollow_(film)\"><em>Sleepy Hollow</em></a> is, to my mind, the film to watch during the transition from early autumn to the Halloween season.</p>\n<p>It captures the dreary, de-saturated feeling you get, on the east coast of the U.S., anyway, when you realize there won&rsquo;t be another day without a chill in the air for a few months.</p>\n<p>It&rsquo;s full of weirdness and dark humor, but one of my favorite exchanges in the movie is this:</p>\n<blockquote>\n<p><strong><em>Ichabod Crane</em></strong>: You have moved the body.<br>\n<strong><em>Dr. Thomas Lancaster</em>:</strong> I did.<br>\n<strong><em>Crane</em>:</strong> You must never move the body!<br>\n<strong><em>Lancaster</em>:</strong> Why not?<br>\n<strong><em>Crane</em>:</strong> &hellip; Because&hellip;</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The 1999 movie [_Sleepy Hollow_](https://en.wikipedia.org/wiki/Sleepy_Hollow_(film)) is, to my mind, the film to watch during the transition from early autumn to the Halloween season.\n\nIt captures the dreary, de-saturated feeling you get, on the east coast of the U.S., anyway, when you realize there won't be another day without a chill in the air for a few months.\n\nIt's full of weirdness and dark humor, but one of my favorite exchanges in the movie is this:\n\n> **_Ichabod Crane_**: You have moved the body.   \n> **_Dr. Thomas Lancaster_:** I did.  \n> **_Crane_:** You must never move the body!  \n > **_Lancaster_:** Why not?  \n> **_Crane_:** ... Because...\n\n<img src=\"uploads/2024/sleepy-hollow-movie-poster-horseman-moon.jpg\" width=\"403\" height=\"600\" alt=\"A stylized poster for the film Sleepy Hollow features a shadowy figure on horseback against a moonlit, eerie forest backdrop\">\n",
+				"content_text": "The 1999 movie [_Sleepy Hollow_](https://en.wikipedia.org/wiki/Sleepy_Hollow_(film)) is, to my mind, the film to watch during the transition from early autumn to the Halloween season.\n\nIt captures the dreary, de-saturated feeling you get, on the east coast of the U.S., anyway, when you realize there won't be another day without a chill in the air for a few months.\n\nIt's full of weirdness and dark humor, but one of my favorite exchanges in the movie is this:\n\n> **_Ichabod Crane_**: You have moved the body.   \n> **_Dr. Thomas Lancaster_:** I did.  \n> **_Crane_:** You must never move the body!  \n > **_Lancaster_:** Why not?  \n> **_Crane_:** ... Because...\n\n<img src=\"https://cdn.uploads.micro.blog/5757/2024/sleepy-hollow-movie-poster-horseman-moon.jpg\" width=\"403\" height=\"600\" alt=\"A stylized poster for the film Sleepy Hollow features a shadowy figure on horseback against a moonlit, eerie forest backdrop\">\n",
 				"date_published": "2024-10-07T06:51:00-04:00",
 				"url": "https://joeross.me/2024/10/07/the-movie-sleepy.html",
 				"tags": ["Watched"]
