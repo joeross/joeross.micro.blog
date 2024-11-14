@@ -7,11 +7,29 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2024/11/13/i-was-sad.html",
+				
+				"content_html": "<p>I was sad to read that <a href=\"https://musician.social/@radiofreefedi/113406513837978275\">Radio Free Fedi is shutting down</a> early next year. It got me thinking about how easy it is to spin up awesome stuff on the Fediverse. On the one hand, that’s awesome! But on the other, it means that stuff often outgrows the metaphorical bandwidth of its creators pretty fast.</p>\n",
+				"content_text": "I was sad to read that [Radio Free Fedi is shutting down](https://musician.social/@radiofreefedi/113406513837978275) early next year. It got me thinking about how easy it is to spin up awesome stuff on the Fediverse. On the one hand, that’s awesome! But on the other, it means that stuff often outgrows the metaphorical bandwidth of its creators pretty fast.\n",
+				"date_published": "2024-11-13T02:53:47-05:00",
+				"url": "https://joeross.me/2024/11/13/i-was-sad.html",
+				"tags": ["Links","Notes"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/11/11/chris-geidner-writes.html",
+				
+				"content_html": "<p>Chris Geidner <a href=\"https://www.lawdork.com/p/the-justices-must-decide-whether\">writes at <em>Law Dork</em></a> that progressives should be litigating &ldquo;narrow challenges brought on conservative grounds — using the reasoning of the right, [&hellip;] fighting with the tools that can work.&rdquo;</p>\n<p>This is the way. Forcing liberal arguments through conservative courts won’t work.</p>\n",
+				"content_text": "Chris Geidner [writes at _Law Dork_](https://www.lawdork.com/p/the-justices-must-decide-whether) that progressives should be litigating \"narrow challenges brought on conservative grounds — using the reasoning of the right, [...] fighting with the tools that can work.\"\n\nThis is the way. Forcing liberal arguments through conservative courts won’t work.\n",
+				"date_published": "2024-11-11T04:31:09-05:00",
+				"url": "https://joeross.me/2024/11/11/chris-geidner-writes.html",
+				"tags": ["Links","Notes"]
+			},
+			{
 				"id": "http://joeross.micro.blog/2024/11/08/oh-the-privilege.html",
 				
-				"content_html": "<p>Oh the privilege of naivety, or the naivety of privilegeof shrug, or something</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oh the privilege of naivety, or the naivety of privilegeof shrug, or something \n\n<img src=\"uploads/2024/52534e6ead.jpg\" width=\"600\" height=\"535\" alt=\"A tweet by Aaron Levie discusses the potential benefits of reducing red tape and over-regulation, mentioning various sectors and showing enthusiasm for Elon's efforts to get Trump elected.\">\n",
-				"date_published": "2024-11-08T18:23:13-05:00",
+				"content_html": "<p>Oh the privilege of naivety, or the naivety of privilege, or something</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Oh the privilege of naivety, or the naivety of privilege, or something\n\n<img src=\"uploads/2024/03dccab3c5.jpg\" width=\"600\" height=\"535\" alt=\"A tweet by @levie (Aaron Levie), who has a verified checkmark. The tweet reads: &quot;With a major push to remove unnecessary red tape and over-regulation in key areas, we could really have a century of crazy building, innovation, and acceleration. More manufacturing, housing, AI, energy, transportation, space, medicine, and more. Excited for Elon's efforts here.&quot;&10;&10;The tweet was posted at 1:58 PM on Nov 6, 2024, and has 199.3K views, 138 replies, 161 retweets, 1.8K likes, and 134 bookmarks.​​​​​​​​​​​​​​​​\">\n",
+				"date_published": "2024-11-08T18:38:48-05:00",
 				"url": "https://joeross.me/2024/11/08/oh-the-privilege.html",
 				"tags": ["Notes"]
 			},
@@ -44,7 +62,7 @@
 				"id": "http://joeross.micro.blog/2024/11/02/practical-ai-tip.html",
 				
 				"content_html": "<p>Practical AI tip: When someone sends me a PDF calendar (😡), I ask <a href=\"https://claude.ai/\">Claude</a> to process the info into ICS format. For my kids' daycare snack calendar, I say:</p>\n<blockquote>\n<p>Please convert data from each day to one all-day event, like: Snacks: AM: Cheerios / PM: Crackers</p>\n</blockquote>\n<p>And I get the excellent result pictured here.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Practical AI tip: When someone sends me a PDF calendar (😡), I ask [Claude](https://claude.ai/) to process the info into ICS format. For my kids' daycare snack calendar, I say:\n\n> Please convert data from each day to one all-day event, like: Snacks: AM: Cheerios / PM: Crackers\n\nAnd I get the excellent result pictured here.\n\n<img src=\"uploads/2024/de6667a39b.jpg\" width=\"600\" height=\"494\" alt=\"A screenshot of Fantastical for iOS shows a calendar schedule of snacks for each day, including applesauce, nachos, granola bars, cucumbers, yogurt, and pretzels.\">\n",
+				"content_text": "Practical AI tip: When someone sends me a PDF calendar (😡), I ask [Claude](https://claude.ai/) to process the info into ICS format. For my kids' daycare snack calendar, I say:\n\n> Please convert data from each day to one all-day event, like: Snacks: AM: Cheerios / PM: Crackers\n\nAnd I get the excellent result pictured here.\n\n<img src=\"https://cdn.uploads.micro.blog/5757/2024/de6667a39b.jpg\" width=\"600\" height=\"494\" alt=\"A screenshot of Fantastical for iOS shows a calendar schedule of snacks for each day, including applesauce, nachos, granola bars, cucumbers, yogurt, and pretzels.\">\n",
 				"date_published": "2024-11-02T18:37:27-05:00",
 				"url": "https://joeross.me/2024/11/02/practical-ai-tip.html",
 				"tags": ["Notes"]
