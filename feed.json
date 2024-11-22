@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2024/11/22/threads-can-brag.html",
+				
+				"content_html": "<p>Threads can brag about hundreds of millions of users and more daily signups than all of Bluesky, but its <a href=\"https://www.theverge.com/2024/11/22/24303207/threads-meta-search-trending-topics-bluesky\">recent feature sprint</a> shows competition is having the desired effect. Bluesky’s best move would be to ship true, easy federation ASAP. Easier said than done, I’m sure, but the sooner the better.</p>\n",
+				"content_text": "Threads can brag about hundreds of millions of users and more daily signups than all of Bluesky, but its [recent feature sprint](https://www.theverge.com/2024/11/22/24303207/threads-meta-search-trending-topics-bluesky) shows competition is having the desired effect. Bluesky’s best move would be to ship true, easy federation ASAP. Easier said than done, I’m sure, but the sooner the better.\n",
+				"date_published": "2024-11-22T11:25:13-05:00",
+				"url": "https://joeross.me/2024/11/22/threads-can-brag.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/11/17/i-recently-posted.html",
+				
+				"content_html": "<p>I recently posted a photo of my cat <a href=\"https://bsky.app/profile/joeross.me/post/3lb5oonkwp224\">on Bluesky</a>, as any serious person does on a growing social network. While carefully preparing the post (again, I am serious person) I asked four different LLMs for alt text to include with the photo. They all did okay, but as you can see Claude went pretty hard…</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I recently posted a photo of my cat [on Bluesky](https://bsky.app/profile/joeross.me/post/3lb5oonkwp224), as any serious person does on a growing social network. While carefully preparing the post (again, I am serious person) I asked four different LLMs for alt text to include with the photo. They all did okay, but as you can see Claude went pretty hard…\n\n<img src=\"uploads/2024/fe50b39d15.jpg\" width=\"491\" height=\"600\" alt=\"Screenshot of Google Gemini showing the following alt text it generated for this cat photo: A black and white cat stares seriously at the viewer while wearing a pink plastic tiara.\"><img src=\"uploads/2024/bb09679d08.jpg\" width=\"473\" height=\"600\" alt=\"Screenshot of ChatGPT showing the following alt text it generated for this cat photo: The image shows a black-and-white cat wearing a pink, gem-studded tiara. The cat has a serious expression, with its greenish-yellow eyes focused on the camera.\"><img src=\"uploads/2024/b73b623501.jpg\" width=\"314\" height=\"600\" alt=\"Screenshot of Microsoft Copilot showing the following alt text it generated for this cat photo: A cat is wearing a pink beaded crown. The cat's face is blurred, but the crown is clearly visible, adorned with numerous small, shiny beads. The cat has black and white fur, and the background appears to be indoors with a warm-toned setting.\"><img src=\"uploads/2024/4130c333d0.jpg\" width=\"348\" height=\"600\" alt=\"Screenshot of Anthropic's Claude showing the following alt text it generated for this cat photo: This image shows a black and white cat wearing a bright pink, ornate tiara or crown made of small beaded or jeweled elements. The cat has striking golden-yellow eyes and distinctive black patches around its eyes contrasting with its white fur. The crown sits perched on top of the cat's head and appears to be decorative costume jewelry. The cat has a dignified, regal expression and appears to be resting on what looks like light-colored fabric or bedding. The photo is well-lit and in sharp focus, particularly highlighting the cat's facial features and the intricate details of the pink crown.\">\n",
+				"date_published": "2024-11-17T10:20:10-05:00",
+				"url": "https://joeross.me/2024/11/17/i-recently-posted.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/11/16/once-in-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>▶️ Once in a while, I remember that the overwhelming majority of human beings prefer everything Coldplay did <strong>after</strong> <em>Parachutes</em> over that absolute gem of a record, and I realize that I should’ve known when that thought first occurred to me that I was in one of the darker timelines.</p>\n",
+				"date_published": "2024-11-16T18:50:11-05:00",
+				"url": "https://joeross.me/2024/11/16/once-in-a.html"
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/11/14/i-told-myself.html",
+				
+				"content_html": "<p>I told myself I wouldn’t participate the <em>discourse</em>, but everyone who voted for Trump had enough information to know <a href=\"https://www.theguardian.com/us-news/2024/nov/14/trump-administration-rfk-criticisms\">this was a likelihood</a> and they did it anyway. Each and every one of them shares responsibility for those will suffer or die as a direct result of RFK Jr. running HHS if he’s confirmed.</p>\n",
+				"content_text": "I told myself I wouldn’t participate the _discourse_, but everyone who voted for Trump had enough information to know [this was a likelihood](https://www.theguardian.com/us-news/2024/nov/14/trump-administration-rfk-criticisms) and they did it anyway. Each and every one of them shares responsibility for those will suffer or die as a direct result of RFK Jr. running HHS if he’s confirmed.\n",
+				"date_published": "2024-11-14T20:42:53-05:00",
+				"url": "https://joeross.me/2024/11/14/i-told-myself.html",
+				"tags": ["Links","Notes"]
+			},
+			{
 				"id": "http://joeross.micro.blog/2024/11/13/i-was-sad.html",
 				
 				"content_html": "<p>I was sad to read that <a href=\"https://musician.social/@radiofreefedi/113406513837978275\">Radio Free Fedi is shutting down</a> early next year. It got me thinking about how easy it is to spin up awesome stuff on the Fediverse. On the one hand, that’s awesome! But on the other, it means that stuff often outgrows the metaphorical bandwidth of its creators pretty fast.</p>\n",
@@ -28,7 +63,7 @@
 				"id": "http://joeross.micro.blog/2024/11/08/oh-the-privilege.html",
 				
 				"content_html": "<p>Oh the privilege of naivety, or the naivety of privilege, or something</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oh the privilege of naivety, or the naivety of privilege, or something\n\n<img src=\"uploads/2024/03dccab3c5.jpg\" width=\"600\" height=\"535\" alt=\"A tweet by @levie (Aaron Levie), who has a verified checkmark. The tweet reads: &quot;With a major push to remove unnecessary red tape and over-regulation in key areas, we could really have a century of crazy building, innovation, and acceleration. More manufacturing, housing, AI, energy, transportation, space, medicine, and more. Excited for Elon's efforts here.&quot;&10;&10;The tweet was posted at 1:58 PM on Nov 6, 2024, and has 199.3K views, 138 replies, 161 retweets, 1.8K likes, and 134 bookmarks.​​​​​​​​​​​​​​​​\">\n",
+				"content_text": "Oh the privilege of naivety, or the naivety of privilege, or something\n\n<img src=\"https://cdn.uploads.micro.blog/5757/2024/03dccab3c5.jpg\" width=\"600\" height=\"535\" alt=\"A tweet by @levie (Aaron Levie), who has a verified checkmark. The tweet reads: &quot;With a major push to remove unnecessary red tape and over-regulation in key areas, we could really have a century of crazy building, innovation, and acceleration. More manufacturing, housing, AI, energy, transportation, space, medicine, and more. Excited for Elon's efforts here.&quot;&10;&10;The tweet was posted at 1:58 PM on Nov 6, 2024, and has 199.3K views, 138 replies, 161 retweets, 1.8K likes, and 134 bookmarks.​​​​​​​​​​​​​​​​\">\n",
 				"date_published": "2024-11-08T18:38:48-05:00",
 				"url": "https://joeross.me/2024/11/08/oh-the-privilege.html",
 				"tags": ["Notes"]
