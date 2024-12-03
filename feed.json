@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2024/12/03/there-are-so.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🔔 There are <em>so many</em> bearded dudes in Philly that I think I know from college. It can be very disconcerting.</p>\n",
+				"date_published": "2024-12-03T17:14:56-05:00",
+				"url": "https://joeross.me/2024/12/03/there-are-so.html"
+			},
+			{
+				"id": "http://joeross.micro.blog/2024/11/30/seeing-my-microblog.html",
+				
+				"content_html": "<p>Seeing my Micro.blog profile in a Mastodon app, where my username is <a href=\"https://micro.blog/joe@joeross.me\">@joe@joeross.me</a>, <em>really</em> makes me want to use it as my primary fediverse account. I just find the transfer process daunting, and I recall Mb may not be a full implementation of an ActivityPub account, though maybe that has changed.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Seeing my Micro.blog profile in a Mastodon app, where my username is [@joe@joeross.me](https://micro.blog/joe@joeross.me), _really_ makes me want to use it as my primary fediverse account. I just find the transfer process daunting, and I recall Mb may not be a full implementation of an ActivityPub account, though maybe that has changed.\n\n<img src=\"uploads/2024/03d0173be3.jpg\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-11-30T10:30:47-05:00",
+				"url": "https://joeross.me/2024/11/30/seeing-my-microblog.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://joeross.micro.blog/2024/11/28/now-that-the.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
