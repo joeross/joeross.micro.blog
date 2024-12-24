@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2024/12/14/this-ominous-photo.html",
+				
+				"content_html": "<p>This ominous photo I took tonight of the Disney castle lit by red fireworks is my new header for, possibly, forever because shit is just ominous these days okay?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This ominous photo I took tonight of the Disney castle lit by red fireworks is my new header for, possibly, forever because shit is just ominous these days okay?\n\n<img src=\"uploads/2024/8f0357045e.jpg\" width=\"600\" height=\"337\" alt=\"A brightly lit castle is illuminated by colorful fireworks exploding in a vibrant night sky.\">\n",
+				"date_published": "2024-12-14T22:03:09-05:00",
+				"url": "https://joeross.me/2024/12/14/this-ominous-photo.html",
+				"tags": ["Notes","Photos"]
+			},
+			{
 				"id": "http://joeross.micro.blog/2024/12/14/085303.html",
 				
 				"content_html": "<p>Frozen Ever After. Of course our first attempt to rope drop at Disney World ends with Frozen Ever After having a delayed opening of at least an hour…</p>\n",
