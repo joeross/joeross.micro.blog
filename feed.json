@@ -7,13 +7,13 @@
 	"items": [
 		
 			{
-				"id": "http://joeross.micro.blog/2025/05/03/wawa.html",
+				"id": "http://joeross.micro.blog/2025/05/17/if-you-like-the-drafts.html",
 				
-				"content_html": "<p>Wawa.</p>\n",
-				"content_text": "Wawa. \n",
-				"date_published": "2025-05-03T17:53:32-04:00",
-				"url": "https://joeross.me/2025/05/03/wawa.html",
-				"tags": ["Checkins"]
+				"content_html": "<p>If you like the Drafts app by Agile Tortoise, check out <a href=\"https://directory.getdrafts.com/a/2Yg\">this action I published</a> to use your draft text to search the TestFlight beta tracking website <a href=\"https://departures.to/\">departures.to</a>.</p>\n<p>Cheers to @FloGroh, whose <a href=\"https://directory.getdrafts.com/a/2M7\">open URL in current line</a> action I adapted mine from (and who has a <em>ton</em> of other awesome Drafts actions).</p>\n",
+				"content_text": "If you like the Drafts app by Agile Tortoise, check out [this action I published](https://directory.getdrafts.com/a/2Yg) to use your draft text to search the TestFlight beta tracking website [departures.to](https://departures.to/).\n\nCheers to @FloGroh, whose [open URL in current line](https://directory.getdrafts.com/a/2M7) action I adapted mine from (and who has a _ton_ of other awesome Drafts actions).\n",
+				"date_published": "2025-05-17T16:17:42-04:00",
+				"url": "https://joeross.me/2025/05/17/if-you-like-the-drafts.html",
+				"tags": ["Notes","Drafts Actions"]
 			},
 			{
 				"id": "http://joeross.micro.blog/2025/04/23/when-billy-eichner-likes-your.html",
@@ -4108,7 +4108,7 @@
 				"content_text": "<a href=\"http://www.theparisreview.org/interviews/3196/the-art\">Gabriel García Márquez on life as literature</a><div class=\"link_description\">\n<p>The recently deceased García Márquez, in an interview published in the winter 1981 issue of <em>The Paris Review</em>:</p>\n\n<blockquote>\n  <p>My mother asked me to accompany her to Aracataca, where I was born, and to sell the house where I spent my first years. When I got there it was at first quite shocking because I was now twenty-two and hadn’t been there since the age of eight. Nothing had really changed, but I felt that I wasn’t really looking at the village, but I was experiencing it as if I were reading it. It was as if everything I saw had already been written, and all I had to do was to sit down and copy what was already there and what I was just reading.</p>\n</blockquote>\n\n<p>I have never read his work (a sin of literary omission I will soon remedy), but in this story García Márquez perfectly described a sensation I have at least once a week. It’s why I started writing fiction again recently after a long drought.</p>\n\n<p>Go read the rest of the interview, it’s great.</p>\n</div>\n",
 				"date_published": "2014-04-19T15:35:31-04:00",
 				"url": "https://joeross.me/2014/04/19/gabriel-garca-mrquez.html",
-				"tags": ["Links","Link","writing","Gabriel García Márquez"]
+				"tags": ["Links","Link","writing","Gabriel Garcia Marquez"]
 			},
 			{
 				"id": "http://joeross.micro.blog/2014/04/17/om-malik-on.html",
@@ -5485,7 +5485,7 @@
 				"content_text": "<a href=\"http://www.mondaynote.com/2013/03/24/yahoo-the-marissa-mayer-turnaround/?utm_source=pulsenews&amp;utm_medium=referral&amp;utm_campaign=Feed:%20monday-note%20(Monday%20Note)\">Yahoo: The Marissa Mayer Turnaround</a><div class=\"link_description\"><p>Jean-Louis Gassée consistently provides insight and, perhaps even more importantly in today’s tech-writing landscape, truly elegant prose. This is a great write-up, but I recommend you make <em>Monday Note</em> one of your weekly reads. He and Frédéric Filloux are often voices of reason among the din of unqualified opinion.</p></div>\n",
 				"date_published": "2013-03-25T15:01:40-04:00",
 				"url": "https://joeross.me/2013/03/25/yahoo-the-marissa.html",
-				"tags": ["Links","tech","Link","yahoo","Marissa Mayer","Frédéric Filloux","Monday Note","Jean-Louis Gassée"]
+				"tags": ["Links","tech","Link","yahoo","Marissa Mayer","Frederic Filloux","Monday Note","Jean-Louis Gassee"]
 			},
 			{
 				"id": "http://joeross.micro.blog/2013/03/25/easily-fake-a.html",
@@ -6358,7 +6358,7 @@
 				"content_text": "<a href=\"http://www.mondaynote.com/2012/11/25/the-release-windows-archaism/?utm_source=pulsenews&amp;utm_medium=referral&amp;utm_campaign=Feed:%20monday-note%20(Monday%20Note)\">The Release Windows Archaism</a><div class=\"link_description\">\n<p>Frédéric Filloux at <em>Monday Note</em>:</p>\n\n<blockquote>\n  <p>As for the TV shows such as Homeland and others hits, there is not justification whatsoever to preserve this calendar archaism. They should be made universally available from the day when they are aired on TV, period. Or customers will vote with their mouse anyway and find the right file-sharing sites.</p>\n</blockquote>\n\n<p>I’ve been preaching this line for a while, but Mr. Filloux articulates, by far, the best argument I’ve heard.</p>\n</div>\n",
 				"date_published": "2012-11-26T11:19:58-04:00",
 				"url": "https://joeross.me/2012/11/26/the-release-windows.html",
-				"tags": ["Links","Link","television","tv","piracy","Frédéric Filloux","Monday Note","release windows"]
+				"tags": ["Links","Link","television","tv","piracy","Frederic Filloux","Monday Note","release windows"]
 			},
 			{
 				"id": "http://joeross.micro.blog/2012/11/22/uspto-director-defends.html",
@@ -7249,7 +7249,7 @@
 				"content_text": "<a href=\"http://thenextweb.com/insider/2012/09/06/hootsuite-acquires-seesmic-interview-loic-le-meur/\">HootSuite Buys Seesmic</a><div class=\"link_description\">\n<p>Robins Wauters interviewed Seesmic founder Loïc Le Meur at <em>The Next Web</em> today on his company’s sale to rival HootSuite.</p>\n\n<p>I have always thought Seesmic was the best multi-profile app for Twitter and Facebook on mobile, and I always preferred their web interface to Hootsuite’s. But Le Meur is a brilliant fellow, and, as long as his team is taken care of, via either jobs at Hootsuite or decent compensation, I can only be happy for Seesmic.</p>\n\n<h3>Further Reading</h3>\n\n<ul>\n<li>\n<a href=\"http://techcrunch.com/2012/09/05/after-long-startup-journey-seesmic-nearing-sale-to-social-media-management-service-hootsuite/\" target=\"_blank\">After Long Startup Journey, Seesmic Is Bought By Social Media Management Service Hootsuite</a> by Eric Eldon at <em>TechCrunch</em>\n</li>\n    <li>\n<a href=\"http://techcrunch.com/2012/09/06/hootsuite-ceo-were-buying-seesmic-for-the-customer-base-not-the-tech/\" target=\"_blank\">HootSuite CEO: We’re Buying Seesmic For The Users, Not The Tech [Interview]</a> by Ingrid Lunden at <em>TechCrunch</em>\n</li>\n    <li>\n<a href=\"http://www.facebook.com/loic/posts/3389812710253\" target=\"_blank\">I’m forty today</a> by Le Meur at his Facebook page</li>\n</ul>\n</div>\n",
 				"date_published": "2012-09-06T14:00:00-04:00",
 				"url": "https://joeross.me/2012/09/06/hootsuite-buys-seesmic.html",
-				"tags": ["Links","Link","apps","startups","The Next Web","TechCrunch","Eric Eldon","HootSuite","Ingrid Lunden","Loïc Le Meur","Robin Wauters","Seesmic"]
+				"tags": ["Links","Link","apps","startups","The Next Web","TechCrunch","Eric Eldon","HootSuite","Ingrid Lunden","Loic Le Meur","Robin Wauters","Seesmic"]
 			},
 			{
 				"id": "http://joeross.micro.blog/2012/09/04/brevity.html",
@@ -7708,7 +7708,7 @@
 				"content_text": "<p>Howard Mittman, VP and publisher at Condé Nast property Wired Magazine, <a href=\"http://adage.com/article/media/wired-yorker-pull-back-flipboard/235608/\" target=\"_blank\">told <em>Ad Age</em>'s Nat Ives</a>:</p>\n\n<blockquote>\n  <p>I’m interested in ways to bring advertisers in front of our community. When Flipboard becomes that, I would love to reengage and reinvigorate our product. Until then, we have to wait and see and not allow intermediaries to build their own platforms without direct monetizable benefit back to us.</p>\n</blockquote>\n\n<p>This is somewhere between a rock and a hard place. People who consume solely through Flipboard — a group I suspect is growing all the time — might not bother clicking through. The friction meant to induce users to view Wired.com might end up dramatically cutting the number of folks reading Wired’s content. I don’t know what the right answer is, but I don’t think it’s “teaser” sentences.</p>\n\n<p><!-- more --></p>\n\n<p>The ad experience on mobile is already dismal for the user — I only interact with mobile ads by accident. There must be a better way. I know <em>Wired</em> and other content creators need viable revenue streams, and that traditionally the primary stream has been advertising.</p>\n\n<p>But the web, particularly the mobile web, doesn’t even allow for the glossy full-pagers that magazines do. Those full-pagers can be compelling, and what’s more, they can be blended with the magazine itself.</p>\n\n<p>A glossy full-page ad about the newest gaming laptop would be well-received in an issue focusing on gaming hardware, consoles, and next-generation systems. The same connection is much harder to make on mobile, where space is as precious to the publisher selling the ads as it is to the reader teaching himself how to visually avoid them. Flipboard is so popular because it involves us in the content consumption beyond merely staring at a screen. It’s subtle, but that flip is oddly engaging.</p>\n\n<p>If the platform won’t accomodate your advertising, it’s time for your advertising to accomodate the platform. A headline and a single teaser sentence make for bad user experience: either find a way to participate in full, or get out altogether. Half-measures suggest a lack of innovation and a willingness to make user experience secondary to revenue, when user experience is what brings (and keeps) the eyeballs that bring (and keep) the advertising dollars.</p>\n\n<p>Why can’t an advertisement be “Flipboard-ized?” Why not include in <em>Wired</em>'s Flipboard stream an article entitled “Ad: Alienware M18x Moves Gaming Laptops into the 21st Century,” accompanied by stunning images of the inner workings and outer design of the machine? This offers the same “unified experience” of which a full-page print magazine ad is capable, but maintains the user experience that makes Flipboard so popular.</p>\n\n<p><strong>Updated 8:30pm:</strong>  <em>Alexia Tsotsis <a href=\"http://techcrunch.com/2012/06/25/die-less-slow/\" target=\"_blank\">briefly interviewed Flipboard CEO Mike McCue</a> about the New York Times’ integration into Flipboard. All digital subscribers to the Times can access the newspaper’s full array of online content via Flipboard. More interesting is the fact that the paper’s Flipboard content will also include advertisements described by McCue as “full page, print style advertising.” I respectfully request some credit for at least independently coming up with the model used by the Flipboard/NYT partnership (I somehow missed Tsotsis’ headline while writing this post), but I’m happy to see someone is at least trying it out.</em></p>\n\n<p>Something like this seems to be working for Facebook on mobile, according <a href=\"http://techcrunch.com/2012/06/19/facebook-mobile-ads/\" target=\"_blank\">a story by Josh Constine at <em>TechCrunch</em></a>. Facebook’s formidable <del>data farm</del> social network struggled to find a viable advertising solution to massive uptake in mobile use, and they appear to be on to something.</p>\n\n<p>Maybe organic inline advertising isn’t the solution for every mobile advertising problem, but it’s an example of the fact that this problem is solvable. My Flipboard/<em>Wired</em> suggestion probably has weaknesses, but let’s have that conversation. Let’s argue about how the interests of publishers, users, and adverstisers, for all of their apparent conflict, often converge on great value propositions: content <em>and</em> ads that are well-built, well-tailored, and complimentary to one another, rather than shoe-horned next to one another in a way that damages the user experience and decreases all forms of value for everyone.</p>\n",
 				"date_published": "2012-06-25T08:00:00-04:00",
 				"url": "https://joeross.me/2012/06/25/flipboard-cond-nast.html",
-				"tags": ["Articles","mobile","facebook","Flipboard","TechCrunch","Condé Nast","Howard Mittman","Josh Constine","Nat Ives","Wired Magazine"]
+				"tags": ["Articles","mobile","facebook","Flipboard","TechCrunch","Conde Nast","Howard Mittman","Josh Constine","Nat Ives","Wired Magazine"]
 			},
 			{
 				"id": "http://joeross.micro.blog/2012/06/12/pirates-of-westeros.html",
