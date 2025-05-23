@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2025/05/23/its-sad-that-pocket-is.html",
+				
+				"content_html": "<p>It&rsquo;s sad that <a href=\"https://getpocket.com/farewell\">Pocket is shutting down</a>, and more sad that that the spammy &ldquo;discovery&rdquo; nonsense Mozilla shoehorned into it, as far as I can tell as a Trojan horse for ads, is going to stick around in some form.</p>\n",
+				"content_text": "It's sad that [Pocket is shutting down](https://getpocket.com/farewell), and more sad that that the spammy \"discovery\" nonsense Mozilla shoehorned into it, as far as I can tell as a Trojan horse for ads, is going to stick around in some form. \n",
+				"date_published": "2025-05-23T08:38:56-04:00",
+				"url": "https://joeross.me/2025/05/23/its-sad-that-pocket-is.html",
+				"tags": ["Links","Notes"]
+			},
+			{
 				"id": "http://joeross.micro.blog/2025/05/17/if-you-like-the-drafts.html",
 				
 				"content_html": "<p>If you like the Drafts app by Agile Tortoise, check out <a href=\"https://directory.getdrafts.com/a/2Yg\">this action I published</a> to use your draft text to search the TestFlight beta tracking website <a href=\"https://departures.to/\">departures.to</a>.</p>\n<p>Cheers to @FloGroh, whose <a href=\"https://directory.getdrafts.com/a/2M7\">open URL in current line</a> action I adapted mine from (and who has a <em>ton</em> of other awesome Drafts actions).</p>\n",
