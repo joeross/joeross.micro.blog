@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2025/06/11/i-dont-think-ive-ever.html",
+				
+				"content_html": "<p>I don&rsquo;t think I’ve ever seen Craig Federighi as nervous as he was in <a href=\"https://youtu.be/NTLk53h7u_k\">this interview where Joanna Stern asked difficult but predictable questions</a> about why, so far, not even artificial intelligence has been able to render Siri mildly useful.</p>\n",
+				"content_text": "I don't think I’ve ever seen Craig Federighi as nervous as he was in [this interview where Joanna Stern asked difficult but predictable questions](https://youtu.be/NTLk53h7u_k) about why, so far, not even artificial intelligence has been able to render Siri mildly useful.\n",
+				"date_published": "2025-06-11T04:27:56-04:00",
+				"url": "https://joeross.me/2025/06/11/i-dont-think-ive-ever.html",
+				"tags": ["Apple","video"]
+			},
+			{
+				"id": "http://joeross.micro.blog/2025/06/06/the-wsj-editorial-board-found.html",
+				
+				"content_html": "<p>🔗 The <em>WSJ</em> Editorial Board <a href=\"https://www.wsj.com/opinion/hear-hear-sotomayor-and-jackson-7c8ae0d0\">found the unanimity of some recent “culture war” SCOTUS decisions surprising</a>. But it’s not: the liberal justices tend to be principled, while the conservatives tend to torture the Constitution for predetermined ideological outcomes.​​​​​​​​​​​​​​​​</p>\n<p><em>(Full article <a href=\"https://archive.is/2025.06.06-051001/https://www.wsj.com/opinion/hear-hear-sotomayor-and-jackson-7c8ae0d0\">here</a></em>)</p>\n",
+				"content_text": "🔗 The _WSJ_ Editorial Board [found the unanimity of some recent “culture war” SCOTUS decisions surprising](https://www.wsj.com/opinion/hear-hear-sotomayor-and-jackson-7c8ae0d0). But it’s not: the liberal justices tend to be principled, while the conservatives tend to torture the Constitution for predetermined ideological outcomes.​​​​​​​​​​​​​​​​\n\n_(Full article [here](https://archive.is/2025.06.06-051001/https://www.wsj.com/opinion/hear-hear-sotomayor-and-jackson-7c8ae0d0)_)\n",
+				"date_published": "2025-06-06T04:33:03-04:00",
+				"url": "https://joeross.me/2025/06/06/the-wsj-editorial-board-found.html",
+				"tags": ["Links"]
+			},
+			{
 				"id": "http://joeross.micro.blog/2025/05/23/its-sad-that-pocket-is.html",
 				
 				"content_html": "<p>It&rsquo;s sad that <a href=\"https://getpocket.com/farewell\">Pocket is shutting down</a>, and more sad that the spammy &ldquo;discovery&rdquo; nonsense Mozilla shoehorned into it, as far as I can tell as a Trojan horse for ads, is going to stick around in some form.</p>\n",
