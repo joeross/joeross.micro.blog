@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://joeross.micro.blog/2025/06/14/never-ever-install-a-developer.html",
+				
+				"content_html": "<p>“Never, <em>ever</em> install a developer beta on your only phone!” I tell everyone who asks 🤪</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "“Never, _ever_ install a developer beta on your only phone!” I tell everyone who asks 🤪 \n\n<img src=\"uploads/2025/1f325a2bed.png\" width=\"276\" height=\"600\" alt=\"iPhone Software Update screen showing iOS 26.0 is up to date\">\n",
+				"date_published": "2025-06-14T17:30:02-04:00",
+				"url": "https://joeross.me/2025/06/14/never-ever-install-a-developer.html"
+			},
+			{
+				"id": "http://joeross.micro.blog/2025/06/11/my-kids-three-and-five.html",
+				
+				"content_html": "<p>My kids, three and five years old, are asking about comics. Give me your family-friendly recommendations!</p>\n<p>#comicbooks</p>\n",
+				"content_text": "My kids, three and five years old, are asking about comics. Give me your family-friendly recommendations!\n\n#comicbooks\n",
+				"date_published": "2025-06-11T19:05:34-04:00",
+				"url": "https://joeross.me/2025/06/11/my-kids-three-and-five.html",
+				"tags": ["Notes"]
+			},
+			{
 				"id": "http://joeross.micro.blog/2025/06/11/i-dont-think-ive-ever.html",
 				
 				"content_html": "<p>I don&rsquo;t think I’ve ever seen Craig Federighi as nervous as he was in <a href=\"https://youtu.be/NTLk53h7u_k\">this interview where Joanna Stern asked difficult but predictable questions</a> about why, so far, not even artificial intelligence has been able to render Siri mildly useful.</p>\n",
